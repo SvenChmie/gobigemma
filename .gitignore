@@ -74,6 +74,11 @@ npm-debug.log
 yarn-error.log
 .pnpm-debug.log
 
+#jekyll
+_site/
+.bundle/
+vendor/
+
 # Environment variables
 .env
 .env.local
