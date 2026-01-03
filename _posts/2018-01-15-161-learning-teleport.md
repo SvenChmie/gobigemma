@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#161 This is How You Teleport"
 date: 2018-01-15
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#118 Mexican Buses Have to be Fish"
 date: 2017-08-02
 categories: 

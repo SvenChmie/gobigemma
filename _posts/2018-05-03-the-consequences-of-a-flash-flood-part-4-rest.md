@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Consequences of a Flash Flood, Part 4: Rest"
 date: 2018-05-03
 categories: 
@@ -32,7 +33,7 @@ As we went through the process to get Big Emma into a container, _If_s were ever
 
 _This document was supposed to be sent yesterday? Oh yeah, there is one more paper to sign? Wait, you can’t tell us what time we should be at the docks?_
 
-\[caption id="attachment\_3729" align="alignright" width="300"\]![](images/Seaboard-Marine-300x300.jpg) Shipping container, Miami, Florida.\[/caption\]
+\[caption id="attachment\_3729" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Seaboard-Marine-300x300.jpg) Shipping container, Miami, Florida.\[/caption\]
 
 Over and over, unforeseen variables would appear with a level of unprofessionalism we were not expecting of people who dealt with international business affairs. And this was not just a problem on the Belizean side - the process felt the same for the office we were in contact with over in Miami, where we also were required to hire a broker. Our path didn’t just make us jump through hoops - we were navigating a bureaucratic obstacle course.
 
@@ -48,7 +49,7 @@ I looked at Sven, sitting on the other end of our bed with his laptop, and spoke
 
 But it was right to repair her at home. Some instinctual part of me knew this. And my head had checked my instinct’s math: every time I asked myself the question, the answer was the same. And yet we kept on asking it.
 
-![](images/On-the-Tow-fullsize-1024x683.jpg)
+![]({{ site.baseurl }}/assets/images/On-the-Tow-fullsize-1024x683.jpg)
 
 Ever since I felt the water rising inside Big Emma, I knew - on some level - what we would do. The moment we opened the hatch - [our first encounter with Big Emma after the flood when she was still laying on her side on the edge of the Sibun river](http://gobigemma.com/2018/03/31/the-consequences…-part-2-recovery/) - I knew it again. We wouldn’t just continue our trip after this, pretending nothing had happened. All of our beautiful wood interior was shot. Who knew what was wrong or damaged with our engine and electrical system? And then there were our other possessions, our life-on-the-road supplies. While this was of the least concern to me, we still had to replace significant portions of it. Even if we could save Big Emma, there would be mountains of work before we could [continue our travels](http://gobigemma.com/2016/06/05/the-big-plan/).
 
@@ -60,7 +61,7 @@ It was easy enough to believe that anyone who saw our Bus in those first 24 hour
 
 While I was relieved that we wouldn’t be burying her, that didn’t actually change much about our current situation. We were looking at months of work. I knew us, knew our Bus-repair-mentality, and I knew that we would never just whip up new cabinets in a jiffy in order to set out again as soon as possible. Big Emma deserved more, and we would give it to her. We would be replacing parts, and we would need all sorts of tools and materials.
 
-![](images/Sunshine-Raintree-300x200.jpg)Did we really want to do that here in Belize, paying every night in the meantime for a hotel? Carlos - our savior, a fountain of generosity - would probably let us fix it at his shop, and he had even offered that we could stay there, too. But did we want to live off of his generosity for that long? Or, even if we got to [Mexico](http://gobigemma.com/2017/03/16/hola-mexico-turning-headlights/) - a country that is significantly cheaper, has better access to VW parts, and has much more flexible visa regulations - were we ready to take on a project like this here, unsupported in Central America? Could we even freelance and continue supporting ourselves, if we were already time-crunching to get Big Emma back into shape as quickly as possible?
+![]({{ site.baseurl }}/assets/images/Sunshine-Raintree-300x200.jpg)Did we really want to do that here in Belize, paying every night in the meantime for a hotel? Carlos - our savior, a fountain of generosity - would probably let us fix it at his shop, and he had even offered that we could stay there, too. But did we want to live off of his generosity for that long? Or, even if we got to [Mexico](http://gobigemma.com/2017/03/16/hola-mexico-turning-headlights/) - a country that is significantly cheaper, has better access to VW parts, and has much more flexible visa regulations - were we ready to take on a project like this here, unsupported in Central America? Could we even freelance and continue supporting ourselves, if we were already time-crunching to get Big Emma back into shape as quickly as possible?
 
 Sven and I both knew the answer. No. We knew us and we knew how we worked. If we shipped her back home, we could work on her in peace. We could offer her the attention, time, and quality of repairs that she deserved.
 
@@ -74,7 +75,7 @@ _But it_ would _be cheaper here,_ I said, watching the fan _whoosh_ past my fiel
 
 Caro and Konsti had left yesterday, and that pang of absent friends had already begun. They were continuing their trip into Guatemala. After all, the plan had been to travel with them in that direction before dropping them off at the airport in Guatemala City. Not only did they need to catch their flight, I could understand if they were tired of shoveling mud on our behalf.
 
-\[caption id="attachment\_3581" align="aligncenter" width="702"\]![](images/Caro-Dirty-Hands-1024x510.jpg) Caro, before and after shoveling some mud.\[/caption\]
+\[caption id="attachment\_3581" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Caro-Dirty-Hands-1024x510.jpg) Caro, before and after shoveling some mud.\[/caption\]
 
 And anyways, we were almost done with the tasks that they could help us with. Using Carlos’ power washer, we had finally removed the majority of the gunk from the car itself, and our surviving possessions had all been washed. Now, I mostly just had to sort them into boxes and figure out how to ship it all home. A process that was frustrating, annoying, boring, all at the same time.
 
@@ -90,7 +91,7 @@ We got into Big Emma, and started the ignition. As we drove out of Carlos’ dri
 
 But they weren’t. Big Emma would be repaired, yes, but she’d never be the same as before.
 
-\[caption id="attachment\_3725" align="aligncenter" width="702"\]![](images/Boxes-in-the-Bus-1024x683.jpg) The inside of the Bus looks oddly empty after being filled with boxes.\[/caption\]
+\[caption id="attachment\_3725" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Boxes-in-the-Bus-1024x683.jpg) The inside of the Bus looks oddly empty after being filled with boxes.\[/caption\]
 
 ### By closing time
 
@@ -106,7 +107,7 @@ _Yeah. Let’s go. It’s better than waiting here._
 
 So we waited at the harbor, having procured an over-the-phone promise that we would be meeting our broker there. At 4 PM, he finally showed up. I rushed to cancel Big Emma’s visa while Sven drove her into the container, the whole process exploding in a flurry of stuff that had to be done immediately. For the second time since [this story began](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), I realized I had forgotten to say goodbye to Big Emma. Although I was more confident this time that she wouldn’t be lost to a watery grave, I continued to think of her safety.
 
-\[caption id="attachment\_3586" align="aligncenter" width="702"\]![](images/Teleporting-1024x510.jpg) Big Emma enters the shipping container.\[/caption\]
+\[caption id="attachment\_3586" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Teleporting-1024x510.jpg) Big Emma enters the shipping container.\[/caption\]
 
 I returned to our meeting spot and checked my email on my phone. A new message from our contact at the shipping company had arrived 15 minutes ago. _Please be advised_, it read, _your payment has to be made by closing today or your vehicle will not be shipped. Our opening hours are Monday - Friday, 8 AM to 5 PM_.
 
@@ -120,7 +121,7 @@ We spent the next four days as normal, average tourists. We took a boat to Caye 
 
 Besides playing telephone with our broker and continuing to sort things out on the Miami side, we didn’t have a lot to do. We listened to podcasts, played checkers, drank a beer on the beach. We made pancakes for breakfast and avoided spending money. But we couldn’t shake everything else.
 
-\[caption id="attachment\_2404" align="alignright" width="300"\]![](images/Good-Morning-Big-Emma-300x200.jpg) For a year and a half, the three of us have barely been apart; but for the time being, it was time to go our separate ways.\[/caption\]
+\[caption id="attachment\_2404" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Good-Morning-Big-Emma-300x200.jpg) For a year and a half, the three of us have barely been apart; but for the time being, it was time to go our separate ways.\[/caption\]
 
 We took the boat back in time for me to catch a ride to the airport. Big Emma was scheduled to arrive in Miami tomorrow. I would fly to Florida today and spend the night a family friends’ house. Sven would travel to [Cancún](http://gobigemma.com/2017/11/23/hidden-in-the-jungle-real-life-on-the-riviera-maya/) and fly to Belgium from there - it was the cheapest flight to Europe we could find.
 
@@ -138,7 +139,7 @@ I looked at the scratches on her driver’s side, pondered her broken fog lights
 
 Big Emma’s broken lights didn’t hide that glint. _I never doubted it_, she said. _I’m gonna rest now_.
 
-\[caption id="attachment\_3583" align="aligncenter" width="702"\]![](images/Home-sweet-home-cut-1024x510.jpg) Big Emma, Urbana, Illinois.\[/caption\]
+\[caption id="attachment\_3583" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Home-sweet-home-cut-1024x510.jpg) Big Emma, Urbana, Illinois.\[/caption\]
 
 * * *
 

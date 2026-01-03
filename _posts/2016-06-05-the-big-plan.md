@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Big \"Plan\""
 date: 2016-06-05
 categories: 
@@ -16,7 +17,7 @@ We have not yet begun our coming journey. At the moment, Sven, Big Emma, and I a
 
 So, what happens next? Where do we go after the beginning? Well, that’s exactly the question to be posed.
 
-[![Lonely-Planet-ALASKA](images/Lonely-Planet-ALASKA-200x300.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/05/Lonely-Planet-ALASKA.jpg)
+[![Lonely-Planet-ALASKA]({{ site.baseurl }}/assets/images/Lonely-Planet-ALASKA-200x300.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/05/Lonely-Planet-ALASKA.jpg)
 
 “Next” is mid-June, our scheduled departure date. The days where we will say our next rounds of goodbyes, wave, shut the sliding door with an enthusiastic “shhhhhhhnnnnnnnt!” and turn our “actually leaving in Big Emma”-playlist on. We will smile, and hit the open road. Let the unscheduledness begin! The first stops on the way to Canada will be various friends and familiar faces on the border to the Rockies - Wyoming, [Montana](http://www.gobigemma.com/2016/07/27/missoula-is-for-everybody/) - and up towards Calgary. And then the wide stretches of Northwestern Canada. And then [Alaska](http://www.gobigemma.com/2016/08/18/alaska-the-land-of-dreams/).
 
@@ -28,7 +29,7 @@ Winter on the West Coast. I’ve never been to Seattle, or [Vancouver](http://ww
 
 And so comes the unambiguous temporal bliss. After that, we will just be headed South. [On our own schedule](http://www.gobigemma.com/2017/03/02/dont-speed-slow-travel-best-travel/), going where it makes sense, where we want to go, on our own timeline. Spontaneity will rule our world. We will take pictures, write, and wake up where we want to. [Mexico](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), Guatemala, Belize. Confined only by the [visas](http://www.gobigemma.com/2016/12/08/crossing-the-line-entering-usa-via-land-border/) we are offered, we will explore to our heart’s content. Meet people. Be warm. Starting here, there is no schedule except the one we want to keep.
 
-[![Big-Plan-2](images/Big-Plan-2-300x150.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/05/Big-Plan-2.jpg)
+[![Big-Plan-2]({{ site.baseurl }}/assets/images/Big-Plan-2-300x150.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/05/Big-Plan-2.jpg)
 
 And, of course, the one Big Emma will sometimes insist on imposing upon us. Which she will. All of this, every day, is dependent upon Big Emma and how well we can get her started every morning. Maybe she will insist on seeing the Alaskan winter. Maybe she wants to see summer in California. Maybe she just wants to get the colder stretches over with so she can bathe in tropical sunlight. [Fixing the Bus](http://www.gobigemma.com/2016/06/17/the-bus-god-or-on-the-road-to-becoming-an-amateur-vw-mechanic/) will become a theme of daily life, whether we are in Anchorage or Panama City or Lima. This will determine how far, how fast, how long. What we have is not a plan. It is not certain, not determined, [not going to look like I’ve described it here](http://gobigemma.de/2017/07/27/living-the-dream-is-doing-the-impossible/) in practice.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#15 It Stopped Raining!"
 date: 2016-11-23
 categories: 

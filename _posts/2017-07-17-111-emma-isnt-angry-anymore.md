@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#111 Emma isn't Angry at Me Anymore"
 date: 2017-07-17
 categories: 

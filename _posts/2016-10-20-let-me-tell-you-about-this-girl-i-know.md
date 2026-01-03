@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Let Me Tell You About this Girl I Know..."
 date: 2016-10-20
 categories: 
@@ -17,7 +18,7 @@ She is our partner in crime, our method of transportation, our [home](http://www
 
 ### We are not only Big Emma's companions...
 
-\[caption id="attachment\_791" align="aligncenter" width="702"\]![companions](images/Companions-1024x420.jpg) Into the woods!\[/caption\]
+\[caption id="attachment\_791" align="aligncenter" width="702"\]![companions]({{ site.baseurl }}/assets/images/Companions-1024x420.jpg) Into the woods!\[/caption\]
 
 She has her [good days](http://www.gobigemma.com/2016/11/30/18-good-mood/) and her bad ones, she [likes to go to some places](http://www.gobigemma.com/2016/12/02/19-favorite-forest/) and [despises others](http://www.gobigemma.com/2016/11/28/17-portland-boring-even-cool-waterfalls/), and just like with any travel companion, we need to be on good terms with her to make the trip fun. If she is upset, our day might suck, but if she's doing good, we'll fly up and down mountains like it's nothing. She is a loyal companion, staying out in the rain just to keep us dry, sweating up hills so we don't have to. In fact, we consider ourselves her companions. In the end, she is the one who gets us places, she is the one who wins over the hearts of people in the street just by looking gorgeous straight out of bed in the morning. We, well, we simply have the privilege of being along for the ride.
 
@@ -25,7 +26,7 @@ She has her [good days](http://www.gobigemma.com/2016/11/30/18-good-mood/) and h
 
 And while she will always look sweet as pie to any stranger, this girl is a lot of work. She is moody, and under the crust of her youthful appearance there are wrinkles and aches, the pinching little pains of getting older. Besides being Big Emma's mates on this trip, we are also her doctors. Unfortunately for her, we dropped out of med school before graduation, but we try to make it up by caring more than any hired doctor ever would, that extra bit that you can only care as friends. One day it's her distributor points that need aligning, another day the rain comes into one of the windows in the front. One day the sliding door suddenly refuses to lock, although it was fine just an hour ago. When she demands attention, we have no choice but to comply. We're still learning to cater to her occasionally overpowering spontaneity.
 
-\[caption id="attachment\_786" align="aligncenter" width="702"\]![emma_under_bus](images/Emma_under_Bus-1024x490.jpg) Doc Emma at work. "Does it hurt when I pull on this?" "Ouch!" - Image by Klim Bulygin\[/caption\]
+\[caption id="attachment\_786" align="aligncenter" width="702"\]![emma_under_bus]({{ site.baseurl }}/assets/images/Emma_under_Bus-1024x490.jpg) Doc Emma at work. "Does it hurt when I pull on this?" "Ouch!" - Image by Klim Bulygin\[/caption\]
 
 ### Go Big Emma, go!
 

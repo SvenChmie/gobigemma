@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#5: Look at my New Bus Friends"
 date: 2016-10-31
 categories: 

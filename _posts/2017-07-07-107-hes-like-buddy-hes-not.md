@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#107 He's Like Buddy but he's Not"
 date: 2017-07-07
 categories: 

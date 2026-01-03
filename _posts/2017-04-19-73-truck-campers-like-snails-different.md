@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#73 Truck Campers are Like Snails, But Different"
 date: 2017-04-19
 categories: 

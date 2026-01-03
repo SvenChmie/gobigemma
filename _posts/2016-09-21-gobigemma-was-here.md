@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "GoBigEmma Was Here"
 date: 2016-09-21
 categories: 

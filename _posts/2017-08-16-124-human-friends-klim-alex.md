@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#124 These are My Other Human Friends Klim and Alex"
 date: 2017-08-16
 categories: 

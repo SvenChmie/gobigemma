@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sunset on the Dalton Highway"
 date: 2016-09-13
 categories: 

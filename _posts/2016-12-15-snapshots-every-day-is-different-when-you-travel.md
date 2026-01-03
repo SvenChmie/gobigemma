@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Snapshots: Every Day is Different when you Travel"
 date: 2016-12-15
 categories: 
@@ -22,7 +23,7 @@ It is pouring. Drenching. We have found a pretty [awesome free camp spot](http:/
 
 ### The best view is through the sliding door
 
-![](images/Aurora-300x300.jpg)I am brushing my teeth. “Oh, look, the Aurora!” exclaims our friend, as we all step out of the Bus through the sliding door and turn our heads toward the sky. We look, and see green, ghostly shadows start to waltz through the night. But only to the East; the West is still lit, at nearly midnight, with the last lonely rays of the twilight sun. We are just South of the [Arctic Circle](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/), at the top of a ridge overlooking miles of desert-like wilderness, of small bushes and scraggling trees. I watch the sky, an amazing sight. I have never seen the Aurora before. It is cold, and I’ve been tired for hours, so I finish brushing my teeth and climb into bed. But we leave the sliding door open, so I can watch the sky as it pulses with light and when it starts to fade, I close my eyes.
+![]({{ site.baseurl }}/assets/images/Aurora-300x300.jpg)I am brushing my teeth. “Oh, look, the Aurora!” exclaims our friend, as we all step out of the Bus through the sliding door and turn our heads toward the sky. We look, and see green, ghostly shadows start to waltz through the night. But only to the East; the West is still lit, at nearly midnight, with the last lonely rays of the twilight sun. We are just South of the [Arctic Circle](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/), at the top of a ridge overlooking miles of desert-like wilderness, of small bushes and scraggling trees. I watch the sky, an amazing sight. I have never seen the Aurora before. It is cold, and I’ve been tired for hours, so I finish brushing my teeth and climb into bed. But we leave the sliding door open, so I can watch the sky as it pulses with light and when it starts to fade, I close my eyes.
 
 * * *
 
@@ -34,7 +35,7 @@ The Bus is dark, the curtains are closed. We are trying not to move around too m
 
 ### All that damn water
 
-![](images/Rain_Square-300x300.jpg)It feels like the thousandth time we’ve done this. We take the clip that is magneted to the inside of the Bus behind behind the passenger headrest, and take the rags. I hand one to Sven and he starts to wipe away the condensation that has built up on our windshield over the night; I do the same to my side. And on the windows of the door. And then again, because the damn water just won’t stay away, and Sven can barely see anything out the windows. But the only real solution is to drive. Air is pushed through the car when we drive, it’s how our defrost works. So we wipe, we drive, and after about ten perilous minutes, we can finally see something and find our way out of this unnamed Oregonian forest.
+![]({{ site.baseurl }}/assets/images/Rain_Square-300x300.jpg)It feels like the thousandth time we’ve done this. We take the clip that is magneted to the inside of the Bus behind behind the passenger headrest, and take the rags. I hand one to Sven and he starts to wipe away the condensation that has built up on our windshield over the night; I do the same to my side. And on the windows of the door. And then again, because the damn water just won’t stay away, and Sven can barely see anything out the windows. But the only real solution is to drive. Air is pushed through the car when we drive, it’s how our defrost works. So we wipe, we drive, and after about ten perilous minutes, we can finally see something and find our way out of this unnamed Oregonian forest.
 
 * * *
 
@@ -46,7 +47,7 @@ I hurry and shake as I search for the warmest clothes I have, sitting in the mid
 
 ### I just sand and sand and sand
 
-![](images/Sanding-the-Rotars-300x300.jpg)I have been sanding away for hours. Back and forth and back and forth. And back and forth. I switch hands, my right hand is tired. My left hand doesn’t have such a good angle to scrape effectively, but it's better than just taking a break. It is hot, everywhere. The sun beats down on my back and I sweat and take a sip of water. And then I keep sanding. The Denver sun doesn’t cast shade on the front rotor that I am working away at, millimeter by millimeter. I curse and wish it wasn’t so damn hot, that I didn’t have to sit sweating on the dirty, dusty floor. But it is important that we fix our Bus. _Seriously?_ I think for the thousandth time, _We really [broke down](http://www.gobigemma.com/2016/07/06/will-not-defeated/) after only_ one _week on the road? How could we have been so stupid?_ So I continue to sand. I sand, and sand, and sand, and wonder if it will ever end.
+![]({{ site.baseurl }}/assets/images/Sanding-the-Rotars-300x300.jpg)I have been sanding away for hours. Back and forth and back and forth. And back and forth. I switch hands, my right hand is tired. My left hand doesn’t have such a good angle to scrape effectively, but it's better than just taking a break. It is hot, everywhere. The sun beats down on my back and I sweat and take a sip of water. And then I keep sanding. The Denver sun doesn’t cast shade on the front rotor that I am working away at, millimeter by millimeter. I curse and wish it wasn’t so damn hot, that I didn’t have to sit sweating on the dirty, dusty floor. But it is important that we fix our Bus. _Seriously?_ I think for the thousandth time, _We really [broke down](http://www.gobigemma.com/2016/07/06/will-not-defeated/) after only_ one _week on the road? How could we have been so stupid?_ So I continue to sand. I sand, and sand, and sand, and wonder if it will ever end.
 
 * * *
 
@@ -58,7 +59,7 @@ We are walking back to Big Emma, which is parked in our host’s driveway for th
 
 ### It's time to move on
 
-![](images/Untitled-4-300x300.jpg)This will be our last weekend in the Pacific North West. We are in southern Oregon. We were waiting for this weekend, so we could spend it [with our friends](http://www.gobigemma.com/2016/10/06/vanlifers-fellow-travelers-friends-family/) before we head south for a long, long time. We have some cool friends, who actually rented a cabin for the week and invited us to come over. It has been very cold in the Bus at night, and really really rainy. But here we sleep inside, the snow falling in soft, fat flakes outside and we watch the Bus get covered with it. I enjoy the luxuries of a fireplace, an oven, an indoor bathroom, and relaxing company. It is peaceful. And a log cabin, wood and nature surrounding you even here. The fire is warm, and I sit and write as I think about how much we have liked the rainy, jungly PNW. But it is time to move on, time to head to California, time to [live in our Bus](http://gobigemma.de/2017/05/11/just-another-day-bus/) again through highs and lows and whatever the road has to offer us. Time to run away from winter once more. We’ll start on that tomorrow. Or the next day.
+![]({{ site.baseurl }}/assets/images/Untitled-4-300x300.jpg)This will be our last weekend in the Pacific North West. We are in southern Oregon. We were waiting for this weekend, so we could spend it [with our friends](http://www.gobigemma.com/2016/10/06/vanlifers-fellow-travelers-friends-family/) before we head south for a long, long time. We have some cool friends, who actually rented a cabin for the week and invited us to come over. It has been very cold in the Bus at night, and really really rainy. But here we sleep inside, the snow falling in soft, fat flakes outside and we watch the Bus get covered with it. I enjoy the luxuries of a fireplace, an oven, an indoor bathroom, and relaxing company. It is peaceful. And a log cabin, wood and nature surrounding you even here. The fire is warm, and I sit and write as I think about how much we have liked the rainy, jungly PNW. But it is time to move on, time to head to California, time to [live in our Bus](http://gobigemma.de/2017/05/11/just-another-day-bus/) again through highs and lows and whatever the road has to offer us. Time to run away from winter once more. We’ll start on that tomorrow. Or the next day.
 
 * * *
 

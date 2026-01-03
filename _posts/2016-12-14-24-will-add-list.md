@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#24 I Will Add Them to My List"
 date: 2016-12-14
 categories: 

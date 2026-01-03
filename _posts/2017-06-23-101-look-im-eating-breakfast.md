@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#101 Look, I'm Eating Breakfast!"
 date: 2017-06-23
 categories: 

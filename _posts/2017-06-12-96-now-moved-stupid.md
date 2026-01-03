@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#96 Now we Moved but Here is Stupid Too"
 date: 2017-06-12
 categories: 

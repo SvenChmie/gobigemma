@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#74 I Have Decided that the Ocean is Not Scary!"
 date: 2017-04-21
 categories: 

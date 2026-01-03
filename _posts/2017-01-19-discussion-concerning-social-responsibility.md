@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Discussion Concerning Social Responsibility"
 date: 2017-01-19
 categories: 
@@ -16,7 +17,7 @@ I studied to be a teacher, as I have [mentioned before on this blog](http://www.
 
 ### The decision not to teach
 
-\[caption id="attachment\_1379" align="alignright" width="225"\]![](images/Emma-MA-Thesis-225x300.jpg) Me and my completed thesis (December 2015)\[/caption\]
+\[caption id="attachment\_1379" align="alignright" width="225"\]![]({{ site.baseurl }}/assets/images/Emma-MA-Thesis-225x300.jpg) Me and my completed thesis (December 2015)\[/caption\]
 
 It was a conscious decision to not become a full-time teacher. I wasn't 100% sure, even after years of study, if that was what I wanted to do. I have a lot of friends who I went to school with who are now teachers, and many of them are continually stressed and are often not particularly satisfied with their current position, students, or faculty. This did not do a lot to heighten my motivation - I am particularly prone to stress in situations concerning my performance, and I didn’t like the prospect of a career that heavily consisted of looking forward to my next summer [vacation](http://gobigemma.de/2017/02/09/vanlife-is-not-a-vacation/).
 
@@ -34,7 +35,7 @@ But did that mean that what I was doing didn’t play a role, didn’t count? Wa
 
 Which brings us to the root of this discussion: are travel and vanlife things that arise out of selfishness - and if so, is that a bad thing - or do we see other purposes behind the life that we have chosen? Why was traveling important to me in the first place?
 
-![](images/Emma-on-Computer-1024x546.jpg)
+![]({{ site.baseurl }}/assets/images/Emma-on-Computer-1024x546.jpg)
 
 ### Cultural exchange and intercultural communication
 
@@ -48,7 +49,7 @@ Anyways, this is what we are really into. Seeing places in foreign countries is 
 
 And let’s extend this idea for a second. We haven’t [entered Central or South America](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/) yet. When we do, everything will be in Spanish, everything will be very Latino, and intercultural communication will become one of the most important pillars of our daily lives, for _years_ to come. I can’t wait. [So far, our entire trip, over six months of travel, has only taken place in the United States and Canada](http://www.gobigemma.com/2017/03/09/goodbye-usa-a-look-in-the-rear-view-mirror/), cultures we consider to be very close to home.
 
-\[caption id="attachment\_1389" align="aligncenter" width="702"\]![camping](images/HV_Adventuire-1024x579.jpg) Camping with [HVAdventure](https://www.instagram.com/hvadventure/) in Joshua Tree\[/caption\]
+\[caption id="attachment\_1389" align="aligncenter" width="702"\]![camping]({{ site.baseurl }}/assets/images/HV_Adventuire-1024x579.jpg) Camping with [HVAdventure](https://www.instagram.com/hvadventure/) in Joshua Tree\[/caption\]
 
 There are, of course, [cultural aspects](http://www.gobigemma.com/category/language-and-culture/) in these regions to experience and discover as well - and we do - but they are harder to see, less obvious than in other countries. But here, traveling like this, the principle behind cultural exchange still applies - we meet so many people, many more than we ever would at home, who are different from us, with different life stories, different backgrounds, and who like to eat different things for dinner than we do. It is not 100% _inter_cultural, but cultural it is. We still learn about people, life, and understanding of the other, and people learn this from us in return.
 

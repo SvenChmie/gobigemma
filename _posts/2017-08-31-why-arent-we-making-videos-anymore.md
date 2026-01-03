@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why Aren't We Making Videos Anymore?"
 date: 2017-08-31
 categories: 
@@ -22,7 +23,7 @@ To make a 6 minute video - the average duration of the videos we’ve made so fa
 
 Working on videos became a time when I was not working on writing (blogging or freelancing). I realized that I could be producing written media - blog posts with quality photographs - for a fraction of the time. And not only was investing my time into writing instead of videos more time-efficient, it was what I was _good at_ and _liked_ to do.
 
-![](images/Mirror-Chiapas-1024x683.jpg)
+![]({{ site.baseurl }}/assets/images/Mirror-Chiapas-1024x683.jpg)
 
 I began this journey with the intention of [writing a blog](http://gobigemma.de/2016/11/17/popular-questions-blog/) - this blog. Videos came around as a way to balance that, to give our audience something they could passively consume rather than the activeness required to read an article such as this one. But why invest my time in something that was both expensive (regarding time) and not my strong suit? No, I realized that I was much more comfortable with the written word instead.
 
@@ -36,7 +37,7 @@ From what we saw of Hasta Alaska, who are still finishing up their video series 
 
 In fact, because Hasta Alaska has turned video production into successful monetary gain, they are almost forced to continue, whether they want to or not. They have gained enough momentum to say, _If we stop now, why did we work so hard in the first place?_ Not only would Hasta Alaska lose their income-base if they were to stop producing videos, they would also lose their followers. To do so would be the equivalent of starting from scratch. Although videos may be their passion, it comes with a price.
 
-\[caption id="attachment\_3181" align="aligncenter" width="702"\]![](images/Sunset-Photographer-1024x682.jpg) Sunset photography moments (April 2017 - Todos Santos, Baja California Sur). Photo by [Drive2Ski](https://www.instagram.com/drive2ski/).\[/caption\]
+\[caption id="attachment\_3181" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Sunset-Photographer-1024x682.jpg) Sunset photography moments (April 2017 - Todos Santos, Baja California Sur). Photo by [Drive2Ski](https://www.instagram.com/drive2ski/).\[/caption\]
 
 ### Time is a factor in vanlife-made media
 
@@ -44,7 +45,7 @@ Many vanlifers who attempt to make media are faced with this same predicament, w
 
 This is also the reason why many vanlifers choose to focus their media-making efforts on platforms like Instagram and Facebook. They require short attention spans, both to produce and to consume. It is an easy way to build and reach an audience. Your media then lives in a world where others spread it around for you, which gives you the chance to reach even more people. Unlike a blog or a Youtube channel, it is very easy to pass media from one hand to another, with little effort on your part as a content maker.
 
-\[caption id="attachment\_3182" align="aligncenter" width="702"\]![](images/Whats-on-your-phone-Sven-cut-1024x1024.jpg) Photo by Anna Lünig.\[/caption\]
+\[caption id="attachment\_3182" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Whats-on-your-phone-Sven-cut-1024x1024.jpg) Photo by Anna Lünig.\[/caption\]
 
 We are no different - we also use these platforms to convey small instances of our story that can be consumed quickly. A daily update, if you will. It gives people the chance to follow our story who have either not noticed that we write a blog or do not feel like reading over 1000 words a week. It also gives us an outlet for smaller stories that may not have had a place in one of our longer narratives. Our social media stories also give the audience that is following our blog a more detailed, colorful picture of our adventure. It gives you story elements - and photos - that you might not get anywhere else.
 

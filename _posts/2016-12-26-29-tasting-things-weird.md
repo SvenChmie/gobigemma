@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#29 Tasting Things is Weird"
 date: 2016-12-26
 categories: 

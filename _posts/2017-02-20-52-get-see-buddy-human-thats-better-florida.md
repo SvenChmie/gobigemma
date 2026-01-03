@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#52 I Get to See Buddy and his Human Again and that's Better than Florida!"
 date: 2017-02-20
 categories: 

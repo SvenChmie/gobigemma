@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#139 Oh No All the Dinosaurs are Dead!"
 date: 2017-10-11
 categories: 

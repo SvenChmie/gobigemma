@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#77 My New Friend Annika is Like an Old Friend Too"
 date: 2017-04-28
 categories: 

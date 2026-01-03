@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#87 We have to Cross the Ocean! But I get to Ride on a Boat"
 date: 2017-05-22
 categories: 

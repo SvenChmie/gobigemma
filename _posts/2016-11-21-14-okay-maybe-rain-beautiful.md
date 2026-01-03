@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#14 Okay, So Maybe Rain is Beautiful Too..."
 date: 2016-11-21
 categories: 

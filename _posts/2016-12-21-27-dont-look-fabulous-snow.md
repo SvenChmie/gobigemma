@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#27 Don't we look Fabulous in the Snow?"
 date: 2016-12-21
 categories: 

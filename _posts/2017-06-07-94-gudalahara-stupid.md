@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#94 Gudalahara is Stupid Too"
 date: 2017-06-07
 categories: 

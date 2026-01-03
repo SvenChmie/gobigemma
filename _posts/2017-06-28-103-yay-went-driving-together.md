@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#103 Yay we Went Driving Together Again!"
 date: 2017-06-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#61 Now I know what Itchy is"
 date: 2017-03-15
 categories: 

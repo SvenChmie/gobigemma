@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Look, We got a Window Sticker!"
 date: 2016-07-17
 categories: 

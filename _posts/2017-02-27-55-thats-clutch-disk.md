@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#55 That's My Clutch Disk"
 date: 2017-02-27
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mirror, Mirror on the Wheel"
 date: 2016-08-02
 categories: 

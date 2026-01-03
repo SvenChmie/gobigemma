@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Curtains of Northern Lights"
 date: 2016-09-28
 categories: 

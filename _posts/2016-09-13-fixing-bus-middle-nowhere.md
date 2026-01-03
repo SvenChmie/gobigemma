@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fixing the Bus....In the Middle of Nowhere"
 date: 2016-09-13
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wyoming Sunset"
 date: 2016-07-10
 categories: 

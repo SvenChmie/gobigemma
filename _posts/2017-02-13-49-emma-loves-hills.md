@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#49 Emma Loves the Hills"
 date: 2017-02-13
 categories: 

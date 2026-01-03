@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#149 Of course I'm the Best Because I'm Beautiful!"
 date: 2017-12-11
 categories: 

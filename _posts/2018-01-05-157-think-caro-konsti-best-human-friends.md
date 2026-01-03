@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#157 I Think Caro and Konsti are My Best Human Friends"
 date: 2018-01-05
 categories: 

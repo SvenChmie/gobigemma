@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "In Sickness and in Health: Medical Issues and Vanlife"
 date: 2017-06-29
 categories: 
@@ -22,7 +23,7 @@ We had hit the road early and were planning to go see legendary Slab City and it
 
 Instead, after breakfast for us and a gas station stop for the Bus, things started to turn sour. As Emma's throat and nose clogged up, her body went into full defense mode and quickly developed a light fever and a feeling of overall nausea. If that wasn't enough, Big Emma also started acting up, cutting out on me on the highway, even stalling completely once while going 50 miles an hour. So there I was, in the California desert, with big plans for the day and a long way to drive until the safe haven that was Kent's house in Palm Springs.
 
-\[caption id="attachment\_2573" align="aligncenter" width="702"\]![Dead fish at the Salton Sea](images/Dead_Salton-1024x510.jpg) At the Salton Sea. "Things are starting to turn sour here" might have been this guy's famous last words.\[/caption\]
+\[caption id="attachment\_2573" align="aligncenter" width="702"\]![Dead fish at the Salton Sea]({{ site.baseurl }}/assets/images/Dead_Salton-1024x510.jpg) At the Salton Sea. "Things are starting to turn sour here" might have been this guy's famous last words.\[/caption\]
 
 With both Emmas sick, it was quickly decided to overthrow our plans and just try to make it to Kent's instead. There, we would have a stationary bed for Emma and a driveway and tools for the Bus. But would we get there, with the engine cutting out every few minutes due to an unknown cause? What if Emma's fever would suddenly get worse in this heat, what if we needed a doctor?
 
@@ -36,7 +37,7 @@ But even though we get sick less often on the road, it sucks when we do. During 
 
 My stomach had held out for most of the day, but it seemed to sense that we were getting closer to our resting place for the night. With every hairpin curve, it pinched a little more. We camped on a grassy path in the overgrown crater, the volcano slumbering below us, giving itself away through a few smoke clouds rising from nearby rock formations. What if the volcano would erupt? It's last major activity dated over a century ago, but who knew, maybe tonight was the night?
 
-\[caption id="attachment\_2576" align="aligncenter" width="702"\]![Camping in a volcano](images/Crater-1024x509.jpg) Camping in the caldera of a volcano is pretty cool. Unless you're sick. Or the volcano erupts.\[/caption\]
+\[caption id="attachment\_2576" align="aligncenter" width="702"\]![Camping in a volcano]({{ site.baseurl }}/assets/images/Crater-1024x509.jpg) Camping in the caldera of a volcano is pretty cool. Unless you're sick. Or the volcano erupts.\[/caption\]
 
 It ended up being a quiet night. The next day, I didn't exactly feel better, but I wasn't worse either. But what if I had? An unexpected eruption of a sleeping volcano is extremely unlikely, but countless examples in history show us that it's not impossible, not even out of the ordinary. Just the same, it was unlikely that I would for some reason suddenly need medical attention or specific medicine, but it wasn't impossible. And if I did, there would be no way to get it. On top of a volcano, far from the next human soul or wave of cell phone service that could emulate one.
 
@@ -54,7 +55,7 @@ While getting qualified medical advice might be somewhat harder for us in Latin 
 
 "What can I help you with today?" she asks in Spanish. We ask for the antibiotic we want. She finds it on one of the shelves and scans it into the computer. "I have to ask you," she says, turning to face us, "do you have a prescription for this?" "No, we don't" we answer truthfully. "We don't need it now, it's just that we're traveling and we'd like to have it in case we need it on top of a volcano some day." She hesitates for a second, then she says "Let me call my boss and see if I am allowed to sell it to you." A short phone call later, we're leaving the hole-in-the-wall pharmacy with our prescription antibiotics in hand.
 
-\[caption id="attachment\_2575" align="aligncenter" width="702"\]![First aid kit](images/Medkit-1024x509.jpg) The contents of our first aid kit. Notice the antibiotics on the lower left.\[/caption\]
+\[caption id="attachment\_2575" align="aligncenter" width="702"\]![First aid kit]({{ site.baseurl }}/assets/images/Medkit-1024x509.jpg) The contents of our first aid kit. Notice the antibiotics on the lower left.\[/caption\]
 
 ### We have to get off the road
 

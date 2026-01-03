@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Popular Questions: Why so Many Emmas?"
 date: 2016-09-08
 categories: 
@@ -27,4 +28,4 @@ Just one in a series of coincidences regarding Big Emma's origin, the story just
 
 Of course, there is only one more piece of information you need in order to understand just how perfect Big Emma and I are for each other: we loved each others colors from the moment we met.
 
-\[caption id="attachment\_511" align="aligncenter" width="1600"\][![Big and Little Emma, ca. August 2012](images/Big_and_little_Emma.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/08/Big_and_little_Emma.jpg) Big and Little Emma, ca. August 2012, Photo Credit: Andrew Fell\[/caption\]
+\[caption id="attachment\_511" align="aligncenter" width="1600"\][![Big and Little Emma, ca. August 2012]({{ site.baseurl }}/assets/images/Big_and_little_Emma.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/08/Big_and_little_Emma.jpg) Big and Little Emma, ca. August 2012, Photo Credit: Andrew Fell\[/caption\]

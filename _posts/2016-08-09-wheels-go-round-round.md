@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why the Wheels go Round and Round"
 date: 2016-08-09
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New on GoBigEmma"
 date: 2017-11-20
 categories: 

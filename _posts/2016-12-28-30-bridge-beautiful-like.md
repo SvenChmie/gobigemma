@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#30 This Bridge is Beautiful, Like Me!"
 date: 2016-12-28
 categories: 

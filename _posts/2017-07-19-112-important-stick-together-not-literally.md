@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#112 It's Important to Stick Together but Not Literally"
 date: 2017-07-19
 categories: 

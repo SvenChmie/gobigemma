@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#79 That Is a Good Place to Sit I Guess"
 date: 2017-05-03
 categories: 

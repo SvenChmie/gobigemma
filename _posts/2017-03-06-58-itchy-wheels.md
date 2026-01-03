@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#58 Itchy Wheels"
 date: 2017-03-06
 categories: 

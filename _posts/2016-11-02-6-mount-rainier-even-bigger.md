@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#6 Mount Rainier is even Bigger than Me!"
 date: 2016-11-02
 categories: 

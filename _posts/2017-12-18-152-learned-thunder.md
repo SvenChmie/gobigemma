@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#152 I Learned All About Thunder"
 date: 2017-12-18
 categories: 

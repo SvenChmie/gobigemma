@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#23 The Reason We Came Here in the First Place"
 date: 2016-12-12
 categories: 

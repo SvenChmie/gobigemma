@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#141 They Made Me Get Insurance in Belize!"
 date: 2017-11-22
 categories: 

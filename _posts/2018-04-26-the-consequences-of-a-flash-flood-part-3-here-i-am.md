@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Consequences of a Flash Flood, Part 3: Here I Am"
 date: 2018-04-26
 categories: 
@@ -22,7 +23,7 @@ Big Emma was sitting in a muddy mechanic's yard. The tropical rain was falling h
 
 Since the night Carlos had towed Big Emma here, this yard had been our workplace. Every day, we would walk here and work on the Bus. Each day we would get drenched in the rain, then bathed again in sunshine. Each day, we would save some of our belongings, while others would turn out to be beyond help.
 
-\[caption id="attachment\_3759" align="aligncenter" width="702"\]![big-emma-muddy](images/Caked-1024x512.jpg) The inside of Big Emma before we began to clean her\[/caption\]
+\[caption id="attachment\_3759" align="aligncenter" width="702"\]![big-emma-muddy]({{ site.baseurl }}/assets/images/Caked-1024x512.jpg) The inside of Big Emma before we began to clean her\[/caption\]
 
 ### True friendship smells like gasoline
 
@@ -44,7 +45,7 @@ Every once a while, one of the mechanics would go through our designated garbage
 
 _Go ahead and take it_, we would say.
 
-\[caption id="attachment\_3757" align="aligncenter" width="702"\]![wheelbarrow](images/Resurrection_day_2-1024x512.jpg) Out into the mud, out into the wheelbarrow, out with it!\[/caption\]
+\[caption id="attachment\_3757" align="aligncenter" width="702"\]![wheelbarrow]({{ site.baseurl }}/assets/images/Resurrection_day_2-1024x512.jpg) Out into the mud, out into the wheelbarrow, out with it!\[/caption\]
 
 Our flashlights, our walkie-talkies, even our drone we gave away. The chemicals in the battery packs had been boiled in their shells by a short circuit. The electronics were fried. With lots of work, maybe it was fixable. For us, it would be easier to one day buy a drone again if we really wanted one. A Belizean mechanic would have to work much longer to be able to afford one. If he could fix it, good for him.
 
@@ -64,7 +65,7 @@ Or was it? She might not have a personality, but fierceness was nonetheless on
 
 The engine computer. We could only clean it and hope for the best, there was no way to test it. We would only know if it worked when the car would or wouldn't run. Until then, we had to wait. In the meantime, we had to expose every piece of Big Emma to as much air and heat as possible, so the water could evaporate before it would begin to oxidize the metal. Piece by piece, we installed the cleaned parts back into the car. I felt like a surgeon connecting the cables and hoses and pipes. I was performing an emergency operation, and my patient's life depended on it. Her future. And not only hers, mine as well. What would we do if something was broken we couldn't replace? Carlos was handy with fixing cars, but he was not a magician. If the computer was toast, what would we do? We sure wouldn’t be driving out of here in that case.
 
-\[caption id="attachment\_3760" align="aligncenter" width="702"\]![Carlos](images/Carlos-2-1024x431.jpg) Carlos, our savior, pondering Big Emma's engine with us one night\[/caption\]
+\[caption id="attachment\_3760" align="aligncenter" width="702"\]![Carlos]({{ site.baseurl }}/assets/images/Carlos-2-1024x431.jpg) Carlos, our savior, pondering Big Emma's engine with us one night\[/caption\]
 
 ### Tests of ingenuity
 
@@ -84,7 +85,7 @@ Carlos swore a lot, no matter if he was [speaking English or Spanish](http://gob
 
 His nephew was the opposite. A tall, handsome Mexican, Thomas had a soft voice and strong arms. He was a photographer and only helping out in his uncle's shop whenever he wasn't on assignment somewhere in [Belize](http://gobigemma.com/2017/12/07/welcome-colorful-belize-caribbean-melting-pot-central-america/) or [Mexico](http://gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), shooting everything from weddings to major magazine stories.
 
-\[caption id="attachment\_3758" align="aligncenter" width="702"\]![](images/Tomas-1024x512.jpg) The exhaustion is plain on Thomas' face after several days of helping Big Emma.\[/caption\]
+\[caption id="attachment\_3758" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Tomas-1024x512.jpg) The exhaustion is plain on Thomas' face after several days of helping Big Emma.\[/caption\]
 
 Now Carlos commanded Thomas to turn the key and attempt to start the engine again.
 
@@ -96,7 +97,7 @@ We tested resistors, wires, sensors. And finally a relay. It was making its char
 
 Carlos took a small piece of wire and superglued it between the contacts so they would close. _No problem_, he said. _At home you replace, but this will work for a while_. I was so used to the constant availability of replacement parts, I had never even considered a relay repairable. But in Belize, nothing was thrown away without at least attempting to repair it, no matter if it was a relay or a drone.
 
-\[caption id="attachment\_3755" align="aligncenter" width="702"\]![](images/Laundry_Day-1024x512.jpg) Konsti washing our clothes and hanging them all over the mechanic's shop.\[/caption\]
+\[caption id="attachment\_3755" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Laundry_Day-1024x512.jpg) Konsti washing our clothes and hanging them all over the mechanic's shop.\[/caption\]
 
 I was nervous when I went back to the driver's seat to give the glued relay a try. What if it's not any of those parts? What if it's something deep down in the engine? I couldn't say what, but something down where we couldn't reach it, something that the river had rusted. Who knew? What if all our efforts were for nothing?
 
@@ -110,7 +111,7 @@ Everybody in the shop dropped whatever they were working on and came over to wat
 
 After escaping the flood, out on the highway in the rain at night, I had been happy to be alive. But it was only now that I felt like we had truly made it. We had not only saved ourselves but our companion as well. A limp, dead body when we pulled her out of the river, we had performed CPR and she had come back, coughing and puffing black smoke. But she was there, and alive.
 
-\[caption id="attachment\_3809" align="aligncenter" width="702"\]![](images/Sven-saves-the-engine-1024x510.jpg) Elbow-deep in Big Emma's engine\[/caption\]
+\[caption id="attachment\_3809" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Sven-saves-the-engine-1024x510.jpg) Elbow-deep in Big Emma's engine\[/caption\]
 
 We hadn't even realized it, but we had been desperate in these past days. Our [dream](http://gobigemma.com/2017/07/27/living-the-dream-is-doing-the-impossible/) had taken a serious hit and it had come tumbling down, shattered into what we feared were irreparable pieces. But now, thanks to the amazing help from Carlos, his nephew Thomas, Caro, Konsti, Mike and Geneva, Emma’s dad, and Carlos' employees, we had ignited hope.
 

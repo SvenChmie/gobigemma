@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#26 Bus Friends are Bus Friends, no Matter How Far You've Gone"
 date: 2016-12-19
 categories: 

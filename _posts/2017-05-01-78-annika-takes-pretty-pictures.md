@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#78 Annika Takes Such Pretty Pictures of Me"
 date: 2017-05-01
 categories: 

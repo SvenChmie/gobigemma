@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#44 This Place Feels much Bigger than Me"
 date: 2017-02-01
 categories: 

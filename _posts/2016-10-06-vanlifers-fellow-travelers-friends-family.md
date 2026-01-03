@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Vanlifers: fellow travelers, friends, family"
 date: 2016-10-06
 categories: 
@@ -15,7 +16,7 @@ As we take our vanlife-baby-steps, our fellow travelers are an important ingredi
 
 We have done a lot of backpacking in our day. Trips across Europe, parts of South America, and South East Asia have given us a number of experiences in this area. And one thing that has always fascinated me about backpacking was the concept of making friends on the road.
 
-\[caption id="attachment\_728" align="aligncenter" width="1800"\]![big-emma-and-andres-bus](images/Big-Emma-and-Andres-Bus.jpg) Big Emma nose-to-nose with our friend Andre's Vanagon in Skagway, Alaska\[/caption\]
+\[caption id="attachment\_728" align="aligncenter" width="1800"\]![big-emma-and-andres-bus]({{ site.baseurl }}/assets/images/Big-Emma-and-Andres-Bus.jpg) Big Emma nose-to-nose with our friend Andre's Vanagon in Skagway, Alaska\[/caption\]
 
 ### Backpacker friends: small moments, big impressions
 
@@ -23,7 +24,7 @@ As a backpacker, you tend to stay in hostels. In hostels, you meet other people 
 
 When you’re backpacking, you don’t have many friends (unless you are lucky enough to have some traveling with you). Or, at least, none who are anywhere near you on the map or that can share the common experience of traveling. Even if you skype a lot, your friends back home can’t really understand what you are going through. It makes sense that deep, meaningful friendships happen fast between travelers: both parties are in need of friendships, and you only have a short while to make them before one or both of you move on to the next destination. These bonds are important, and are often one of the most memorable things about traveling as a backpacker.
 
-\[caption id="attachment\_729" align="alignnone" width="1800"\]![big-emma-and-pickle](images/Big-Emma-and-Pickle.jpg) Camping for the night with Ramblin' Dawgs and their Bus, Pickle\[/caption\]
+\[caption id="attachment\_729" align="alignnone" width="1800"\]![big-emma-and-pickle]({{ site.baseurl }}/assets/images/Big-Emma-and-Pickle.jpg) Camping for the night with Ramblin' Dawgs and their Bus, Pickle\[/caption\]
 
 ### Vanlife friends: different rigs, common themes
 
@@ -31,7 +32,7 @@ Well, vanlife works in a similar way, at least for us. When you’re on the road
 
 Just like with those other backpackers, you trade stories. You talk about past experiences with your vehicle. What worked, what was hard? How you do things like food and camping and supplies, what budgets you live with. Where you’ve been and what you’ve seen. And all kinds of other stuff. How your family feels about you living in your bus. What the [really shitty](http://www.gobigemma.com/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california/) experiences have been. [What you like to do](http://www.gobigemma.com/2016/11/17/popular-questions-blog/), if you listen to music, [how you deal with breaking down](http://www.gobigemma.com/2016/07/06/will-not-defeated/), if you get in fights with your vanlife-roommates. You talk about deep stuff, and often you park your adventuremobiles next to each other and spend the night. You wake up in the morning, say your goodbyes, and go your separate ways. You are not just friends on Facebook, but are in real life as well. Just like the backpackers, a short, shared experience gives you one thing that you sorely miss out on while you travel: living through valuable, here-and-now friendships. And you come away richer in both friends and experiences. And all sorts of useful vanlife-advice.
 
-\[caption id="attachment\_727" align="aligncenter" width="1800"\]![big-emma-and-copito](images/Big-Emma-and-CoPito.jpg) Big Emma and Co'Pito, Hasta Alaska's awesomely hard-core Brazilian Bay Window\[/caption\]
+\[caption id="attachment\_727" align="aligncenter" width="1800"\]![big-emma-and-copito]({{ site.baseurl }}/assets/images/Big-Emma-and-CoPito.jpg) Big Emma and Co'Pito, Hasta Alaska's awesomely hard-core Brazilian Bay Window\[/caption\]
 
 ### The VW Family
 
@@ -39,7 +40,7 @@ Of course, this is especially true for us and other VWs. Although we’ve met tr
 
 Two things, definitely, are certain: there is nothing like friends, and there is no feeling in the world like coming back to Big Emma after walking around the town and seeing another bus parked alongside her.
 
-\[caption id="attachment\_794" align="aligncenter" width="1920"\]![smith_rock](images/Smith_Rock-1.jpg) Vanlife camping near Smith Rock, OR. Left to Right: [EBB\_and\_Road](https://www.instagram.com/ebb_and_road/), [LookatthatWesty](https://www.instagram.com/lookatthatwesty/), The Bus and Us, [Lady Adventures](https://www.instagram.com/ladyadventures/), [Ryan.and.Hailey](https://www.instagram.com/ryan.and.hailey/), GoBigEmma, and [Irie to Aurora](https://www.instagram.com/irietoaurora/)\[/caption\]
+\[caption id="attachment\_794" align="aligncenter" width="1920"\]![smith_rock]({{ site.baseurl }}/assets/images/Smith_Rock-1.jpg) Vanlife camping near Smith Rock, OR. Left to Right: [EBB\_and\_Road](https://www.instagram.com/ebb_and_road/), [LookatthatWesty](https://www.instagram.com/lookatthatwesty/), The Bus and Us, [Lady Adventures](https://www.instagram.com/ladyadventures/), [Ryan.and.Hailey](https://www.instagram.com/ryan.and.hailey/), GoBigEmma, and [Irie to Aurora](https://www.instagram.com/irietoaurora/)\[/caption\]
 
 _This piece is dedicated to all of our vanlife friends, including Ramblin’ Dawgs, [Tiggers Travels](http://www.tiggers-travels.com), [Vivir Amerikombinando](https://www.instagram.com/amerikombiando/?hl=en), [Kombi pal Norte](https://www.instagram.com/kombipalnorte/?hl=en), Hasta Alaska, The Bus And Us, Klim and Alex of [http://en.uxman.ru](http://en.uxman.ru) , Irie to Aurora, Ryan and Hailey, Lady Adventures, LookatthatWesty, EBB\_and\_Road, all the other vanlifers, and all of those we have yet to meet. Be sure to check out their awesome adventures!_
 

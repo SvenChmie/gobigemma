@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#25 OMG a Spider-Bug!"
 date: 2016-12-16
 categories: 

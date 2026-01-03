@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#51 This is the Prettiest I have Ever Been!"
 date: 2017-02-17
 categories: 

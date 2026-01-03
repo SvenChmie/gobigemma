@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#20 Emma, Get Away From There, Right Now!"
 date: 2016-12-05
 categories: 

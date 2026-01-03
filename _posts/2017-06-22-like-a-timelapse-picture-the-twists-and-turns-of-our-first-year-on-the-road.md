@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Like a Timelapse Picture: The Twists and Turns of our First Year on the Road"
 date: 2017-06-22
 categories: 
@@ -18,7 +19,7 @@ How can I explain to you what it really feels like to have lived in a Bus for so
 
 I can’t count the uphills and the downhills, the turns we’ve made, how many times we’ve put Big Emma in reverse. There are just too many days, too many events, too many miles piled up on top of each other. The year we have behind us is a giant stack of memories, each one unique. We remember them all, but by now there is just a whole damn lot of them to be remembered.
 
-\[caption id="attachment\_2410" align="alignright" width="300"\][![](images/Arctic-Circle-300x200.jpg)](http://gobigemma.de/wp-content/uploads/2017/06/Arctic-Circle.jpg) High-five at the Arctic Circle. Photo by Klim Bulygin @[http://en.uxman.ru](http://en.uxman.ru/) (August 2016)\[/caption\]
+\[caption id="attachment\_2410" align="alignright" width="300"\][![]({{ site.baseurl }}/assets/images/Arctic-Circle-300x200.jpg)](http://gobigemma.de/wp-content/uploads/2017/06/Arctic-Circle.jpg) High-five at the Arctic Circle. Photo by Klim Bulygin @[http://en.uxman.ru](http://en.uxman.ru/) (August 2016)\[/caption\]
 
 So many events have gone by. [A year ago](http://gobigemma.de/2016/06/05/the-big-plan/), it was summertime in Illinois, and we were packing our Bus and anticipating how we would find places to [camp for free](http://gobigemma.de/2017/07/06/popular-questions-really-can-camp-free/). Ten months ago, we were crossing the Arctic Circle up in Alaska, a place that seems desolately far away now. Back then, we were [meeting friends that would make long-lasting impressions of us](http://gobigemma.de/2016/10/06/vanlifers-fellow-travelers-friends-family/), and I was worried about bears when I went outside to pee at night. Distances were long, and we felt like we were the only ones camping in endless forests. We slowly learned how to [live in our Bus](http://gobigemma.de/2017/05/11/just-another-day-bus/), and got better at it. As we moved south and batted down the Bus against the rain, we were also getting better at living with each other in such a tight space.
 
@@ -28,7 +29,7 @@ And - trust me - that is not always easy. In fact, this can sometimes be the har
 
 Around the time we got to southern Canada, we were bickering a lot - something you, our readers, do not notice much through the filter of our words. Everybody has their habits, and the habits that annoy you the most can multiply in such a tiny space.
 
-\[caption id="attachment\_2404" align="aligncenter" width="702"\]![](images/Good-Morning-Big-Emma-1024x683.jpg) Two can be a crowd. Photo by Annika Borrmann (April 2017)\[/caption\]
+\[caption id="attachment\_2404" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Good-Morning-Big-Emma-1024x683.jpg) Two can be a crowd. Photo by Annika Borrmann (April 2017)\[/caption\]
 
 And it’s not just the space. It's also the time. Sven and I are very social, we’ve never been the type of people to decide to spend the evening as a duo if there were other people interested in hanging out. We never lived in an apartment together without multiple roommates. We hadn't realized what a challenge, what an incredible opposite experience it would be to _always_ be in the same room together. I realized at one point on our trip that it felt strange not to be in the same place as Sven. If I went into the supermarket and he stayed in the car, the distance felt immense (and I’m speaking from a perspective of multiple many-month long-distance separations in the course of our relationship’s history before we moved into a Bus). It was weird being alone, because are almost always together, very _very_ literally.
 
@@ -38,13 +39,13 @@ There were times when we wanted to rip each other's heads off. Like I said, habi
 
 But we’ve learned to work on that. Both on the behaviors themselves and the tolerance that lets us live better together with these habits and each other in a Bus. We’re practicing living side by side in situations that are not always easy. It will always be constant work to keep ourselves from forming patterns that get in the way of problem-solving and teamwork - two skills we can’t afford to lack on in this lifestyle.
 
-\[caption id="attachment\_2402" align="aligncenter" width="702"\]![](images/Glacier_Hands-1024x683.jpg) Don't get cold feet. (Portage Glacier in Whittier, Alaska - August 2016)\[/caption\]
+\[caption id="attachment\_2402" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Glacier_Hands-1024x683.jpg) Don't get cold feet. (Portage Glacier in Whittier, Alaska - August 2016)\[/caption\]
 
 ### Love grows with every mile
 
 For most of the year, we were also very, very worried about our car. Specifically, about it breaking down and us not being knowledgeable enough - adequate enough - to fix it. [We broke down driving the Dalton Highway](http://gobigemma.de/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/), and fixed the problem with nothing but our toolbox, our VW repair books, and our own wits. Breakdowns like this were also practice sessions for simply getting along with one another.
 
-\[caption id="attachment\_2400" align="alignright" width="300"\]![](images/Family-300x200.jpg) Big Emma posted this picture in her diary a few weeks ago. It was titled "[My Family](http://gobigemma.de/2017/03/10/60-my-family/)". (near Santa Clarita, California - February 2017)\[/caption\]
+\[caption id="attachment\_2400" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Family-300x200.jpg) Big Emma posted this picture in her diary a few weeks ago. It was titled "[My Family](http://gobigemma.de/2017/03/10/60-my-family/)". (near Santa Clarita, California - February 2017)\[/caption\]
 
 But every time, we made it through. The one and only time we found ourselves at a mechanics shop so far was in Fairbanks, to get new tires mounted and the wheels aligned, two tasks that we just couldn't do ourselves. Every other challenge - including a busted rear wheel bearing, [engine tune-ups and cut-outs](http://gobigemma.de/2016/11/10/a-story-of-despair-samba-and-compression-why-the-community-is-the-best-part-of-driving-a-vw-bus/), [a full brake job](http://gobigemma.de/2016/07/06/will-not-defeated/), and a long list of other, smaller tasks - we have conquered by ourselves.
 
@@ -54,17 +55,17 @@ And if one thing is more significant than the rest, it is this: our relationship
 
 ### The world at our fingertips, and yet an empty void inside
 
-\[caption id="attachment\_2411" align="alignright" width="300"\]![](images/Caro-Airport-300x199.jpg) My friend Caro and I at the airport the morning of our departure. Photo by Konstantin Teyang. (Hannover, Germany - April 2016)\[/caption\]
+\[caption id="attachment\_2411" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Caro-Airport-300x199.jpg) My friend Caro and I at the airport the morning of our departure. Photo by Konstantin Teyang. (Hannover, Germany - April 2016)\[/caption\]
 
 Now it is June, and 2017 is already six months old. Last Christmas, I was writing a post about what it was like having lived in Big Emma for [six months](http://gobigemma.de/2016/12/22/travel-is-not-about-the-miles-taking-stock-of-six-months-on-the-road/). Our friend [Philipp](http://gobigemma.de/2017/01/23/40-went-new-human-phil-desert/) came to visit us over Christmas, and we [met our friends Robbie, Brian, and Chloe in southern California](http://gobigemma.de/2017/01/26/friends_dumpsters_burritos_oceanside/) for the first time. It is hard to believe that we stayed more or less in the same area for another three months. In the meantime, we did some exploring, met a lot of [old friends,](http://gobigemma.de/2017/02/08/47-meet-sweedlers/) and weathered out the weirdest winter ever in California. [We also flew to Florida](http://gobigemma.de/2017/02/09/vanlife-is-not-a-vacation/). It was the second time I had seen my parents since we left on our trip (they came to visit us on Vancouver Island in October, too). I’ll see them again in two days, when they come to visit us in Puerto Escondido, Mexico. Sven hasn’t seen his family in over a year.
 
-\[caption id="attachment\_2401" align="aligncenter" width="702"\]![](images/Florida_Night_Fire-1024x683.jpg) Campfire on the beach with Emma's family. (Cape San Blas, Florida - February 2017)\[/caption\]
+\[caption id="attachment\_2401" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Florida_Night_Fire-1024x683.jpg) Campfire on the beach with Emma's family. (Cape San Blas, Florida - February 2017)\[/caption\]
 
 Our friend [Annika arrived to visit us in Baja California](http://gobigemma.de/2017/05/18/guest-post-should-i-go-to-mexico-an-outsiders-perspective/) in April. One day later marked the date: a year had passed since we left her and our friends and family behind in Germany. But we also got the chance to show our friend how our lives had changed, what “life” for us now entailed. It was something we hadn't been able to imagine [standing at the airport in Hannover, Germany](http://gobigemma.de/2016/06/09/airport-days-first-steps-unknown-future/), exactly one year earlier.
 
 We’ve gone through times when that longing for friends and family from home has been a pang, an echo that I can’t make up for through sporadic Skype calls. Especially because there are just two of us (three, but only two who have a lot to say most of the time), that need for other deeply-anchored relationships is sometimes just a deep, unfillable void.
 
-\[caption id="attachment\_2408" align="aligncenter" width="702"\]![](images/Skyping-1024x682.jpg) Skyping with our friend Caro and her fiancee, Konsti, is just never the same as hugging them in person.\[/caption\]
+\[caption id="attachment\_2408" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Skyping-1024x682.jpg) Skyping with our friend Caro and her fiancee, Konsti, is just never the same as hugging them in person.\[/caption\]
 
 ### Those friends you never get to keep
 
@@ -72,13 +73,13 @@ Of course there is a trade-off: the countless relationships we have built with p
 
 But however many friends we make on the road, one thing connects them all: these friends too, we must always leave behind at some point. As much as we may loath it, we have to come to terms with the fact that we must always say goodbye. You drive away, wave out the window, and wonder: when will I see these people again? Will I see them again? Will they care when we do? Will I? Or will we, years from now, still be striving to stay in touch? Goodbyes are walls of mystery that future relationships hide behind.
 
-\[caption id="attachment\_2398" align="aligncenter" width="702"\]![](images/Dalton-Highway-with-the-Russians-1024x683.jpg) In August 2017, we drove the Dalton Highway with our friends Klim and Alex, who are also driving the Panamerican Highway. Since then, we've traveled with them again in Washington, Baja, and mainland Mexico.\[/caption\]
+\[caption id="attachment\_2398" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Dalton-Highway-with-the-Russians-1024x683.jpg) In August 2017, we drove the Dalton Highway with our friends Klim and Alex, who are also driving the Panamerican Highway. Since then, we've traveled with them again in Washington, Baja, and mainland Mexico.\[/caption\]
 
 ### Like a timelapse picture: the fine line between change and consistency
 
 Looking back through everything we have published since we got to Mexico, I realize that we have been here almost three months now. We have already spent almost half the time on our Mexican visas. Although we seem to forget it, we are not _new_ to Mexico anymore. We are now #travelmexico adolescents, who are still stumbling through life and making mistakes.
 
-\[caption id="attachment\_2406" align="alignright" width="200"\][![](images/Memories-Vertical-200x300.jpg)](http://gobigemma.de/wp-content/uploads/2017/06/Memories-Vertical.jpg) The picture collection that hangs in our Bus.\[/caption\]
+\[caption id="attachment\_2406" align="alignright" width="200"\][![]({{ site.baseurl }}/assets/images/Memories-Vertical-200x300.jpg)](http://gobigemma.de/wp-content/uploads/2017/06/Memories-Vertical.jpg) The picture collection that hangs in our Bus.\[/caption\]
 
 Strangely, our lives are always changing, yet always staying the same at the same time. Places and people, faces and opinions, are different every single day. And yet, life is strangely structured. I look at the inside of Big Emma, glowing in the evening light of the LED string lights. The inside is so, so familiar. I know where dust collects, and I can feel where to put my toothbrush even in the dark.
 
@@ -86,13 +87,13 @@ But this scene has changed, too. Our propane tank is now very white, not like ou
 
 And that's only what is _inside_ the Bus. If I could flash all of the images in my mind, of all the places we have parked this Bus in the last year, it would be incredible: forests, northern lights, beaches in the moonlight, deserts made of mud, oceanside cliffs, endless rain, mountaintop views, parked next to a Mexican palapa, and on and on and on.
 
-![](images/Timelapse_Gif_smaller.gif)
+![]({{ site.baseurl }}/assets/images/Timelapse_Gif_smaller.gif)
 
 Like a timelapse picture, traveling in our Bus has been a combination of change and consistency. Life in the Bus has become normal. We've found our routine and our rhythm, familiarity has taken over like it does in any life. At the same time, the scenery is always changing, and every day is full of newness. Change and consistency live in harmony, in a delicate balance that is unique to life with Big Emma.
 
 ### Always look forward
 
-\[caption id="attachment\_2399" align="alignright" width="300"\]![](images/Emma-and-Caro-300x199.jpg) Caro and Konsti came to visit us in Alaska, and they plan on visiting us again in Guatemala this fall. Despite the distance, lasting bonds remain. (Juneau, Alaska - July 2016)\[/caption\]
+\[caption id="attachment\_2399" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Emma-and-Caro-300x199.jpg) Caro and Konsti came to visit us in Alaska, and they plan on visiting us again in Guatemala this fall. Despite the distance, lasting bonds remain. (Juneau, Alaska - July 2016)\[/caption\]
 
 And it will continue to change. We are now starting to think about Central America. How long will we stay in Belize? Can we park Big Emma for a while and work our way to the Caribbean on a boat? When does the rainy season end, and where we will be at Christmas? Will cell service stay as good as it is in Mexico? Will driving times get significantly longer? Or will we be pleasantly surprised, as we were here in our first Latin American country, where everything pretty much just works like it does all over the world (which we knew beforehand, but somehow seemed to have forgotten).
 
@@ -102,4 +103,4 @@ I said it before, but I just have to say it again: this is only the beginning. E
 
 We covered gigantic distances traveling in Alaska. We have more than half the distance of the trip behind us - but _not_ half the journey itself. I wonder - when will I feel like we’ve gotten to the middle?
 
-\[caption id="attachment\_2403" align="aligncenter" width="702"\]![](images/Goodbye-Poloroid-Square-1024x1024.jpg) One of my favorite pictures in the Bus, taken on the night of our going-away party. Damn I miss these guys. (Braunschweig, Germany - March 2016)\[/caption\]
+\[caption id="attachment\_2403" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Goodbye-Poloroid-Square-1024x1024.jpg) One of my favorite pictures in the Bus, taken on the night of our going-away party. Damn I miss these guys. (Braunschweig, Germany - March 2016)\[/caption\]

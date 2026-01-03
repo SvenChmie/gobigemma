@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#86 These are My Favorite Palm Trees"
 date: 2017-05-19
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#47 Meet the Sweedlers!"
 date: 2017-02-08
 categories: 

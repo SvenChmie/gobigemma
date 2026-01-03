@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Friends, Dumpsters, and Burritos in Oceanside"
 date: 2017-01-26
 categories: 
@@ -16,7 +17,7 @@ We pull into the parking lot, a small backyard with cracking concrete behind the
 
 I wouldn't be surprised if it'd roll towards the man on its small metal wheels, squeaking and all, and swallow the poor guy along with the bag. But it's a well-behaved dumpster, it allows the man to open its hungry mouth, feed it the giant bag, and close the big metal lid again. The brave man walks back inside through the door, the scene is over and the dumpster satisfied.
 
-![](images/Parking_lot-1024x344.jpg)
+![]({{ site.baseurl }}/assets/images/Parking_lot-1024x344.jpg)
 
 ### It's that Mexican magic
 
@@ -26,7 +27,7 @@ Everybody's making their order, a _California burrito_ is what I have to eat her
 
 We sit outside in the sun, choosing a specific table that's not covered by an umbrella. It's winter and the sun is sweet and nice shining on us, its warmth feels good, it slow-cooks me rather than roasting like it probably would in summer. I like being slow-cooked. It's Emma and me, our friend Phil visiting from Germany over Christmas (yes it's Christmas, but it's weird because of the sun and the warmth and it doesn't really feel like Christmas at all), and Robbie and Brian, the people who brought us here in the first place.
 
-![](images/Christmas-1024x510.jpg)
+![]({{ site.baseurl }}/assets/images/Christmas-1024x510.jpg)
 
 ### Our travel trajectories finally intersect
 
@@ -34,7 +35,7 @@ We’ve known Robbie for a while. No, we’ve _known of him_ I should say, becau
 
 Now we're here. Southern California, the pinnacle of the Golden State, where there are almost as many people as grains of sand on the beaches they walk on. Beaches where people swim and surf, while strange men and women with metal detectors walk up and down the tidal zones, searching for that lost Rolex or the nugget of gold that an unnamed pirate hid here two centuries ago. Beautiful people wearing minimal clothing showing off their tan while flying go-karts (yes, that's a thing) roar overhead. Amid all this, we're eating the best burrito with fries in it, fast food in Mexican disguise, an American flag inside a piñata. While we meet this guy we've known of, but not yet known, for so long.
 
-\[caption id="attachment\_1425" align="aligncenter" width="702"\]![](images/Pattywaggon_Ride-1024x545.jpg) Robbie taking us for a ride in the Pattywaggon. Whew, bugs are fast!\[/caption\]
+\[caption id="attachment\_1425" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Pattywaggon_Ride-1024x545.jpg) Robbie taking us for a ride in the Pattywaggon. Whew, bugs are fast!\[/caption\]
 
 In an instant, Robbie transitioned from a hypothetical, virtual person to a real one, with speech and hair and jokes and personality. This is still a very fresh and new development, yet there's this click, this sense of pieces interlocking, this satisfaction of something snapping into place that's been well-treated with oil and brushed and cleaned nicely. We just talk. And he just talks. And there's nothing special about it, but somehow there's this thing we all feel and it works, we work well together, we've made a friend. And there's Brian, Robbie's best friend, and we later meet Brian's girlfriend Chloe, and we hang out again a day later and the day after that and so on. And we're just there and talk and drink and sing silly songs with dirty limericks and it just works.
 
@@ -44,7 +45,7 @@ Emma and Phil and I end up leaving over the Christmas holidays; we venture into 
 
 There are places, wonderful mountain peaks we can climb and be exhausted after it and there's this view down into the valley with clouds wrapping beautifully around more mountains in the distance. There are Joshua trees sticking out their poky limbs into the sky, like feelers searching for moisture in the air, for a drop of rain that will or will not eventually fall onto them. It's an awe-inspiring sight, but it's just that.
 
-\[caption id="attachment\_1427" align="aligncenter" width="702"\]![Joshua Tree boulders](images/JTree-1024x487.jpg) A pretty sweet boulder to sit on, don't you think?\[/caption\]
+\[caption id="attachment\_1427" align="aligncenter" width="702"\]![Joshua Tree boulders]({{ site.baseurl }}/assets/images/JTree-1024x487.jpg) A pretty sweet boulder to sit on, don't you think?\[/caption\]
 
 I sit on the top of a boulder and look down into the valley full of Joshua trees, and I listen to them. I listen to the song of the wind whirling around my boulder and I hear the trees and the rocks speak to me. But the boulder and the trees and their songs are just me in a way, all the thoughts that I can find up here are my own. People, on the other hand, they teach me and I get new ideas and this genetic desire to socialize that is wired into me is satisfied.
 

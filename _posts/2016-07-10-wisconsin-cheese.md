@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wisconsin Cheese"
 date: 2016-07-10
 categories: 

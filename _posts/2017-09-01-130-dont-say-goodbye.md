@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#130 I Don't Have to Say Goodbye!"
 date: 2017-09-01
 categories: 

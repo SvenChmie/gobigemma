@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#132 Look at How Much I Have Adventured!"
 date: 2017-09-06
 categories: 

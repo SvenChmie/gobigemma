@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Flashback: Snowball Fighting"
 date: 2017-01-02
 categories: 

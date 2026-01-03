@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#123 Emma and Sven Hang out With me Here Too!"
 date: 2017-08-14
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#39 I've Decided I Sometimes Like the Rain"
 date: 2017-01-20
 categories: 

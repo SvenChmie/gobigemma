@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#7 What do Trains Feel Like?"
 date: 2016-11-04
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Cup of Big Emma Coffee"
 date: 2016-09-21
 categories: 

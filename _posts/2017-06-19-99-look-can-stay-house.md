@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#99 LOOK I CAN STAY IN THE HOUSE TOO!"
 date: 2017-06-19
 categories: 

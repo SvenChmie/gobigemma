@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#67 There ARE Other Buses in Mexico!"
 date: 2017-04-05
 categories: 

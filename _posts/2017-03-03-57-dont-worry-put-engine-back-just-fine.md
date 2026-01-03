@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#57 Don't Worry, They Put my Engine Back in Just Fine"
 date: 2017-03-03
 categories: 

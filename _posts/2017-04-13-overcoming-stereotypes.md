@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Overcoming Stereotypes"
 date: 2017-04-13
 categories: 
@@ -24,7 +25,7 @@ For the most part, these generalizations are harmless. However, stereotypes get 
 
 * * *
 
-\[caption id="attachment\_1939" align="alignright" width="300"\]![](images/Camping-day-one-Mexico-300x300.jpg) Our first night camping in Ensenada, Mexico. We paid to camp in a parking lot, where we could enjoy our first Mexican beer and watch the surfers.\[/caption\]
+\[caption id="attachment\_1939" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Camping-day-one-Mexico-300x300.jpg) Our first night camping in Ensenada, Mexico. We paid to camp in a parking lot, where we could enjoy our first Mexican beer and watch the surfers.\[/caption\]
 
 It is our third day camping in Mexico. So far, we’ve been pretty vigilant about where we stay. The very first night, we paid to camp in a parking lot next to the beach in Ensenada, probably the 8th or 9th time we’ve paid for camping in over nine months. We figured we could be pretty sure it would be safe, and it was a spot that both the _Lonely Planet_ and the travel app [iOverlander](http://ioverlander.com) mentioned. It was nice. The second night we headed south, and stayed near a lonely fishing village on the side of a cliff on a tiny peninsula, with almost 360-degree-views of the ocean. It was beautiful. It was also recommended on iOverlander, and it was [free](http://gobigemma.de/2017/07/06/popular-questions-really-can-camp-free/). Both nights we were alone. We were told not to camp alone in Mexico, but so far, we had not met other travelers to caravan with. So alone it is. But in a tended parking lot and next to a village, we didn’t feel
 
@@ -50,7 +51,7 @@ And where could they possibly be walking to? There is nothing around here, anywh
 
 We were told to trust our intuition and common sense. But how do you know if your common sense knows what’s going on? Especially in a place where your common sense has had no time to adapt itself. And yet, my intuition says that despite the fact that I don’t understand the situation, everything seems fine. They were nice. And my common sense tells me that people will go to lengths for some weed, even walking a few miles through the rain. But still, I can’t let it go that I just can’t make sense of it.
 
-\[caption id="attachment\_1938" align="aligncenter" width="702"\]![](images/Camping-day-two-Mexico-1024x683.jpg) Our campspot on our second day in Mexico, with incredible ocean views. It was free and on the outskirts of a quiet fishing village. The article's cover picture is the actual spot where this story takes place.\[/caption\]
+\[caption id="attachment\_1938" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Camping-day-two-Mexico-1024x683.jpg) Our campspot on our second day in Mexico, with incredible ocean views. It was free and on the outskirts of a quiet fishing village. The article's cover picture is the actual spot where this story takes place.\[/caption\]
 
 ### But what if...
 
@@ -68,7 +69,7 @@ It is hard to ignore what everybody else seems to think about Mexico. It is hard
 
 Yet, it is hard to ignore these warnings because _almost everybody_ has repeated them. Before we [got to Mexico](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), it was much, _much_ more common for someone to say something about how dangerous the country was, how we should watch out, how we needed to be careful, than for them just think Mexico is awesome. It would almost surprise me when the person we were having a conversation with did _not_ mention this. One person, upon discussion of Mexico, asked if we had a [gun](http://gobigemma.de/2016/09/01/shots-fired-an-outsiders-perspective-on-gun-culture-in-alaska/) (no, we don’t).
 
-\[caption id="attachment\_1940" align="aligncenter" width="702"\]![Baja open road](images/Mexico_Road-1024x683.jpg) Baja: a lot of open road and empty space\[/caption\]
+\[caption id="attachment\_1940" align="aligncenter" width="702"\]![Baja open road]({{ site.baseurl }}/assets/images/Mexico_Road-1024x683.jpg) Baja: a lot of open road and empty space\[/caption\]
 
 I am not proud of my feelings in this situation. I do not like being stereotyped as an American. And I do not want to fall victim to my own prejudices towards other people. I believe I can be better than that.
 
@@ -80,4 +81,4 @@ Prejudice grows from ignorance. Fear of the unknown. Failure to understand. Not 
 
 It’s true, we probably shouldn’t be camping alone in a country we don’t know very well yet. But practicality is also important, and that beach was beautiful. I’m glad we didn’t let our fears get the better of us, and stayed. The view in the morning, when the sky was clear and sunny, was worth it.
 
-![](images/Coastal_View-1024x509.jpg)
+![]({{ site.baseurl }}/assets/images/Coastal_View-1024x509.jpg)

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#40 We Went with my New Human Phil to the Desert"
 date: 2017-01-23
 categories: 

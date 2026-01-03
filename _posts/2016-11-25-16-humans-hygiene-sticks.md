@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#16 Humans and Hygiene Sticks"
 date: 2016-11-25
 categories: 

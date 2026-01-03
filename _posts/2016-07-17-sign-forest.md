@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sign Forest"
 date: 2016-07-17
 categories: 

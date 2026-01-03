@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Berry Picking"
 date: 2016-08-09
 categories: 

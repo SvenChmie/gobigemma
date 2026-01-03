@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#41 I Look so Pretty in the Desert Sunset"
 date: 2017-01-25
 categories: 

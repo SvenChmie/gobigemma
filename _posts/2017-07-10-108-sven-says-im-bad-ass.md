@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#108 Sven says I'm Bad Ass"
 date: 2017-07-10
 categories: 

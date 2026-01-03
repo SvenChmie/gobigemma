@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#88 Don't Worry we Made it Across the Ocean Everybody"
 date: 2017-05-24
 categories: 

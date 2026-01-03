@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Alternative Alternator Solutions: Sourcing Parts in Mexico"
 date: 2017-08-10
 categories: 
@@ -21,7 +22,7 @@ The bearings are a piece inside the alternator that keep moving pieces moving pe
 
 We cannot go anywhere with no alternator, and when it breaks we have no choice but to fix it. To prevent this from happening, we decided to spend some of our time in Puerto Escondido with more car work than we had initially anticipated.
 
-\[caption id="attachment\_3084" align="aligncenter" width="702"\]![](images/New-Alternator-1024x683.jpg) The rear of our (new) alternator. To get to the bearings, we would need to open it up. The bolt that was the source of the short (see below) is the one on the top right. To fix the electrical short, Sven sawed the end off the bolt to make it shorter.\[/caption\]
+\[caption id="attachment\_3084" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/New-Alternator-1024x683.jpg) The rear of our (new) alternator. To get to the bearings, we would need to open it up. The bolt that was the source of the short (see below) is the one on the top right. To fix the electrical short, Sven sawed the end off the bolt to make it shorter.\[/caption\]
 
 ### Sourcing alternator parts
 
@@ -41,7 +42,7 @@ Even if we could figure out _where_ to get the parts, _what_ parts should we ord
 
 We had a few different options, each of with came with a different price tag and long-term guarantee.
 
-\[caption id="attachment\_3083" align="aligncenter" width="702"\]![](images/Messy-Mechanics-1024x683.jpg) One of the most important things for a good repair job? Plenty of paper towels.\[/caption\]
+\[caption id="attachment\_3083" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Messy-Mechanics-1024x683.jpg) One of the most important things for a good repair job? Plenty of paper towels.\[/caption\]
 
 #### Option #1: Replace the alternator itself
 
@@ -63,7 +64,7 @@ Even if we went for this option, we would still _have_ to get some help from a
 
 This is similar to option #3, except we wouldn’t do the work. The positive part would be that the person rebuilding our alternator would hopefully know what they were doing, and it would still keep costs down. But what if they did it wrong? What if they made a grave mistake, that would leave us stranded in 300 miles? Or even in 3,000?
 
-\[caption id="attachment\_3086" align="aligncenter" width="702"\]![](images/Removing-the-Pully-1024x683.jpg) Surprisingly, the alternator pulley took a lot of effort to remove. It has to be taken off the old alternator and attached to the new one.\[/caption\]
+\[caption id="attachment\_3086" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Removing-the-Pully-1024x683.jpg) Surprisingly, the alternator pulley took a lot of effort to remove. It has to be taken off the old alternator and attached to the new one.\[/caption\]
 
 ### Stereotypes and Mexican mechanics
 
@@ -79,7 +80,7 @@ But that wasn’t our only problem. Especially here in Mexico, I am skeptical ab
 
 Ben would break down and attempt to fix a problem himself or have it fixed by the local mechanic in whatever town he happened to be in. And he _kept getting stuck_. This is probably due to a combination of factors, such as Ben not knowing very much about his bus at the time and that the small-town mechanics were not VW experts. While we were on [Baja](http://gobigemma.de/2017/05/25/1000-miles-of-baja-california/), Ben took his Kombi to a [VW mechanic in La Paz](http://ioverlander.com/places/5894-geraldo-s-vw), who - without asking - welded a tie-rod in place (those are not supposed to be welded to anything if you ever want to align your wheels again). While a solution in the US or Germany is only a solution if it was done to spec, this might not be the case down here. Mexican mechanics are reputed to have very creative solutions to your current problem, solutions that will most probably get you back on the road. However, they may not always be the most long-term solutions.
 
-\[caption id="attachment\_3082" align="aligncenter" width="702"\]![](images/Ferrerteria-1024x683.jpg) The ferreteria, or hardware store, an essential stop for car-repair days.\[/caption\]
+\[caption id="attachment\_3082" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Ferrerteria-1024x683.jpg) The ferreteria, or hardware store, an essential stop for car-repair days.\[/caption\]
 
 As a result, we could not be really _really_ sure if the mechanic we would take our car to would do what we thought was right. We could also not be sure that they would rebuild our alternator to the spec that we thought it should be. When it comes to Big Emma, we are very untrusting people, and we do not accept half-ass work. If we were going to fix our alternator, we would fix it so we would _not_ have this problem again before we were done with our trip.
 
@@ -99,7 +100,7 @@ This way, we were not dependent on a mechanic we were not sure if we could depen
 
 ### So how does this story end?
 
-\[caption id="attachment\_3085" align="alignright" width="300"\]![](images/We-got-an-Alternator-300x300.jpg) Five stars for FedEx Mexico.\[/caption\]
+\[caption id="attachment\_3085" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/We-got-an-Alternator-300x300.jpg) Five stars for FedEx Mexico.\[/caption\]
 
 This story ends with success, if a turbulent one. After the hassle of making sure our package got shipped to the correct city, it actually got here on time. I should have more faith in the Mexican postal system. We picked up our package from FedEx one week before we had to leave Puerto Escondido.
 
@@ -109,7 +110,7 @@ Uh-oh. We had possibly just fried our new, shipped-from-abroad alternator. That
 
 We knew there had to be a short in the system. This means the plus and the minus pole were directly connected without anything consuming all that energy in between, which leads to a gigantic current flow and heats things up to the point where they catch fire.
 
-\[caption id="attachment\_3087" align="aligncenter" width="702"\]![](images/Oops-1024x683.jpg) You aren't supposed to see those wires. Oops.\[/caption\]
+\[caption id="attachment\_3087" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Oops-1024x683.jpg) You aren't supposed to see those wires. Oops.\[/caption\]
 
 ### There is a solution to every problem
 

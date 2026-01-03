@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#104 Look we're Back to Normal!!"
 date: 2017-06-30
 categories: 

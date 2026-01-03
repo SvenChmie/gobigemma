@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Aurora at the Arctic Circle"
 date: 2016-09-13
 categories: 

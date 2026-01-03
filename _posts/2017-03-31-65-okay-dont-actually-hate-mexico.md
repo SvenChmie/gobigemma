@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#65 Okay, I Don't Actually Hate Mexico"
 date: 2017-03-31
 categories: 

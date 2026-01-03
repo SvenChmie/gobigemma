@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#127 Emma Says I Look Like a Zombie"
 date: 2017-08-23
 categories: 

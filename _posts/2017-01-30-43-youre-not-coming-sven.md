@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#43 You're not Coming in Here, Sven!"
 date: 2017-01-30
 categories: 

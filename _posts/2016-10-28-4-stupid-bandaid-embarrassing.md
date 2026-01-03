@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#4: This Stupid Bandaid is so Embarrassing!"
 date: 2016-10-28
 categories: 

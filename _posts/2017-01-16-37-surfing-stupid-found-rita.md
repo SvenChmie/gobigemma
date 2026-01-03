@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#37 Surfing is Stupid and We Found Rita!"
 date: 2017-01-16
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Adventure 0: Welcome to GoBigEmma"
 date: 2016-06-28
 categories: 

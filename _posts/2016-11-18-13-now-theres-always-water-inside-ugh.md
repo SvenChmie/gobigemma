@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#13 Now There's Always Water on the Inside, Too! Ugh."
 date: 2016-11-18
 categories: 

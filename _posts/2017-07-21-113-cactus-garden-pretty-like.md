@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#113 This Cactus Garden is Pretty Like Me"
 date: 2017-07-21
 categories: 

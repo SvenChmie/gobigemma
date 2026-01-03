@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#150 I Talked to Sven and Watched the Sun Set"
 date: 2017-12-13
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#62 I Can't Wait to go to Mexico"
 date: 2017-03-17
 categories: 

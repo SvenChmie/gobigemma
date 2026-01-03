@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#72 There Are Little Humans Everywhere"
 date: 2017-04-17
 categories: 

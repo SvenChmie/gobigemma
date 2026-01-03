@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why We Havent' Been Blogging Lately"
 date: 2017-10-16
 categories: 

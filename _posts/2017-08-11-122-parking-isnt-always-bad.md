@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#122 Parking isn't Always Bad"
 date: 2017-08-11
 categories: 

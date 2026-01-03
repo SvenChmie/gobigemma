@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#82 This Picture is Stupid"
 date: 2017-05-10
 categories: 

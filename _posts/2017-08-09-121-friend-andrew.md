@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#121 My Friend Andrew"
 date: 2017-08-09
 categories: 

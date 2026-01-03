@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dogs and Busses"
 date: 2016-08-24
 categories: 

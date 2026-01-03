@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#76 My Penny Collection"
 date: 2017-04-26
 categories: 

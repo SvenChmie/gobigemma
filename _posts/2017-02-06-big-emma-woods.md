@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Big Emma in the Woods"
 date: 2017-02-06
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#93 Houses are Stupid"
 date: 2017-06-05
 categories: 

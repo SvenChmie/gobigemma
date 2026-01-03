@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#143 Sven Said I Could Get Eaten by Crocodiles"
 date: 2017-11-27
 categories: 

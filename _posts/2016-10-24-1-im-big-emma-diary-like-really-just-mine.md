@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#1: I'm Big Emma and This Is my Diary. Like, Really, Just Mine!"
 date: 2016-10-24
 categories: 

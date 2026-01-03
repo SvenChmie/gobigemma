@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Bus God or On the Road to Becoming an Amateur VW-Mechanic"
 date: 2016-06-17
 categories: 
@@ -20,7 +21,7 @@ To understand what this visit was for me, I need to do a bit of explaining. See,
 
 Colin worked with Sven, myself, and my dad for a full two and a half days (and we always got homework). He quizzed us on our trip, our knowledge of driving, our Bus, and the many different parts of the engine and what they do. He is a patient teacher, and always manages to explain things even when my only answer is a hesitant “uhhh….”. When we got a look at Big Emma - and turned her on only to find that our fuel pump (the thing that gets gas from the tank to where you have to mix it with air) had gotten disconnected - I learned very quickly to be completely unafraid of laying down underneath the car (jacked or not) and get to work. Colin did not fix things for us. He explained them and showed us how to do it ourselves. Some of the things he showed us we will be able to recreate better than others with our limited knowledge, but some of these will save us from some very expensive repairs in the future.
 
-[![Emma adjusting the left rear brakes](images/The-Bus-God-2-vers-2-300x165.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/06/The-Bus-God-2-vers-2.jpg)
+[![Emma adjusting the left rear brakes]({{ site.baseurl }}/assets/images/The-Bus-God-2-vers-2-300x165.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/06/The-Bus-God-2-vers-2.jpg)
 
 I learned how to change out our front wheel bearings (the things that make the wheel spin independently from the front axle). I learned how to inspect, take apart, and adjust the rear [brakes](http://www.gobigemma.com/2016/07/06/will-not-defeated/) (drum brakes, different from the disc brakes on the front). I learned what a [CV joint](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) is (the thing that allows the wheels to move independently enough to go over rocks and potholes and stuff while still maintaining the force that the engine is creating). I learned that gearshift (the stick thing you shift gears with) on VW buses are not actually super loose and soupy, as I always thought they were, but of course can be much more tightly adjusted (duh, Emma…). I learned how to try to think diagnostically to try to figure out what is wrong with my vehicle. I learned and I learned and I learned.
 
@@ -30,4 +31,4 @@ More than ever before, it has really hit home that one of the activities we will
 
 If you guys think Colin is as cool as we do, check out his site (and his post about us) [here](http://www.itinerant-air-cooled.com/viewtopic.php?f=70&t=13065#p221217).
 
-[![Cheers to the Bus God and an epic roadtrip](images/DSC_0118-300x200.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/06/DSC_0118.jpg)
+[![Cheers to the Bus God and an epic roadtrip]({{ site.baseurl }}/assets/images/DSC_0118-300x200.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/06/DSC_0118.jpg)

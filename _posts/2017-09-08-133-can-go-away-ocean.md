@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#133 Can We Go Away From the Ocean?"
 date: 2017-09-08
 categories: 

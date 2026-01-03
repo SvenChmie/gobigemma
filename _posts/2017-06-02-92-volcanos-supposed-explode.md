@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#92 Volcanos are Supposed to Explode"
 date: 2017-06-02
 categories: 

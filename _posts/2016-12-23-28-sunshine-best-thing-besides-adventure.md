@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#28 Sunshine is the Best Thing besides Adventure"
 date: 2016-12-23
 categories: 

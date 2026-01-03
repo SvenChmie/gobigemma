@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Jeffer's Garden"
 date: 2016-07-10
 categories: 

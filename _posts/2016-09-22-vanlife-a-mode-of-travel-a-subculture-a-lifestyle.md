@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Vanlife: a Mode of Travel, a Subculture, a Lifestyle"
 date: 2016-09-22
 categories: 
@@ -18,7 +19,7 @@ This blog is about traveling. [Up to the north](http://www.gobigemma.com/2016/09
 
 When we decided to do this trip, to ditch our rented-apartment life and move onto the road, we did it for the purpose of travel. We knew there were people who did the same thing. But it was not until we actually took to the road and made our way west that we realized that this thing called vanlife is more than a way of travel. For a surprising amount of people, it's a way of life. Sometimes by choice, because they want to travel or because the notorious 9-to-5 doesn't fit their understanding of what life should be like; sometimes forced, because they can't afford both a car and an apartment, therefore combining the two possessions into one.
 
-\[caption id="attachment\_616" align="alignright" width="300"\]![bus_meeting](images/Bus_Meeting-300x200.jpg) Bus gathering: Who has the cutest eyes?\[/caption\]
+\[caption id="attachment\_616" align="alignright" width="300"\]![bus_meeting]({{ site.baseurl }}/assets/images/Bus_Meeting-300x200.jpg) Bus gathering: Who has the cutest eyes?\[/caption\]
 
  
 
@@ -26,11 +27,11 @@ Vans, as do [vanlifers](http://www.gobigemma.com/2016/10/06/vanlifers-fellow-tra
 
 As with everything that qualifies as a lifestyle, there is a place for it on the Internet. Hashtags like [#vanlife](http://www.instagram.com/explore/tags/vanlife/), and [#homeiswhereyouparkit](http://www.instagram.com/explore/tags/homeiswhereyouparkit/) bring up thousands of posts on Instagram and Facebook, shiny pictures of life on the road, in the woods, the backcountry, life out of vehicles in the [most beautiful places](http://www.gobigemma.com/2017/01/12/love-hate-relationship-nature/) imaginable.
 
-\[caption id="attachment\_615" align="aligncenter" width="702"\]![picknick](images/Picknick-1024x390.jpg) Dinnertime in suburbia. We fit right in, don't you think?\[/caption\]
+\[caption id="attachment\_615" align="aligncenter" width="702"\]![picknick]({{ site.baseurl }}/assets/images/Picknick-1024x390.jpg) Dinnertime in suburbia. We fit right in, don't you think?\[/caption\]
 
 But vanlife also has its very practical components, the simple tasks of everyday life, like cooking, showering, doing laundry, as well as a few churns specific to life on the road. Where will we sleep tonight? How can we stay warm? Where can we find clean water? What about decent Internet and [reliable electricity](http://www.gobigemma.com/2017/04/20/popular-questions-hey-are-those-solar-panels/)? Where can we store all our stuff in a way that it is both accessible and practical for driving?
 
-\[caption id="attachment\_613" align="alignright" width="702"\]![emma_shower](images/Emma_shower-1024x630.jpg) Showering, vanlife-style\[/caption\]
+\[caption id="attachment\_613" align="alignright" width="702"\]![emma_shower]({{ site.baseurl }}/assets/images/Emma_shower-1024x630.jpg) Showering, vanlife-style\[/caption\]
 
 Vanlife is a magical thing. It connects people, it brings us to wonderful places.
 

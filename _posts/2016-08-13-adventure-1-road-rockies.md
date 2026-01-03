@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Adventure 1: On the Road and Up the Rockies"
 date: 2016-08-13
 categories: 

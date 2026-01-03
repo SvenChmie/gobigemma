@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#155 Thank You, Tractor"
 date: 2018-01-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#2: So, This One Time When I Was Sorta Sick..."
 date: 2016-10-24
 categories: 

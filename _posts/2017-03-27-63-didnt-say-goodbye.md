@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#63 I Didn't Say Goodbye"
 date: 2017-03-27
 categories: 

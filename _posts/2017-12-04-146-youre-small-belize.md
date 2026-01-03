@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#146 You're so Small, Belize!"
 date: 2017-12-04
 categories: 

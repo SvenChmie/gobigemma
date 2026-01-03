@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#48 I Want to Go to the Stars"
 date: 2017-02-10
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#106 We should Always do What I Say"
 date: 2017-07-05
 categories: 

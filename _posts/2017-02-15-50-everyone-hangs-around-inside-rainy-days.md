@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#50 Everyone Hangs Around Inside on Rainy Days"
 date: 2017-02-15
 categories: 

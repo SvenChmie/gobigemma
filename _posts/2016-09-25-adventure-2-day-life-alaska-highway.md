@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Adventure 2: A Day of Life on the Alaska Highway"
 date: 2016-09-25
 categories: 

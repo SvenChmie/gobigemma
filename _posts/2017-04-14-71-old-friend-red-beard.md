@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#71 My Old Friend Red Beard"
 date: 2017-04-14
 categories: 

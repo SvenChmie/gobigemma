@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#120 I'm Kind of Sad but Kind of Happy"
 date: 2017-08-07
 categories: 

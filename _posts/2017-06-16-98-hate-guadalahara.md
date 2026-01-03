@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#98 I Hate Guadalahara!"
 date: 2017-06-16
 categories: 

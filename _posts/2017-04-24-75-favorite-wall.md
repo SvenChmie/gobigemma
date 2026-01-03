@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#75 This is My Favorite Wall"
 date: 2017-04-24
 categories: 

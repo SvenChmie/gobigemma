@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#21 No, THIS is my Favorite Forest"
 date: 2016-12-07
 categories: 

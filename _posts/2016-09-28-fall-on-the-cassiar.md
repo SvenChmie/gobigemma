@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fall on the Cassiar"
 date: 2016-09-28
 categories: 

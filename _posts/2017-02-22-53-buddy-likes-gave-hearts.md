@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#53 Buddy Likes Me Because he Gave me Hearts!"
 date: 2017-02-22
 categories: 

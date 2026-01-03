@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#138 Hello Sven's Family and Thank you For Breakfast!"
 date: 2017-10-09
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#140 This is Little Big Emma"
 date: 2017-11-20
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#156 What am I Going to Do Now Emma?"
 date: 2018-01-03
 categories: 

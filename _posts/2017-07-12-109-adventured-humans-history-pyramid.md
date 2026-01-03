@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#109 We Adventured to the Human's History Pyramid"
 date: 2017-07-12
 categories: 

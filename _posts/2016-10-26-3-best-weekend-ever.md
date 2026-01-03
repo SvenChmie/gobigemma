@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#3: The Best Weekend EVER!!"
 date: 2016-10-26
 categories: 

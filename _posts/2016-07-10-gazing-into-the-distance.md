@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Gazing into the Distance"
 date: 2016-07-10
 categories: 

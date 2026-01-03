@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#95 See, Guadalahara Made me Break!"
 date: 2017-06-09
 categories: 

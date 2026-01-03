@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hidden in the Jungle: Real Life on the Riviera Maya"
 date: 2017-11-23
 categories: 
@@ -20,7 +21,7 @@ _Gringolándia_ is a word in Mexican Spanish that describes a place dominated b
 
 Driving the coastal highway north towards Cancún, the area lives up to this promise. Starting just south of Tulúm, the _carretera_ is lined with vacation resorts and golf residences (gated communities, where you live on a golf course) - or what is visible of them. A tall concrete wall or a thick layer of vegetation hides the hotels and villas from our eyes. From the road, we only see the gated entrances, arcs so enormous they would be fit for a medieval king's palace, armed security personnel, and gates with their barriers down as if it was a [border crossing](http://gobigemma.de/2016/12/08/crossing-the-line-entering-usa-via-land-border/).
 
-\[caption id="attachment\_3460" align="aligncenter" width="702"\]![cenote-waterline](images/Underwater_Cenote-1024x512.jpg) Beautiful Riviera Maya, above and below the waterline\[/caption\]
+\[caption id="attachment\_3460" align="aligncenter" width="702"\]![cenote-waterline]({{ site.baseurl }}/assets/images/Underwater_Cenote-1024x512.jpg) Beautiful Riviera Maya, above and below the waterline\[/caption\]
 
 Billboards along the road promise exclusive houses among picturesque parks, complete with maids, golf carts, private supermarkets, and even _cenotes_. Others advertise the ultimate adventure experience. Diving in cave systems, exploring private Maya ruins, and ziplining through the jungle.
 
@@ -34,7 +35,7 @@ And we did find it. We spent two weeks at a campground outside of Tulúm, a smal
 
 ### Campground, zoo, and home all in one
 
-\[caption id="attachment\_3459" align="alignleft" width="200"\]![who-am-I](images/Quien_Soy-200x300.jpg) "Who am I?" the sign says.\[/caption\]
+\[caption id="attachment\_3459" align="alignleft" width="200"\]![who-am-I]({{ site.baseurl }}/assets/images/Quien_Soy-200x300.jpg) "Who am I?" the sign says.\[/caption\]
 
 Our camp is located in the jungle, a kilometer off the highway at the end of a dirt road with potholes so deep we stalled the car once driving through a puddle after it had rained. A giant birdcage is home to a variety of pigeons, parakeets, and a talking parrot named Pepe. Bobby, the guard dog, is dozing under the giant palapa, the main common area with hammocks, chairs, and a massage table. A peacock couple rooms the perimeter, and so do Pancho, a curious but friendly wild boar, and King Kong, a giant toad the size of a soccer ball.
 
@@ -48,7 +49,7 @@ At night, we sit around the kitchen table and trade stories. The residents of Se
 
 One day we go fishing with Jorge and Alejandra. We meet Gonzalo on the beach and he joins us. Despite our combined efforts, we don't catch anything. Next to us, an older gentleman, a passionate fisherman whose eyes get wide with delight every time the line tightens, pulls out one foot-long fish after the other. But it's fun. We fish, we drink beer, we talk, we all huddle up together in the Bus when it suddenly starts pouring. For maybe the second time, after our [month-long stint as employees of a guesthouse in Guadalajara](http://gobigemma.de/2017/06/08/in-order-to-move-forward-we-sometimes-need-to-stop/), it feels like we have made Mexican friends in Mexico.
 
-\[caption id="attachment\_3454" align="aligncenter" width="702"\]![tulum-fishing](images/Gone_Fishing-1024x512.jpg) There have to be fish in these beautiful waters. But why don't they bite our hooks?\[/caption\]
+\[caption id="attachment\_3454" align="aligncenter" width="702"\]![tulum-fishing]({{ site.baseurl }}/assets/images/Gone_Fishing-1024x512.jpg) There have to be fish in these beautiful waters. But why don't they bite our hooks?\[/caption\]
 
 ### A place to call home?
 
@@ -60,7 +61,7 @@ But even though we feel like we have escaped the tourist craze, it is never far 
 
 Maybe around the same time that Jorge and Alejandra set down the first stone of their new home and Thomás plants the first trees in his garden, bulldozers will start flattening the jungle just a stone throw away. While the economic future for the Riviera Maya shines bright like an airport runway in the night, it will become harder and harder to find the real Mexico under the concrete layers. And it will become more difficult for ordinary people like Jorge and Alejandra to carve out a piece of paradise for themselves.
 
-\[caption id="attachment\_3458" align="aligncenter" width="702"\]![](images/Night_Camp_Tulum-1024x512.jpg) The common area at Selva El Javali at night\[/caption\]
+\[caption id="attachment\_3458" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Night_Camp_Tulum-1024x512.jpg) The common area at Selva El Javali at night\[/caption\]
 
 After two wonderful weeks in Selva El Jabali, our Mexican visas were about to run out and we had to make our escape to Belize. But we'll be back, one day. And then we'll visit our new friends in their own homes in their own corner of the jungle. Hopefully without the thundering screams of an airplane overhead. We won't fly in then, we'll drive. I promise.
 

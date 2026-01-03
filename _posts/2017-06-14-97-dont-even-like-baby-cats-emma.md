@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#97 I Dont Even Like Baby Cats, Emma!"
 date: 2017-06-14
 categories: 

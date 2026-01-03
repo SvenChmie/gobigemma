@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rainy Days are Better with Friends"
 date: 2016-08-24
 categories: 

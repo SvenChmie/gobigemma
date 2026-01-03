@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#69 Look, I Have so Many New Friends in Mexico!"
 date: 2017-04-10
 categories: 

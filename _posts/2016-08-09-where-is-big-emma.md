@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Where is Big Emma?"
 date: 2016-08-09
 categories: 

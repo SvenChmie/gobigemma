@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#36 That's Me and Buddy Again, Camping"
 date: 2017-01-13
 categories: 

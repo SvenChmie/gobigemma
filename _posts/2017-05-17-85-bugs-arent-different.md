@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#85 Bugs Aren't so Different After All"
 date: 2017-05-17
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#119 Look Emma's Parents Came to See Me!"
 date: 2017-08-04
 categories: 

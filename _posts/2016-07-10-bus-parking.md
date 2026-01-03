@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bus Parking"
 date: 2016-07-10
 categories: 

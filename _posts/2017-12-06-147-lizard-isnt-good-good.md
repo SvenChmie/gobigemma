@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#147 This Lizard isn't as Good as Me But He is Good Too"
 date: 2017-12-06
 categories: 

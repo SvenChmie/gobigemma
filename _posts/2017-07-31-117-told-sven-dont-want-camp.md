@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#117 I told Sven I Don't Want to Camp Here"
 date: 2017-07-31
 categories: 

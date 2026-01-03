@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#42 I like the Desert, and Birds"
 date: 2017-01-27
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#126 Look I'm Surfing!"
 date: 2017-08-21
 categories: 

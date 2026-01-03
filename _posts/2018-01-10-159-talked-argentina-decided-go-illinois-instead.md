@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#159 We Talked About Argentina and Decided to Go to Illinois Instead"
 date: 2018-01-10
 categories: 

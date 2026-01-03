@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Consequences of a Flash Flood Part 2: Recovery"
 date: 2018-04-20
 categories: 
@@ -30,7 +31,7 @@ But now, with the first light of the new day sending its rays over the horizon 
 
 The water had been slow, almost stagnant where we had walked, but just a tad farther in, the rapids would have been too strong to withstand. What if we had woken up only a few minutes later, or if we had been sleeping with the sliding door closed? The water had risen almost half a meter in the few minutes we were searching for our stuff. What if we hadn't noticed the water until it was too late to escape? None of us knew quite what to think of these possibilities, standing there in the gentle, pink dawn light.
 
-\[caption id="attachment\_3686" align="aligncenter" width="702"\]![muddy-steering-wheel](images/muddy-steering-wheel-1024x512.jpg) The cockpit after rescuing Big Emma\[/caption\]
+\[caption id="attachment\_3686" align="aligncenter" width="702"\]![muddy-steering-wheel]({{ site.baseurl }}/assets/images/muddy-steering-wheel-1024x512.jpg) The cockpit after rescuing Big Emma\[/caption\]
 
 ### Early-morning phonecalls
 
@@ -52,7 +53,7 @@ With no hesitation, they decided to break camp and come at once. Our friends' de
 
 Mike and Geneva had been [camped in a guesthouse that belonged to a woman named Monika](http://ioverlander.com/places/20837-maya-hill-lodge), a German lady in the little town of San Ignacio. Upon hearing about our situation, Monika postponed plans for her birthday party that day and drove into town to pick us up. With her help, we went to acquire a phone card, a rental car, cash, and a bottle of Tequila.
 
-\[caption id="attachment\_3785" align="alignright" width="222"\]![](images/Fallen_Over-222x300.jpg) Our open hatch - which we used to enter Big Emma to get our most essential belongings after being reunited.\[/caption\]
+\[caption id="attachment\_3785" align="alignright" width="222"\]![]({{ site.baseurl }}/assets/images/Fallen_Over-222x300.jpg) Our open hatch - which we used to enter Big Emma to get our most essential belongings after being reunited.\[/caption\]
 
 By the time all our errands were done and Emma and I managed to make it back to the river, Caro and Konsti, as well as Mike and Geneva, had arrived at the Sibun. They gave us a long hug when we pulled up at their impromptu camp just below the highway. Mike and Geneva's truck camper was parked a good way up the riverbank from waters that were still swollen.
 
@@ -74,7 +75,7 @@ It was the most dreadful sight of the whole disaster. The bitterness of it, the 
 
 But no, it hadn’t killed her. I know that now and I knew it then. Andrew's words were ringing in my ears: _We'll bring her home. No matter how, we'll find a way._
 
-\[caption id="attachment\_3787" align="aligncenter" width="702"\]![](images/Cleaning_Up-1024x588.jpg) Mike helping to free Big Emma from her tarps\[/caption\]
+\[caption id="attachment\_3787" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Cleaning_Up-1024x588.jpg) Mike helping to free Big Emma from her tarps\[/caption\]
 
 ### Rediscovery
 
@@ -96,7 +97,7 @@ Our awning had been ripped off its fastenings where it had been attached to the 
 
 Apart from lying on her side, the car itself looked almost untouched. The red and yellow paint was a bright as ever, shining like a beacon against the mucky brown of the river. I had feared for the windshield, but it was intact without a scratch on it. Even the roof didn't seem broken. We had left the pop-top up when we left, and now that everything was sideways, the mechanism was twisted, leaning at an odd angle. But the old fiberglass wasn't cracked, the fabric wasn't torn. I felt a spark of hope rising in me. Could it be that this wasn't all that bad?
 
-\[caption id="attachment\_3685" align="alignleft" width="312"\]![rear-chaos](images/chaos-inside-624x1024.jpg) The view through the rear hatch when we re-discovered Big Emma\[/caption\]
+\[caption id="attachment\_3685" align="alignleft" width="312"\]![rear-chaos]({{ site.baseurl }}/assets/images/chaos-inside-624x1024.jpg) The view through the rear hatch when we re-discovered Big Emma\[/caption\]
 
 Then I popped open the rear hatch and that hopeful spark was drowned in mud as quickly as it had been ignited. The inside was a mess. The propane tank and our two wooden storage boxes had toppled over; a million small items were scattered everywhere. It seemed like a giant had taken Big Emma and shaken her, turning our belongings into a homogeneous mix of pieces big and small. Every last corner had been caked in a thick layer of unappetizing mud frosting. All the bright colors on the inside had faded and been replaced with browns and grays. Some heavy item must have fallen against the corner of the countertop, creating a rift between it and the cabinet below.
 
@@ -126,7 +127,7 @@ _Oh! What the hell are you doing there at this time of the year? It's dangerous 
 
 He wasn't the first local to warn us today, and he wouldn't be the last. The Sibun was known to flood around here, everybody seemed to have heard the tales of its flash floods. Everybody but us.
 
-\[caption id="attachment\_3786" align="aligncenter" width="702"\]![](images/Belly_Up-1024x644.jpg) Big Emma's undercarriage (don't worry, we got her permission before posting this photo).\[/caption\]
+\[caption id="attachment\_3786" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Belly_Up-1024x644.jpg) Big Emma's undercarriage (don't worry, we got her permission before posting this photo).\[/caption\]
 
 ### Helping hands
 
@@ -144,7 +145,7 @@ While the Bus finally began to lean onto all four of her wheels, we collectively
 
 We jumped and shouted with joy. Step one - the most daunting of all the steps - was behind us. We could do this.
 
-\[caption id="attachment\_3688" align="aligncenter" width="702"\]![Big-Emma-rescued](images/Out-of-the-water-1024x512.jpg) Big Emma, just towed out of the river.\[/caption\]
+\[caption id="attachment\_3688" align="aligncenter" width="702"\]![Big-Emma-rescued]({{ site.baseurl }}/assets/images/Out-of-the-water-1024x512.jpg) Big Emma, just towed out of the river.\[/caption\]
 
 ### A situation we could work with, finally
 
@@ -172,7 +173,7 @@ Carlos was a skilled driver. He accelerated on the downhills to adjust for the s
 
 Carlos towed us into his mechanic shop, where the Bus would stay overnight. From here, we could start to work on our giant list of problems.
 
-\[caption id="attachment\_3684" align="aligncenter" width="702"\]![muddy-door](images/open-door-1024x512.jpg) The driver's side door as Big Emma sits in Carlos' mechanic yard.\[/caption\]
+\[caption id="attachment\_3684" align="aligncenter" width="702"\]![muddy-door]({{ site.baseurl }}/assets/images/open-door-1024x512.jpg) The driver's side door as Big Emma sits in Carlos' mechanic yard.\[/caption\]
 
 ### Not tonight
 

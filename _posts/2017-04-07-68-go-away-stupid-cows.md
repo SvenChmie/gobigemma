@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#68 Go Away Stupid Cows!"
 date: 2017-04-07
 categories: 

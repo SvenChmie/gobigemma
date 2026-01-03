@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#136 High Five Big Mama!"
 date: 2017-10-04
 categories: 

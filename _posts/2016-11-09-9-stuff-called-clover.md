@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#9 This Stuff Called Clover"
 date: 2016-11-09
 categories: 

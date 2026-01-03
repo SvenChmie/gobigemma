@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#84 Now I will know What Pennies are for Forever!"
 date: 2017-05-15
 categories: 

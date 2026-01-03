@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#70 You're Supposed to Find Momo, But I Found Him Already"
 date: 2017-04-12
 categories: 

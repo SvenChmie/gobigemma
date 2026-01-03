@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#8 Sven Fixed my Window!"
 date: 2016-11-07
 categories: 

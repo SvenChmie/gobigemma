@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#34 Trusty Humans"
 date: 2017-01-09
 categories: 

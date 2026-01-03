@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#17 Portland is Boring, Even if they Do Have Cool Waterfalls"
 date: 2016-11-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sven in Banff"
 date: 2016-07-17
 categories: 

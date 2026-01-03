@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#12 All it does Here is Rain!"
 date: 2016-11-16
 categories: 

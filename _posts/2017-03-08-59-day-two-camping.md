@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#59 A Day or Two of Camping"
 date: 2017-03-08
 categories: 

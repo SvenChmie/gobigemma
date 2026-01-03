@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#142 I Didn't Have to Move Us Today, Emma Did"
 date: 2017-11-24
 categories: 
