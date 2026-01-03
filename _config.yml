@@ -1,0 +1,4 @@
+title: GoBigEmma
+description: Panamerican adventures in a vintage VW Bus
+permalink: /:year/:month/:day/:title/
+baseurl: "/gobigemma"
