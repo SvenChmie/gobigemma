@@ -24,7 +24,7 @@ Thirty seconds after pulling in, we leave the parking spot and drive through the
 Here we are, on an intersection of two narrow streets in Tecate, Mexico. The road is dustier than on the other side, the houses are smaller and closer together (actually, there is no space between them at all), the colors are brighter, and yet the signs are also older and more faded. It sounds different, and even my sense of smell reports a sudden change in its domain.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Ensenada-1024x477.jpg" alt="Ensenada">
+  <img src="{{ site.baseurl }}/assets/images/Ensenada.jpg" alt="Ensenada">
   <figcaption>Big Emma on her first day in Mexico</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The immigration process serves as a wonderful example how different this part of
 [Baja California is still plastered with US-Americans](http://gobigemma.de/2017/04/27/the-gringo-conundrum/), but on every corner there is the Latin America that I've been missing so much. The warmth and rawness of life, the unpolished reality that is in every pothole on the road and every word of Spanish I overhear in the corner store. Wherever we are, it is imminent that this isn't Kansas anymore. The buildings are smaller, the bricks in the walls stacked a little less carefully, life has moved out of the homes into the street, from leather couches in front of [flatscreen TVs](http://www.gobigemma.com/2017/01/05/the-wonderful-absence-of-peripheral-tv-in-vanlife/) to streetside eateries and concrete benches in town squares.
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Cactus-300x272.jpg" alt="Cactus">
+  <img src="{{ site.baseurl }}/assets/images/Cactus.jpg" alt="Cactus">
   <figcaption>Try new things! Like.. cactus!</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ At the same time, our prejudices have dug themselves out of their graves, where
 While the cultural barrier is often an invisible line, something we know is there but can't put our finger on, it manifests itself strongly in language. My [Spanish](http://www.gobigemma.com/2017/02/16/popular-questions-hablamos-espanol/) is there, but it is more than dusty, stored away in the attic for far too long. I understand most things people tell me, but I struggle to find the words I need to have a meaningful conversation. Still, there is progress. Every time that I use Spanish a few more long-lost neurons are reconnected back to the language center in my brain. I reply to somebody's question and suddenly a word I had no idea I knew escapes over my lips into the ether. While in the first days my tongue got stuck on the Spanish accent more often than not, the _r_'s and _gue_'s now start to come out with less effort. My muscles are creatures of habit just as much as every other part of me, but they remember what they once knew and the moves only need a little bit of training to get fluent again.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Mulege-1024x544.jpg" alt="Tecate in Mulege">
+  <img src="{{ site.baseurl }}/assets/images/Mulege.jpg" alt="Tecate in Mulege">
   <figcaption>Quiet side street in Mulege. Tecate is THE beer brand around here, the signs are everywhere.</figcaption>
 </figure>
 

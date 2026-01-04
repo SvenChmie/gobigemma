@@ -28,7 +28,7 @@ And then, as we met more and more other van-dwellers on the road, we realized th
 And as a lifestyle, vanlife is rapidly gaining popularity. From its roots as a poor bum's version of massive American motorhomes, vanlife has evolved in a few short years to be a hip and modern way of redefined living. The reduced space and [carbon footprint](http://gobigemma.de/2017/04/20/popular-questions-hey-are-those-solar-panels/), the mobility it provides, the affordability of the lifestyle are key factors in its rise in popularity. New trends like [tiny houses](https://en.wikipedia.org/wiki/Tiny_house_movement) and the rebirth of camping as a hip way to explore the outdoors go alongside the rise of vanlife.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/descend-1024x346.jpg" alt="Descend on Bend Camping">
+  <img src="{{ site.baseurl }}/assets/images/descend.jpg" alt="Descend on Bend Camping">
   <figcaption>Vanlife events like [Descend on Bend](http://www.gobigemma.com/2016/11/03/pay-it-forward-giving-and-sharing-in-the-vanlife-community/) see huge gains in popularity. Last year saw a gathering of about 80 vans, which grew this year to over 300.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ A tool we and many other vanlifers rely on to [find free campsites](http://gobig
 ### **Our society is not made for vanlife**
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Sven_Talkeetna-200x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Sven_Talkeetna.jpg" alt="">
   <figcaption>Vanlifing in Talkeetna, Alaska</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ A petrochemical plant pollutes the forest you like to camp in? Bummer, but there
 But even though we cannot participate in society in the classic ways that stationary residents can, there are [other ways in which we do contribute](http://www.gobigemma.com/2017/01/19/discussion-concerning-social-responsibility/). We live a reduced, yet enriched life. We own less than the average citizen, and we use less space to contain the few things we own. At the same time, we see more of the world than Mr. and Mrs. Average.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/camping_laptop-1024x474.jpg" alt="Camping and Working">
+  <img src="{{ site.baseurl }}/assets/images/camping_laptop.jpg" alt="Camping and Working">
   <figcaption>Just camping out and doing some work</figcaption>
 </figure>
 

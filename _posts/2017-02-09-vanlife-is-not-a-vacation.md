@@ -19,7 +19,7 @@ These past two weeks, we’ve been on vacation. If you’ve been following our [
 We’ve gone to the usual place: Cape San Blas, on Florida’s northern Panhandle. Even after we’ve seen so much, this remains one of the most beautiful beaches I know. My family has come here and either camped or rented a house every year since before I was born. It’s where I learned to really like camping. If I can, I make an effort to come and hang out here every February.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Florida_Night_cut_scaled-1024x341.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Florida_Night_cut_scaled.jpg" alt="">
   <figcaption>Houses at night along Cape San Blas, Florida, where my family has vacationed for decades.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ We’ve gone to the usual place: Cape San Blas, on Florida’s northern Panhandl
 We left Big Emma back in LA with [a good friend](http://www.gobigemma.com/2017/01/26/friends_dumpsters_burritos_oceanside/), who also owns a [bus](http://www.gobigemma.com/2017/01/11/35-thats-buddy/) and is taking very good care of her while we’re gone. Although we miss her, and it is strange to be so far apart, it is good to take a short break. For two weeks, we’re living in a sturdy house right on the beach. Our fridge is full of cold beer, and the ceiling is high enough to stand up straight everywhere. We sleep in a big, soft bed and can take advantage of running water anytime we like. We know the area and where to go, and most days we don’t have to go anywhere at all. We’re not used to all of these conveniences.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Good_Morning_Florida-1024x1024.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Good_Morning_Florida.jpg" alt="">
   <figcaption>Full-size beds do have their perks.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ It is not usually like this. Not just because of higher ceilings or increased s
 ### **Some people seem to think that _vacation_ and _vanlife_ are the same thing**
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Emma-on-the-Beach-300x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma-on-the-Beach.jpg" alt="">
   <figcaption>On the beach on Cape San Blas, Florida</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ But why to our surprise? They see our lives through the beautiful pictures we po
 ### **We are usually very busy, except when we’re on vacation**
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Tetris-300x200.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Tetris.jpg" alt="">
   <figcaption>On vacation in Florida, I like to spend time playing a [different kind of Tetris](http://www.gobigemma.com/2017/02/02/playing-tetris-organize-bus/).</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ If vanlife is anything, it is not a time-out. It is full-blown life, with new ex
 This is one of the concepts that our media doesn't transport well: that vanlife is not a vacation, it is a _lifestyle_. And just like any other lifestyle, it has its good days and its bad days, its ups and downs. It has the days you want to photograph, and those that you don’t. There are days when we feel amazing, and days when we do not. [We have not simply opted out of life](http://gobigemma.de/2017/01/19/discussion-concerning-social-responsibility/) for a few years to travel; we have chosen to do life differently than before.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Camp-1024x510.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Camp.jpg" alt="">
   <figcaption>Camping near Joshua Tree National Park, California.</figcaption>
 </figure>
 

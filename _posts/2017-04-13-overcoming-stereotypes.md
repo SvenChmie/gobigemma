@@ -26,7 +26,7 @@ For the most part, these generalizations are harmless. However, stereotypes get 
 * * *
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Camping-day-one-Mexico-300x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Camping-day-one-Mexico.jpg" alt="">
   <figcaption>Our first night camping in Ensenada, Mexico. We paid to camp in a parking lot, where we could enjoy our first Mexican beer and watch the surfers.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ And where could they possibly be walking to? There is nothing around here, anywh
 We were told to trust our intuition and common sense. But how do you know if your common sense knows what’s going on? Especially in a place where your common sense has had no time to adapt itself. And yet, my intuition says that despite the fact that I don’t understand the situation, everything seems fine. They were nice. And my common sense tells me that people will go to lengths for some weed, even walking a few miles through the rain. But still, I can’t let it go that I just can’t make sense of it.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Camping-day-two-Mexico-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Camping-day-two-Mexico.jpg" alt="">
   <figcaption>Our campspot on our second day in Mexico, with incredible ocean views. It was free and on the outskirts of a quiet fishing village. The article's cover picture is the actual spot where this story takes place.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ It is hard to ignore what everybody else seems to think about Mexico. It is hard
 Yet, it is hard to ignore these warnings because _almost everybody_ has repeated them. Before we [got to Mexico](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), it was much, _much_ more common for someone to say something about how dangerous the country was, how we should watch out, how we needed to be careful, than for them just think Mexico is awesome. It would almost surprise me when the person we were having a conversation with did _not_ mention this. One person, upon discussion of Mexico, asked if we had a [gun](http://gobigemma.de/2016/09/01/shots-fired-an-outsiders-perspective-on-gun-culture-in-alaska/) (no, we don’t).
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Mexico_Road-1024x683.jpg" alt="Baja open road">
+  <img src="{{ site.baseurl }}/assets/images/Mexico_Road.jpg" alt="Baja open road">
   <figcaption>Baja: a lot of open road and empty space</figcaption>
 </figure>
 
@@ -90,4 +90,4 @@ Prejudice grows from ignorance. Fear of the unknown. Failure to understand. Not 
 
 It’s true, we probably shouldn’t be camping alone in a country we don’t know very well yet. But practicality is also important, and that beach was beautiful. I’m glad we didn’t let our fears get the better of us, and stayed. The view in the morning, when the sky was clear and sunny, was worth it.
 
-![]({{ site.baseurl }}/assets/images/Coastal_View-1024x509.jpg)
+![]({{ site.baseurl }}/assets/images/Coastal_View.jpg)

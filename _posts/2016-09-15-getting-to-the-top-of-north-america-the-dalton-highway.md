@@ -36,7 +36,7 @@ It was, indeed, a long, long dirt road. Potholes galore. To the east and west yo
 We reached the Arctic Circle (Mile 115), camped and had fun and got to know our travel companions, people we barely knew a day ago. And on day two, as we drove along a nice long stretch of asphalt, we heard a very loud, ominous CLUNK.
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/0_19424f_ba83a325_orig_resized-300x200.jpg" alt="CV Joint Bently">
+  <img src="{{ site.baseurl }}/assets/images/0_19424f_ba83a325_orig_resized.jpg" alt="CV Joint Bently">
   <figcaption>Photo Credit: Klim Bulygin @http://en.uxman.ru</figcaption>
 </figure>
 

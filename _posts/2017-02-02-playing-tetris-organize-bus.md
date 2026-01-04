@@ -29,7 +29,7 @@ When we meet other [vanlifers](http://www.gobigemma.com/2016/10/06/vanlifers-fel
 ### Everything in the Bus has its ‘spot'
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Sink-Cabinet-141x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Sink-Cabinet.jpg" alt="">
   <figcaption>Our water-tank cabinet. The top shelf contains extra kitchen things and other household items; the middle shelf holds our first-aid kit, fire starters, mosquito coils, and plastic bags of various sizes; the lower shelf contains our stackable pots and Tupperware with small cooking items. Click to expand.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Which leads to the fact that everything in the Bus has its spot. It is not alway
 In many cases, things only fit one exact way, and can only be put away in a specific order. On the lower shelf of the water-tank cabinet, for example, sit exactly two things: our stackable pots and pans, and the small layered Tupperware that hold small cooking gear like our can-opener, spices, bottle openers, lighters, etc. Whenever we want to access the stacked pots, we _have_ to remove the Tupperware. It doesn’t fit any other way. I’m sure there is a space in your house or apartment that works like this, too. In our Bus, this is everywhere.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Inventory-1024x266.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Inventory.jpg" alt="">
   <figcaption>Click to expand and get a good look inside Big Emma.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ _Tired? Fold the bench into a bed by sliding left or right!_
 ### So, what _do_ we have in our Bus?
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Wheel-291x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Wheel.jpg" alt="">
   <figcaption>The wheel on a two-by-four to avoid angled sleeping. Don't worry, our tire isn't flat!</figcaption>
 </figure>
 

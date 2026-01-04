@@ -17,7 +17,7 @@ Big Emma is a VW Bus. There are many characteristics that one can immediately as
 
 This is especially true for Big Emma. Some buses can go faster, especially if they aren’t traveling uphill, but she is laden with equipment, and regularly carries two or more people. And most importantly: we don’t _like_ driving fast. We aren’t trying to win any races. And the slower we are, the more careful we can be with our vehicle, which is currently the most important thing we own. Why take a curve at 55, when you can take it at 35 and feel much safer? In Big Emma, much more so than in modern cars, you feel every rock, every bump underneath your tires, you are much more connected to the road. We are also shaped like a giant loaf of bread. So our motto: the slower, the better!
 
-![]({{ site.baseurl }}/assets/images/Out-the-Window-1024x682.jpg)
+![]({{ site.baseurl }}/assets/images/Out-the-Window.jpg)
 
 This is a mindset we generally adhere to, not just on curvy mountain highways. A lesson we have learned on all of our previous travels is that you can never enjoy a place long enough. I recently began reading _Don’t Go There. It’s Not Safe. You’ll Die. And Other more Rational Advice for Overlanding Mexico and Central America_, an excellent read for Panamerican travelers, written by Panamerican travelers [Life Remotely](http://liferemotely.com/). They say it well: “There is never enough time. Never. Even if you give yourself a year to travel, you will want more”. Like many of the words in the book, this rings the bells of truth in my ears. We set out on this journey with the intention of enjoying the places we go without being in a big hurry.
 
@@ -26,7 +26,7 @@ This is a mindset we generally adhere to, not just on curvy mountain highways. A
 The average Panamerican overlander takes about two years to complete the journey from Alaska to Argentina. Up in Alaska, we met up with two Argentinian couples, [Kombi pal Norte](https://www.instagram.com/kombipalnorte/) and [Amerikombiando](https://www.instagram.com/amerikombiando/), who took 2 and 2 1/2 years to complete their journeys. The crew from Life Remotely also took about 8 months to complete the first half of their trip (USA to Panama), starting from Seattle, WA and spending only 28 days in the USA in 2011.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Buses_in_Anchorage-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Buses_in_Anchorage.jpg" alt="">
   <figcaption>Left to right: Amerikombiando, Kombi pal Norte, GoBigEmma</figcaption>
 </figure>
 
@@ -35,14 +35,14 @@ However, many people take a much shorter time to do the trip, and some travel fo
 The duration of a trip on this scale involves many factors for most travelers, not in the least the type of ride. Most of the examples I have given above are doing it in VWs, but Mototraverse is on motorcycles, and Life Remotely was in a 4Runner (both of them camped in tents, or stayed in the occasional hostel, as their vehicles were not outfitted for sleeping). And even among the VW travelers, a bus never equals a bus. The Bus and Us have a 1975 Westy with a Subaru engine conversion (this means that they have a much more powerful and reliable engine than those traveling with originals like ours), and Ben from Hasta Alaska had many more engine problems than most of us ever hope to see. Other factors often include the traveler’s budget, if they have a job they promised to return to, and how much time they like to spend in one place.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Big_Emma_Lost_Coast_Morning-1024x682.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Big_Emma_Lost_Coast_Morning.jpg" alt="">
   <figcaption>Morning on the coast of Northern California, near Mendocino.</figcaption>
 </figure>
 
 ### We will need longer than average
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Big-Tree-Hug-300x200.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Big-Tree-Hug.jpg" alt="">
   <figcaption>Sometimes you just need to take the time to give extra-big friends those extra-big hugs. (Redwood State and National Parks, California)</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ To put things in perspective, we have visited exactly two of the 23 countries on
 Let’s assume we love everywhere we go. If we say the average visa lets us stay in every country for three months, and we decide to make the most of every visa, we would still have over 5 years of traveling ahead of us. I sincerely don’t think this will happen, but it _is_ within the realm of possibility. Even if we only take a month in every country coming up, we will still be gone for another two years. And that does not include breakdowns that leave us stuck in one spot (also within the realm of possibility). You never know what will happen.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Svens-Big-Feet-1024x682.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Svens-Big-Feet.jpg" alt="">
   <figcaption>We hope days like this won't leave us stranded for weeks. This hiccup left us fumbling for a little over an hour near San Luis Obispo, California.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ We also have a budget that allows this: we are dependent on our savings, but als
 ### Time is the most precious commodity
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Sunset-Silouette-300x200.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Sunset-Silouette.jpg" alt="">
   <figcaption>Sunset near Death Valley, California.</figcaption>
 </figure>
 
@@ -73,14 +73,14 @@ We don’t want the trip to take another 5 years, but we _do_ like traveling slo
 Life Remotely said it perfectly: There is never enough time. I want to have the time to stay if I like a place or the people I meet there. I will quite possibly never have the opportunity to “live” in California again, so why not use that opportunity to its full extent? Time is the most precious commodity, which is why we decided, from the start, to go slow and take our time.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Emma-in-the-Desert-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma-in-the-Desert.jpg" alt="">
   <figcaption>Exploring the desert mosaics (Death Valley, California)</figcaption>
 </figure>
 
 ### Slow travel is deep travel
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Emma-and-Shara-300x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma-and-Shara.jpg" alt="">
   <figcaption>Visiting a very old friend in Woodside, California.</figcaption>
 </figure>
 
@@ -91,6 +91,6 @@ But we also spent time in the towns of [Woodside](http://www.gobigemma.com/2017/
 And yet, what Life Remotely says still rings true. There is so much in this one single US State that we have not gotten to explore: winter storms prevented us from going to Sequoia National Forest, and snow prevented us from visiting Yosemite, one of the most famous parks in California. We don’t want to leave our [new friends](http://www.gobigemma.com/2017/01/26/friends_dumpsters_burritos_oceanside/) behind to [cross into Mexico](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/). But we also can’t stay here forever, and the road continues to call. We still have 21 countries to visit.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Big_Emma_Ireland-1024x509.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Big_Emma_Ireland.jpg" alt="">
   <figcaption>Morning beauty near Bakersfield, Calfornia. We've been told that the landscape is usually brown, but a series of winter storms has brought out that Ireland green.</figcaption>
 </figure>

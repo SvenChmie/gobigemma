@@ -19,7 +19,7 @@ In the United States, we've traveled along seismic and political fault lines, th
 
 * * *
 
-## ![goodbye USA - Alaska]({{ site.baseurl }}/assets/images/Alaska-1024x509.jpg)
+## ![goodbye USA - Alaska]({{ site.baseurl }}/assets/images/Alaska.jpg)
 
 It's raining on us in a trailhead parking lot in Anchorage. Under a sloppily-attached tarp that allows the rain to still drip through the cracks onto our heads, we try to replace a wheel bearing. A task we'd never done before and only started in the late afternoon, our chances of success are slim. After hours of wrenching and cursing, greasing and getting drenched, we give up and get the car back together enough to drive. It's long after midnight and nothing is accomplished, except that we learned not to make attempts on changing wheel bearings in the pouring rain. Alaska has been filled with moments like this. Learning how to do things, making beginner's mistakes.
 
@@ -34,7 +34,7 @@ But just as a sunny day is enough to dry our clothes and curtains from a week of
 Alaska made an impression on us in many different ways, but a major one was definitely its people. One of the most interesting characters we met in the far North is Jason. We were enjoying a rare splurge, an afternoon drink at a rare kind of place, a hip craft brewery in Alaska. There are only two breweries in Fairbanks (an unimaginably low number for anybody living on the West Coast of the US), and HooDoo Brewing, we were told, is the one to visit if you only have [money](http://gobigemma.de/2016/12/01/want-donate-button-money-delicate-thing/) for one.
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Jason-300x279.jpg" alt="Jason">
+  <img src="{{ site.baseurl }}/assets/images/Jason.jpg" alt="Jason">
   <figcaption>Jason playing some campfire tunes at his housewarming party</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ The garage of Jason's new home is slowly swallowed by the melting permafrost gro
 Other people made lasting impressions on us as well. Only a 20-minute drive from Fairbanks lies the small town of North Pole. Bearing this iconic, yet somewhat misleading name (North Pole is still thousands of miles away from the actual north pole, no matter if you count the geographical or the magnetic one), North Pole has named itself the official home of Santa Claus. Streets have names like "Mistletoe Lane", and virtually all light posts in the city resemble gigantic candy canes.
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Riveras-300x293.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Riveras.jpg" alt="">
   <figcaption>The Rivera family</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ We left the Riveras and Alaska with a heavy heart. If getting to know new people
 
 * * *
 
-## ![Goodbye USA - PNW]({{ site.baseurl }}/assets/images/PNW-1024x509.jpg)
+## ![Goodbye USA - PNW]({{ site.baseurl }}/assets/images/PNW.jpg)
 
 It's [raining on us in the forests of Oregon](http://www.gobigemma.com/2016/12/15/snapshots-every-day-is-different-when-you-travel/). I can't see out of my window for all the moisture fogging up the glass, but I can see the drops leaking through the rubber seal below the window into the car. Drop by drop, the water finds a way through the tiny cracks in the black rubber, drop by drop accumulates on the windowsill until gravity forces it to abandon its post and pulls it down the wooden door cover.
 
@@ -74,7 +74,7 @@ We are somewhere outside of Tillamook, a small coastal town with a cheese factor
 Shortly after the election, we visited Shameem, Emma's 3rd-grade teacher in Portland. Now a friend of the family and an amazing chef, she offered us her home and we stayed for a week as we digested the election results and saw the country react. While peaceful protest turned violent in downtown Portland, we were presented with the broader consequences of the election. Shameem, being of Indian descent and having grown up in a Muslim family, is also a university professor for teaching, and a liberal activist. For her, that week was simply one of depression and fear for the future.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Shameem-1024x497.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Shameem.jpg" alt="">
   <figcaption>Shameem and Emma on a rainy post-election day</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Would an aura of white supremacy in the White House lead to more violence agains
 ### How could we have missed this?
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Trump-1024x324.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Trump.jpg" alt="">
   <figcaption>A lonely Trump sign on a lonely island</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Before the election, we hadn't paid much attention to the myriad of Trump signs 
 
 * * *
 
-## ![Goodbye USA - California]({{ site.baseurl }}/assets/images/California-1024x509.jpg)
+## ![Goodbye USA - California]({{ site.baseurl }}/assets/images/California.jpg)
 
 It's raining on us in the Hidden Valley of Joshua Tree National Park. The Mojave desert, one of the driest places on the continent, proves to be just as vulnerable to the torrential downpours as any other place we've been to in the Western US. Within hours, the desert begins to process the water and turn it into life. Every pore of every cactus soaks up the liquid, it runs through the plants like blood through our veins, pumping through dried-out cell channels and activating its chlorophyll production. It takes less than half a day for the palm trees and cacti to turn from dusty brown to a lush green. Meanwhile, the sand can't soak up the water and it creates streams where there was nothing the day before. In the campground, a river runs through it right behind Big Emma. A tent sits right in the middle of the stream, a nylon island in a white water rafting dream.
 
@@ -106,7 +106,7 @@ We experience a few more winter storms throughout our travels in California. In 
 ### Who will fade and who will stay
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Robbie-300x264.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Robbie.jpg" alt="">
   <figcaption>Robbie, happy that Big Emma's engine is finally out</figcaption>
 </figure>
 

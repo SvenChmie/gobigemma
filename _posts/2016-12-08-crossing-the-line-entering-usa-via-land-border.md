@@ -28,7 +28,7 @@ This border crossing back into the US mainland, however, was different. When I e
 At the checkpoint, the officer on duty skimmed through the pages of our passports, meanwhile asking us the usual questions about our travel plans, our lives. After a few seconds, he looked up and said, "Please pull over to the side there and step into the office." Of course, it wouldn't be that easy this time, just as we had suspected.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Canada_Border_Dark_Sky-1-1024x510.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Canada_Border_Dark_Sky-1.jpg" alt="">
   <figcaption>Border crossing between Canada and Alaska. In the middle of nowhere, but at least it's an office with a view!</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Those 20 minutes had stretched to an eternity. Outside the light had faded and n
 Finally, officer Bob came back. He seemed pleased. "Nice website", he said. "who's paying you for all that work?" “Nobody," we answered truthfully. The answer seemed to satisfy him. He said, "Okay, I won't turn you around, that would be too harsh. What I might do though is limit your time, not give you the full six months.”
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/International_Boundary-233x300.jpg" alt="International Boundary stone marking the border">
+  <img src="{{ site.baseurl }}/assets/images/International_Boundary.jpg" alt="International Boundary stone marking the border">
   <figcaption>...and don't you trees just migrate without a visa!</figcaption>
 </figure>
 

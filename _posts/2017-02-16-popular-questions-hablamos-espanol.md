@@ -21,7 +21,7 @@ The short answer is simply: yes, Sven speaks Spanish. In 2010, he spent a semes
 ### Sven speaks Spanish, I’m still learning
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Leb-deinen-Traum-3-300x200.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Leb-deinen-Traum-3.jpg" alt="">
   <figcaption>Learning languages has been an important factor in our lives for a number of years. The inside of our Bus is decorated with German refrigerator magnets. "Leb deinen Traum" translates to "live your dream".</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ And one of the most interesting questions is _how_ I will learn the language. De
 
 ### **Language immersion:** surround **yourself with Spanish**
 
-_![]({{ site.baseurl }}/assets/images/Spanish-Flash-Cards-300x300.jpg)Language immersion_ means learning a language by surrounding yourself with it, using it (and nothing else) no matter how little is at your disposal, and making mistakes to continue learning. This means the focus is not on whether you are using the language correctly or incorrectly, but rather if you can successfully communicate with your conversation partner. As important as foreign language classrooms are in school, I truly believe that immersing yourself is the most effective and quickest way to learn a language. So, my solution to finally learning Spanish? Spend over two years traveling through Latin America and using it.
+_![]({{ site.baseurl }}/assets/images/Spanish-Flash-Cards.jpg)Language immersion_ means learning a language by surrounding yourself with it, using it (and nothing else) no matter how little is at your disposal, and making mistakes to continue learning. This means the focus is not on whether you are using the language correctly or incorrectly, but rather if you can successfully communicate with your conversation partner. As important as foreign language classrooms are in school, I truly believe that immersing yourself is the most effective and quickest way to learn a language. So, my solution to finally learning Spanish? Spend over two years traveling through Latin America and using it.
 
 Of course, this is easier said than done. Despite everything we may think now, it is very difficult to always speak a foreign language to a loved one. Sven and I plan on doing our best to also speak Spanish with each other, but often it will be more convenient and faster to communicate in one of the languages we know better (English or German). The most important lessons will come when we speak with locals we meet along the way. In the process, both a lot of frustration and a lot of discipline are to be expected.
 
@@ -51,7 +51,7 @@ For us, learning the language of the place we are spending a significant amount 
 ### An example of German _Brötchen_
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Broetchen-216x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Broetchen.jpg" alt="">
   <figcaption>A very fancy German breakfast. Brötchen can be seen in the basket in the back. A Brötchen sliced down the middle can be seen on my plate in the foreground.</figcaption>
 </figure>
 

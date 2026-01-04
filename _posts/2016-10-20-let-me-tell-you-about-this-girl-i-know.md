@@ -19,7 +19,7 @@ She is our partner in crime, our method of transportation, our [home](http://www
 ### We are not only Big Emma's companions...
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Companions-1024x420.jpg" alt="companions">
+  <img src="{{ site.baseurl }}/assets/images/Companions.jpg" alt="companions">
   <figcaption>Into the woods!</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ She has her [good days](http://www.gobigemma.com/2016/11/30/18-good-mood/) and h
 And while she will always look sweet as pie to any stranger, this girl is a lot of work. She is moody, and under the crust of her youthful appearance there are wrinkles and aches, the pinching little pains of getting older. Besides being Big Emma's mates on this trip, we are also her doctors. Unfortunately for her, we dropped out of med school before graduation, but we try to make it up by caring more than any hired doctor ever would, that extra bit that you can only care as friends. One day it's her distributor points that need aligning, another day the rain comes into one of the windows in the front. One day the sliding door suddenly refuses to lock, although it was fine just an hour ago. When she demands attention, we have no choice but to comply. We're still learning to cater to her occasionally overpowering spontaneity.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Emma_under_Bus-1024x490.jpg" alt="emma_under_bus">
+  <img src="{{ site.baseurl }}/assets/images/Emma_under_Bus.jpg" alt="emma_under_bus">
   <figcaption>Doc Emma at work. "Does it hurt when I pull on this?" "Ouch!" - Image by Klim Bulygin</figcaption>
 </figure>
 

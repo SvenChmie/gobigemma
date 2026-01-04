@@ -18,7 +18,7 @@ I studied to be a teacher, as I have [mentioned before on this blog](http://www.
 ### The decision not to teach
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Emma-MA-Thesis-225x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma-MA-Thesis.jpg" alt="">
   <figcaption>Me and my completed thesis (December 2015)</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ But did that mean that what I was doing didn’t play a role, didn’t count? Wa
 
 Which brings us to the root of this discussion: are travel and vanlife things that arise out of selfishness - and if so, is that a bad thing - or do we see other purposes behind the life that we have chosen? Why was traveling important to me in the first place?
 
-![]({{ site.baseurl }}/assets/images/Emma-on-Computer-1024x546.jpg)
+![]({{ site.baseurl }}/assets/images/Emma-on-Computer.jpg)
 
 ### Cultural exchange and intercultural communication
 
@@ -53,7 +53,7 @@ Anyways, this is what we are really into. Seeing places in foreign countries is 
 And let’s extend this idea for a second. We haven’t [entered Central or South America](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/) yet. When we do, everything will be in Spanish, everything will be very Latino, and intercultural communication will become one of the most important pillars of our daily lives, for _years_ to come. I can’t wait. [So far, our entire trip, over six months of travel, has only taken place in the United States and Canada](http://www.gobigemma.com/2017/03/09/goodbye-usa-a-look-in-the-rear-view-mirror/), cultures we consider to be very close to home.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/HV_Adventuire-1024x579.jpg" alt="camping">
+  <img src="{{ site.baseurl }}/assets/images/HV_Adventuire.jpg" alt="camping">
   <figcaption>Camping with [HVAdventure](https://www.instagram.com/hvadventure/) in Joshua Tree</figcaption>
 </figure>
 

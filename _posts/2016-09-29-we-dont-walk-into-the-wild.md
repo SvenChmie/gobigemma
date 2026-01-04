@@ -21,7 +21,7 @@ Healy, Alaska is a rugged small town, only a few miles north from Denali Nationa
 McCandless' story has found us again and again since we started to plan our trip to Alaska. Somebody even told us "Don't become the next Into-the-Wild-Dude up there", meaning we shouldn't go unprepared and underestimate the wildness and remoteness of the northern country. A strange comparison, given we can hardly go anywhere not accessible by car. Asked what they know about Alaska, chances are half of your drinking buddies at the bar or the friends at your potluck dinner will mention _Into the Wild_. Certainly almost every Alaskan will have heard of it.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Krakauer_LP-1024x333.jpg" alt="Essential Alaska reading">
+  <img src="{{ site.baseurl }}/assets/images/Krakauer_LP.jpg" alt="Essential Alaska reading">
   <figcaption>Essential Alaska reading</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ But what is the story of this Chris McCandless, and why does it matter to people
 Chris McCandless was born in a suburb of Washington, D.C. into an upper middle class family. He was a bright kid, excelling at most things he did, but also highly idealistic and individualistic. After graduating college, he decided that the legal career he had studied for was not what he wanted from life and he went to live on the road instead. He tramped around the United States and Mexico, working here and there for a while, trying to prove he did not require a "society" to rely on. Money and possessions were ballast in his book, keeping people from living a fulfilled and meaningful life.
 
 <figure class="align-left">
-  <img src="{{ site.baseurl }}/assets/images/Stove-1024x581.jpg" alt="Inside the bus replica at the 49th State Brewery in Healy">
+  <img src="{{ site.baseurl }}/assets/images/Stove.jpg" alt="Inside the bus replica at the 49th State Brewery in Healy">
   <figcaption>Inside the bus replica at the 49th State Brewery in Healy. McCandless' bus had a stove, a bed, and a few shelves as well.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ So, besides the fact that it is a tragic story, what is so interesting about Chr
 For travelers across the globe, however, McCandless is a hero, a role model for a life off the grid and outside the norm. The fact that these life choices eventually killed him only seem to emphasize the appeal. In a way, McCandless is a modern martyr. He died for his belief that a different way of life is possible, a "traveler messiah", dying for all of us wanderers searching for a way to live our dream.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Sign-1-1024x438.jpg" alt="sign">
+  <img src="{{ site.baseurl }}/assets/images/Sign-1.jpg" alt="sign">
   <figcaption>A sign at the [sign forest in Watson Lake,](http://www.gobigemma.com/2016/07/16/sign-forest/) showing how Chris McCandless , who nicknamed himself "Alex Supertramp", continues to be a role model for travelers today.</figcaption>
 </figure>
 
@@ -56,13 +56,13 @@ In reality, it's likely McCandless was none of the above. Yes, he made mistakes 
 Standing in front of the brewery, we met an Australian guy. "This is what I came to Alaska for," he told us. He said the reason for visiting the state was to go on the Stampede Trail, the path leading to the actual bus that is still there, about 20 miles off the highway outside of Healy. He had arranged a tour with a local guide to take him to the bus, paying several hundred dollars. But due to the Teklanika river being too high, the same river that had stopped McCandless from returning from the wild, the trip was canceled. "But I found a guy in town", he continued as we stepped into the bus in the brewery yard, "he runs a helicopter business and he'll take me to the bus tomorrow." I asked him how much he had to pay for the ride, he replied "It'll be about a thousand bucks, I guess". A trip to Alaska and a thousand dollars, just to see a bus in the woods, to see the place a young idealistic man decided to call home and where he perished trying to realize his dream. It doesn't seem likely Chris McCandless, the man who gave away his savings and burned all the cash in his pocket, would have liked this way of honoring him.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Wilderness_2-1024x438.jpg" alt="wilderness_2">
+  <img src="{{ site.baseurl }}/assets/images/Wilderness_2.jpg" alt="wilderness_2">
   <figcaption>The Alaskan wilderness: rivers, trees, and endlessness. Photo by Klim Bulygin</figcaption>
 </figure>
 
 Since it became a legendary place, thousands of people have traveled the Stampede Trail to the bus, slept in the wreck, and left their mark. Graffiti lines the inside of the bus, we've been told. Some are by McCandless himself, but most are left there by his disciples, walking, driving, even flying into the wilderness to get to the "Magic Bus", as McCandless had called it in a diary entry. Many who visit the bus get in over their heads, and have to be rescuced by the State Troopers. One tourist, according to the _Lonely Planet_, even died trying to reach the bus in 2010.
 
-![broken_door]({{ site.baseurl }}/assets/images/Broken_Door-288x300.jpg)We decided against visiting the bus, partly because of the difficulty of reaching it, partly because we felt it wouldn't feel "right" to go to this place as tourists, somehow dishonoring it. So, what is it that rubs me the wrong way with how the story of Chris McCandless is treated by the traveler community? It has become a pop-culture icon, a caricature of a free life, appealing to millions. A shiny hipster Instagram version of what it was that - according to Krakauer - McCandless had tried to achieve. I feel it does not do justice to his ideals, ideals that I do not necessarily share in the extreme way that this kid lived them, but that are nontheless in a similar direction of how we are trying to live our lives: on the road, outside the lines of what many consider the normal patterns of our society, and determined to fulfill our dream.
+![broken_door]({{ site.baseurl }}/assets/images/Broken_Door.jpg)We decided against visiting the bus, partly because of the difficulty of reaching it, partly because we felt it wouldn't feel "right" to go to this place as tourists, somehow dishonoring it. So, what is it that rubs me the wrong way with how the story of Chris McCandless is treated by the traveler community? It has become a pop-culture icon, a caricature of a free life, appealing to millions. A shiny hipster Instagram version of what it was that - according to Krakauer - McCandless had tried to achieve. I feel it does not do justice to his ideals, ideals that I do not necessarily share in the extreme way that this kid lived them, but that are nontheless in a similar direction of how we are trying to live our lives: on the road, outside the lines of what many consider the normal patterns of our society, and determined to fulfill our dream.
 
 ### "Happiness is only real when shared"
 

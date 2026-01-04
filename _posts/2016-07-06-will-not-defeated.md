@@ -17,7 +17,7 @@ These lines were written long before we actually got around to publishing our fi
 
 But we meant what we said when we hoped they would be rather infrequent. So when we had our first breakdown not even a week into our trip, the thought had to cross our minds: really, it only took us a _week_? How untalented are we at this car stuff, how unrealistic was our idea of traveling in a 40-year-old vehicle and being able to successfully get where we are going without constantly having problems? It’s almost embarrassing. If we estimate the number of weeks that we will be on the road in Big Emma in the coming years (a whole lot), a breakdown every other week that then leaves us stranded for another one is a pretty nasty score. Oh shit.
 
-[![Brake job or Hailstorm?]({{ site.baseurl }}/assets/images/Brake-Job-Rain_scaled-300x200.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/07/Brake-Job-Rain_scaled.jpg)
+[![Brake job or Hailstorm?]({{ site.baseurl }}/assets/images/Brake-Job-Rain_scaled.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/07/Brake-Job-Rain_scaled.jpg)
 
 We left Illinois in euphoria. Yes, we will miss my parents and the comfort of their home. But now we are in the comfort of [_our_ home](http://www.gobigemma.com/2016/08/04/welcome-to-our-house/), and we can take it wherever we want to, explore the world from top to bottom. We can just drive and write and take pictures. We left, headed towards Wisconsin to visit my aunt before heading across the Great Plains, where you can see just hills and grass for miles. We got to the Badlands, an otherworldly collection of strange rock formations that have no earthly place on the plains of South Dekota. We traveled, we slept in our Bus, we made sure to listen for all sorts of irregular Bus sounds, and we headed towards Denver.
 
@@ -29,7 +29,7 @@ But at least we _had_ done the brakes with Colin. We had seen how they work, how
 
 And we did. With a safe haven thanks to a magnificent contact in Denver, we had the time and the space to work on the car. We got the parts (new brake shoes, new drums, new brake cylinders, and lots of sandpaper, paper towels, and brake cleaner) and we started to put them together.
 
-[![Brake-Pads-Comparison-1_scaled]({{ site.baseurl }}/assets/images/Brake-Pads-Comparison-1_scaled-300x200.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/07/Brake-Pads-Comparison-1_scaled.jpg)
+[![Brake-Pads-Comparison-1_scaled]({{ site.baseurl }}/assets/images/Brake-Pads-Comparison-1_scaled.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/07/Brake-Pads-Comparison-1_scaled.jpg)
 
 And then the rain started. No, excuse me, the hail started, as a storm struck Denver that made national news. Our awning was torn off the car, our tools and books and camping gear were buried in water and grit and dirt. And the whole time, our car was up on the jack, in the middle of putting on our shiny new brake drum. It was so damn shiny. And now it was so damn wet. Goddamn it. We got this far, why does everything just get even more difficult?
 

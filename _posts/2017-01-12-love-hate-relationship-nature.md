@@ -18,7 +18,7 @@ A lifestyle like this offers us is a much deeper connection to nature than we've
 ### We spend a lot of time outside
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Sven-peein-on-JTree-300x200.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Sven-peein-on-JTree.jpg" alt="">
   <figcaption>Necessary pit stop in Southern California</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ We camp a lot. Most days (in the United States) we drive out into the wilderness
 And we are surrounded by nature. Sometimes, it's a forest so thick with trees you can barely see the sky. Sometimes, it's a foggy mountain pass, where the road is unclear even 20 meters away. Or maybe a field of tall, high grasses, where you can see towering mountains in the background. Or on the middle of a desert plain, surrounded by small bushes and trees and thick, gravely sand. Often, if we stop speaking and just listen for a bit, all you can hear is natural noises, like birds chirping or frogs burping. And sometimes, all you can hear is pure, complete silence.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Salmon_Glacier-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Salmon_Glacier.jpg" alt="">
   <figcaption>Salmon Glacier (near Hyder, Alaska)</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ And we are surrounded by nature. Sometimes, it's a forest so thick with trees yo
 Being in the middle of nature a lot is not always a positive thing. There are parts of nature that can weigh heavy on us, our lifestyle, and Big Emma. We spent, for example, about two months in the [Pacific North West](http://www.gobigemma.com/2016/12/15/snapshots-every-day-is-different-when-you-travel/), in the rainforests and on the coasts of Washington and Oregon. It had been almost constantly wet for us for the whole period. Sometimes drizzels, sometimes pouring in heaps, sometimes we will get back to the Bus soaking wet. The Bus was [full of condensation](http://www.gobigemma.com/2016/11/18/13-now-theres-always-water-inside-ugh/) in the mornings (and I mean _full_, it was even on our wood furniture), which is a major problem in the long run, as moisture leads to mold. And we have nowhere to dry things well inside the Bus. Socks and little things, those are okay. But our dish towels just won't dry, and it's almost better not to take a shower so I don't have to live with wet towels in our Bus for days.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Wet_Inside-1024x509.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Wet_Inside.jpg" alt="">
   <figcaption>The inside of our sliding door covered in condensation in the morning (Olympic National Park, Washington)</figcaption>
 </figure>
 
@@ -49,14 +49,14 @@ To top that off, weather like this makes our power situation bad. The fact that 
 Days like these in climates like the Pacific North West are not very fun, but they are not the only things our relationship to nature has to offer us. We get to feel the power of a storm, what it is like to feel the wind blow something as heavy as our Bus and water rattle against our top. We can step outside and see a clear night sparkling with stars, or the awe-inspiring aurora. We have the privilege of witnessing the [mind-boggling phenomena of a glacier](http://www.gobigemma.com/2016/08/25/the-mighty-and-the-small/) close-up. I climb mountains with my own legs, and get rewarded with spectacular views of sights I could never describe well enough. I get to look up at the towering [redwoods](http://www.gobigemma.com/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california/). We feel - better than ever - the gracious power of the sun. I get to see dolphins, and huge sea lions, and whales swim in the ocean. Tonight, we heard a pack of coyotes howling right outside our Bus. These things are beautiful, and reminds us of how amazing all of this nature is. It makes you forget about the fact that our engine runs the risk of overheating in the wide, desert sun.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Ice_cave-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Ice_cave.jpg" alt="">
   <figcaption>Ice cave in Mendenhall Glacier (Juneau, Alaska)</figcaption>
 </figure>
 
 It is always a give-and-take. We spent so much time in Oregon and Washington, almost a third of trip so far, because we also thought it was beautiful. Sure, it is really rainy, but the [rainforests are gorgeous](http://www.gobigemma.com/2016/11/21/14-okay-maybe-rain-beautiful/), and it is a state so filled with National Forests (National Forest means great [free camping](http://gobigemma.de/2017/07/06/popular-questions-really-can-camp-free/) for us) that we can often choose which one we want. The misty, rocky coastline of the Pacific North West has something magical about it, that make you want to stare at it for hours. But then it starts to rain heavier, and it is time to get back to Big Emma. But every climate is like that, with the things we love about it, and the things that are very annoying.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Whale-Tails-1024x678.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Whale-Tails.jpg" alt="">
   <figcaption>Whales near Juneau, Alaska. Photo by Carolin Gesch.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ It is always a give-and-take. We spent so much time in Oregon and Washington, al
 In [Alaska](http://gobigemma.de/2016/08/18/alaska-the-land-of-dreams/), we were in places with thick, wild forests and mountain tundra. We have seen the rainforests of Washington and the [high deserts of Oregon](http://www.gobigemma.com/2016/11/03/pay-it-forward-giving-and-sharing-in-the-vanlife-community/). The misty coastline of Northern California, and the sunny mountains of the Central and Southern California coasts. In Oregon, there were places we failed to visit all together, because we didn’t want to fight our Bus through the [snow](http://www.gobigemma.com/2016/12/19/26-bus-friends-bus-friends-no-matter-far-youve-gone/) and live in freezing temperatures.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Emma-and-Caro-in-the-Mountains-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma-and-Caro-in-the-Mountains.jpg" alt="">
   <figcaption>View over Eklutna Lake (Alaska). Photo by Konstantin Teyang.</figcaption>
 </figure>
 

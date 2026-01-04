@@ -256,6 +256,7 @@ article h1 {
   color: rgb(166, 166, 166);
   margin-top: 0.5em;
   line-height: 1.4;
+  text-align: center;
 }
 
 /* Figure alignment classes */
@@ -266,23 +267,27 @@ article h1 {
 }
 
 .post-content figure.align-right {
-  text-align: right;
-  margin-left: auto;
+  float: right;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
   max-width: 50%;
 }
 
 .post-content figure.align-left {
-  text-align: left;
-  margin-right: auto;
+  float: left;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
   max-width: 50%;
 }
 
 @media (max-width: 768px) {
   .post-content figure.align-right,
   .post-content figure.align-left {
+    float: none;
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1.5em;
   }
 }
 

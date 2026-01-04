@@ -18,7 +18,7 @@ One of the themes throughout our trip has been [meeting up with other travelers]
 We jump at doing this any and every chance we get. Not only does it provide good company and a lovely time, meeting other travelers is one of the best ways to get advice for [living in a vehicle](http://www.gobigemma.com/category/vanlife/) or places you should visit or avoid down the road. It creates a sort of traveler-infrastructure that becomes essential to any sort of travel - it’s very similar to backpacking, in a way. These are the people that are experts in the on-the-road-lifestyle that we are attempting to lead, and meeting up is a way to share that bond, as well as useful information.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Gringo-Camping-1024x255.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Gringo-Camping.jpg" alt="">
   <figcaption>Camping with [Drive2Ski](https://www.instagram.com/drive2ski/), Hasta Alaska, and Wanderwasi in El Pescadero, Baja.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Our entire [trip so far](http://www.gobigemma.com/2017/03/09/goodbye-usa-a-look-
 We spent over a week camping with the amazing people from [Bodes.well](https://www.instagram.com/bodes.well/), [Andrew Knapp](https://www.instagram.com/andrewknapp/)’s Mellow crew, [Mali.mish](https://www.instagram.com/mali.mish/), and [Wanderwasi](https://www.instagram.com/wanderwasi/) (all from the US and Canada). We hung around the campfire, enjoyed homemade sangria, and traded travel stories. Both Bodes.well and Mali.mish have children, and have been living as traveler nomads since their kids were babies. They are the vanlife experts, and have had a lot to teach us. We have caravaned with Canadian traveler [WanderGlobe](https://www.instagram.com/wanderglobe/) (and his mother) through Baja Sur, enjoyed a wonderful meal with a Canadian expat near Santiago, and camped with [Less Is More](http://www.lessismore.one) from Denmark for two nights in Cabo Pulmo. We also got to meet up with [Hasta Alaska](https://www.instagram.com/hastaalaska/) again, who we had met up north in Alaska. The point is: we've spent a lot of time with other _gringos\*_ on Baja.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Gringo-Camping-2-1024x683.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Gringo-Camping-2.jpg" alt="">
   <figcaption>We spent almost a week camping with Bodes.well, Wanderwasi, Mali.mish, and Andrew Knapp near Loreto and Mulege.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ We spent over a week camping with the amazing people from [Bodes.well](https://w
 But, was it our intention to come to Mexico to socialize almost exclusively with other _gringos_? Wasn’t the point to get to know Mexicans, [learn their language](http://www.gobigemma.com/2017/02/16/popular-questions-hablamos-espanol/) and traditions? Have we really experienced Baja like we meant to, if we barely get to know a single local? Sure, we’ve [talked to locals whenever we can](http://www.gobigemma.com/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire/), and Sven took up an invitation to fish with a local for the morning in Baja Norte. But these have been limited to conversations, moments, single pictures. We haven’t _camped_ with any Mexicans, sat with them drinking tequila around a campfire and traded travel stories, understood how _they_ understand Baja. No, instead, somehow, we’ve stuck to our own, battled the foreign country of Mexico from the outsider’s perspective, wondered at it with other _gringos_ from the outside looking in. This is not why we came to Mexico.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Camping-Alone-1024x510.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Camping-Alone.jpg" alt="">
   <figcaption>Is camping alone preferable instead?</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ This has left us feeling unsatisfied. So should our goal, instead, be to avoid 
 Of course, this would not be a practical solution. Baja, a land of nearly empty deserts and isolated beaches, is a major destination for tourists and overlanders from other parts of North America, as well as most of us traveling along the [Panamerican Highway](http://www.gobigemma.com/2016/10/13/752/). For the amount of space on this peninsula, there are just not that many locals to fill it. Even if we wanted to, we couldn’t avoid running into other travelers, as they seem to be often the only other guests camping on our beach. And of course, [when we see a bus like Mellow](http://www.gobigemma.com/2017/04/05/67-buses-mexico/), we _will_ stop and say hi - an interaction that often leads to the next campground anyways. Especially in the south of Baja, _gringos_, travelers, and expats seem to be everywhere, signs are often in English, and one can probably get by on next to no Spanish. On Baja, we will not be able to avoid socializing with _gringos_.
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Strolling-through-Mulege-300x300.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Strolling-through-Mulege.jpg" alt="">
   <figcaption>Exploring Mulege in the company of our gringo friends. Together we discover the town from an outsider's perspective.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ We can also employ one of the best ways to meet locals - the social platform [C
 ### Balance, as always, will be the key
 
 <figure class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/Camping-Cabo-Pulmo-300x180.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Camping-Cabo-Pulmo.jpg" alt="">
   <figcaption>Camping in Cabo Pulmo with Wanderglobe and Less Is More.</figcaption>
 </figure>
 

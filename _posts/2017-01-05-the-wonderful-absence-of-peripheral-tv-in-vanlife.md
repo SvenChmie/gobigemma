@@ -20,7 +20,7 @@ I'm sitting on our friend's couch, eating tacos she made for us. Incredibly deli
 The hammer slashes through the plywood walls like a pen through paper back in school when the desks were full of holes somebody had chiseled out in boring math lessons a decade ago. The show host tells the owners how to demolish their home professionally, how to force it into compliance and shape it to their will. He hooks the hammer behind a 2 by 4 board and pulls it out of the wall. Woods squeaks as it resists for a second and then breaks and reveals the room behind the wall. I bite into my taco and the molten cheese, avocado, and hot sauce form an amazing mix of tastes in my mouth. At least I think that's what it does, because really, I don't notice any taste. Despite much effort, I'm incapable of multi-tasking when the TV is on, even consciously enjoying food. I just bite and chew and swallow and gone is the taco, my mind never taking its focus off the sad wall being torn down in a million dollar mansion somewhere in LA.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Lost_Coast_Camping-1024x510.jpg" alt="Lost Coast Mornings">
+  <img src="{{ site.baseurl }}/assets/images/Lost_Coast_Camping.jpg" alt="Lost Coast Mornings">
   <figcaption>TV screens haven't made it out to the California coastline yet.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ When I look at a television screen, that's what I do, exclusively. There is no w
 In the Bus, we don't have a TV. In fact, we don't even spend much time watching TV in other places. [Most of our time we spend outside](http://gobigemma.de/2017/01/12/love-hate-relationship-nature/), in forests and on coastlines or in deserts, areas that haven't been conquered by the overpowering presence of television. And it's great. Magical, almost. Even though I knew how distracting TV screens are for me, I had no idea how freeing it feels not to have them around all the time. How much time I have to think about things, how thoughts connect to ideas without them being dispersed by the jingle of a commercial.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Lost_Coast_Morning-1024x510.jpg" alt="Lost Coast Morning View">
+  <img src="{{ site.baseurl }}/assets/images/Lost_Coast_Morning.jpg" alt="Lost Coast Morning View">
   <figcaption>Instead of TV, we practice looking out the window much more. Sometimes we look at boring parking structures, but sometimes we get spectacular views like this!</figcaption>
 </figure>
 
@@ -60,6 +60,6 @@ And I guess that's what I'm trying to say. Watching TV allows me, no, it forces 
 In the Bus, I'm free of them. I can watch TV if I choose, but it will be my choice. And it will be my thoughts I'm thinking.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/assets/images/Emma_Bus_TV-1024x510.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/images/Emma_Bus_TV.jpg" alt="">
   <figcaption>We do watch movies and TV shows, but it's a conscious decision to do it.</figcaption>
 </figure>
