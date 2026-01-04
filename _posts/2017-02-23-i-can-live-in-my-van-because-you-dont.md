@@ -27,7 +27,10 @@ And then, as we met more and more other van-dwellers on the road, we realized th
 
 And as a lifestyle, vanlife is rapidly gaining popularity. From its roots as a poor bum's version of massive American motorhomes, vanlife has evolved in a few short years to be a hip and modern way of redefined living. The reduced space and [carbon footprint](http://gobigemma.de/2017/04/20/popular-questions-hey-are-those-solar-panels/), the mobility it provides, the affordability of the lifestyle are key factors in its rise in popularity. New trends like [tiny houses](https://en.wikipedia.org/wiki/Tiny_house_movement) and the rebirth of camping as a hip way to explore the outdoors go alongside the rise of vanlife.
 
-\[caption id="attachment\_1646" align="aligncenter" width="702"\]![Descend on Bend Camping]({{ site.baseurl }}/assets/images/descend-1024x346.jpg) Vanlife events like [Descend on Bend](http://www.gobigemma.com/2016/11/03/pay-it-forward-giving-and-sharing-in-the-vanlife-community/) see huge gains in popularity. Last year saw a gathering of about 80 vans, which grew this year to over 300.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/descend-1024x346.jpg" alt="Descend on Bend Camping">
+  <figcaption>Vanlife events like [Descend on Bend](http://www.gobigemma.com/2016/11/03/pay-it-forward-giving-and-sharing-in-the-vanlife-community/) see huge gains in popularity. Last year saw a gathering of about 80 vans, which grew this year to over 300.</figcaption>
+</figure>
 
 New faces and vans pop up on Instagram every week, as more and more - mostly young - people convert cars into homes and hit the road. And while this online network of shiny photographs only represents a fraction of the van-dwellers out there, it's still a good indicator of vanlife's skyrocketing popularity.
 
@@ -43,7 +46,10 @@ A tool we and many other vanlifers rely on to [find free campsites](http://gobig
 
 ### **Our society is not made for vanlife**
 
-\[caption id="attachment\_1658" align="alignright" width="200"\]![]({{ site.baseurl }}/assets/images/Sven_Talkeetna-200x300.jpg) Vanlifing in Talkeetna, Alaska\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Sven_Talkeetna-200x300.jpg" alt="">
+  <figcaption>Vanlifing in Talkeetna, Alaska</figcaption>
+</figure>
 
 Although the technological innovations of recent years have made living in a vehicle easier than ever, our society is not made for vanlife. It can sustain this subculture as a marginal phenomenon, but it won't be able to support a mass movement of people living in their vans all across the country.
 
@@ -59,7 +65,10 @@ A petrochemical plant pollutes the forest you like to camp in? Bummer, but there
 
 But even though we cannot participate in society in the classic ways that stationary residents can, there are [other ways in which we do contribute](http://www.gobigemma.com/2017/01/19/discussion-concerning-social-responsibility/). We live a reduced, yet enriched life. We own less than the average citizen, and we use less space to contain the few things we own. At the same time, we see more of the world than Mr. and Mrs. Average.
 
-\[caption id="attachment\_1648" align="aligncenter" width="702"\]![Camping and Working]({{ site.baseurl }}/assets/images/camping_laptop-1024x474.jpg) Just camping out and doing some work\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/camping_laptop-1024x474.jpg" alt="Camping and Working">
+  <figcaption>Just camping out and doing some work</figcaption>
+</figure>
 
 Instead of living an ever-repeating weekly cycle, we are presented with new challenges and experiences every day. Through channels like Instagram, we can show that you don't need a three-bedroom mansion to be happy and live an exciting life, that a small car like our Bus is enough to get by and be content. Adventure is an important part of life, and - for many people - our modern world doesn't provide enough of it; vanlife offers a unique solution to this problem.
 

@@ -17,7 +17,10 @@ Like most people on a long trip like ours, we are traveling on a very limited bu
 
 Why is this so important to us? Well, the way I see it, [I have my bed with me](http://gobigemma.de/2016/08/04/welcome-to-our-house/). Money is supposed to be traded for resources, that’s what people use money for all over the world. A place to sleep is one of those resources, one that I happen to possess at all times as long as we are with Big Emma (which is about 99% of the time). Why should I, therefore, trade one of my precious resources ([money](http://gobigemma.de/2016/12/01/want-donate-button-money-delicate-thing/)) for a different resource that I already have? Thus it is one of our goals to try to camp for free as much as possible.
 
-\[caption id="attachment\_2393" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Drone-BLM-1-cut-1024x509.jpg) Camping south of Joshua Tree National Park in California. Prime BLM Land, where you can camp for free for up to 14 days at a time. No facilities provided - bring your shovel.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Drone-BLM-1-cut-1024x509.jpg" alt="">
+  <figcaption>Camping south of Joshua Tree National Park in California. Prime BLM Land, where you can camp for free for up to 14 days at a time. No facilities provided - bring your shovel.</figcaption>
+</figure>
 
 ### Sometimes, you _do_ have to pay for camping
 
@@ -25,7 +28,10 @@ Of course, this does not always work out. Especially since we’ve [crossed the 
 
 Most of these times were because we were with other people. If you’re new to the crew, it is easier to get accustomed to life in the Bus when there is a real toilet around, and it is a nice touch for [guests](http://gobigemma.de/2017/05/18/guest-post-should-i-go-to-mexico-an-outsiders-perspective/) when we don’t have to spend the hours after they've arrived - usually from very far away on a plane - searching for a camp spot. A fire pit also says “[welcome to vanlife](http://gobigemma.de/2016/09/22/vanlife-a-mode-of-travel-a-subculture-a-lifestyle/)” like nothing else. We had also paid for camping to [spend time with friends](http://gobigemma.de/2017/01/26/friends_dumpsters_burritos_oceanside/) over New Years and once or twice because there was nothing else around and Sven and I needed a bit of extra comfort to stop bitching at each other.
 
-\[caption id="attachment\_2394" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/IOverlander-San-Blas-1024x510.jpg) iOverlander camp spot in the back of Stoners Surf Camp in San Blas, Mexico. Although this was not free, it represents a typical paid iOverlander beach camp spot in Mexico. The fee was $50 pesos (about USD $2.50) per person per night.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/IOverlander-San-Blas-1024x510.jpg" alt="">
+  <figcaption>iOverlander camp spot in the back of Stoners Surf Camp in San Blas, Mexico. Although this was not free, it represents a typical paid iOverlander beach camp spot in Mexico. The fee was $50 pesos (about USD $2.50) per person per night.</figcaption>
+</figure>
 
 ### Every country is different
 
@@ -33,7 +39,10 @@ Here in Mexico, things have been a little different, mostly because of [safety c
 
 At first, we weren’t quite sure how safe it was to camp by ourselves on [Baja California](http://gobigemma.de/2017/05/25/1000-miles-of-baja-california/)’s remote, lonely beaches. Now on the mainland, it is just harder to find a place where we don’t think anybody will notice us or care that we are camping there. Although we still take free camp spots whenever possible, we like to avoid sleeping in shitty spots like gas stations or parking lots. We prefer to pay the small fee (usually between $5 and $10 USD) to sleep in a spot where we won’t be bothered.
 
-\[caption id="attachment\_2395" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Rivera_Family-1024x1024.jpg) The absolutely awesome Rivera family. They let us stay in their yard for over a week up in North Pole, Alaska. We had the privilege of [meeting them again in the Redwoods in California](http://gobigemma.de/2016/12/12/23-reason-came-first-place/).\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Rivera_Family-1024x1024.jpg" alt="">
+  <figcaption>The absolutely awesome Rivera family. They let us stay in their yard for over a week up in North Pole, Alaska. We had the privilege of [meeting them again in the Redwoods in California](http://gobigemma.de/2016/12/12/23-reason-came-first-place/).</figcaption>
+</figure>
 
 ### But there _are_ many options to camp for free
 
@@ -53,7 +62,10 @@ While freecampsites.net has been mostly useful for us in the States (and not t
 
 ### Friends are golden (anywhere you have friends - or can make them!)
 
-\[caption id="attachment\_2397" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Weird_Fruit-300x300.jpg) Staying with our friend Shameem (also Regular Emma's third- and fourth-grade teacher) in Portland, Oregon, was one of the places we felt the most at home as guests on our trip.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Weird_Fruit-300x300.jpg" alt="">
+  <figcaption>Staying with our friend Shameem (also Regular Emma's third- and fourth-grade teacher) in Portland, Oregon, was one of the places we felt the most at home as guests on our trip.</figcaption>
+</figure>
 
 Especially in the States, where we had a pretty solid network of friends and acquaintances, this was our favorite option for free "camping". Most commonly we visited freinds we knew lived along our route, and other times people who knew us from the Internet invited us to stop by. A few times, we simply met people randomly who invited us into their homes or let us park in their driveway.
 
@@ -67,7 +79,10 @@ We have participated in Couchsurfing for years, both as travelers and as hosts. 
 
 Some of the most amazing travelers we have met have been through couchsurfing. If you don’t have one, go make yourself an account, and contribute to this wonderful traveler community.
 
-\[caption id="attachment\_2388" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Travelers-1024x683.jpg) Johanna from Germany couchsurfed with us in our Bus in Anchorage, Alaska. Due to lack of free alternatives in the city, we slept in a parking lot (that specifically allowed campers and was [THE spot for overlanders in Anchorage](http://ioverlander.com/places/19617-cabela-s)). Big props to Johanna for staying with us despite the concrete.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Travelers-1024x683.jpg" alt="">
+  <figcaption>Johanna from Germany couchsurfed with us in our Bus in Anchorage, Alaska. Due to lack of free alternatives in the city, we slept in a parking lot (that specifically allowed campers and was [THE spot for overlanders in Anchorage](http://ioverlander.com/places/19617-cabela-s)). Big props to Johanna for staying with us despite the concrete.</figcaption>
+</figure>
 
 ### Google satellite images/driving around (everywhere)
 
@@ -77,13 +92,19 @@ The cover picture of this post was taken somewhere in a forest in Oregon. It was
 
 ### Beaches (Mexico)
 
-\[caption id="attachment\_2427" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Watching-the-Surfers-300x200.jpg) Free camping on the beach in Todos Santos. We found this spot on iOverlander.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Watching-the-Surfers-300x200.jpg" alt="">
+  <figcaption>Free camping on the beach in Todos Santos. We found this spot on iOverlander.</figcaption>
+</figure>
 
 The first few meters of beach is public land in Mexico, and you can _theoretically_ [camp there for free](http://gobigemma.de/2017/05/11/just-another-day-bus/) and no one can make you pay for it. Often, somebody has still set up a palapa or some rustic toilets, so we often end up paying anyways (usually around $2.50 USD for the two of us). However, there are many stretches that are simply a beach at the end of a lonely road - especially on Baja California. Although it is better to [camp with friends](http://gobigemma.de/2016/10/06/vanlifers-fellow-travelers-friends-family/), camping alone at one of these was never a problem for us on Baja.
 
 ### Street camping (anywhere)
 
-\[caption id="attachment\_2432" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Street-Camping-Oaxaca-300x200.jpg) Street camping in Oaxaca City, Mexico.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Street-Camping-Oaxaca-300x200.jpg" alt="">
+  <figcaption>Street camping in Oaxaca City, Mexico.</figcaption>
+</figure>
 
 These next two are our least-favorite free camping options. Street camping (aka boondocking) is when - you guessed it - we simply park on the street. We pull the curtains, leave our top down, and try not to be too conspicuous.
 
@@ -95,7 +116,10 @@ Infamous Walmart. They are, surprisingly, actually pretty good to the traveler c
 
 Some Walmarts, however, do _not_ allow travelers to boondock, a common practice on the West Coast. However, you can [consult this list](http://www.walmartlocator.com/no-park-walmarts/) to see if the Walmart you are considering as your backyard for the night will allow you to park there or not.
 
-\[caption id="attachment\_2396" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Walmart-2011-1024x768.jpg) Big Emma in 2011. Photo credit: Philipp Dyllus.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Walmart-2011-1024x768.jpg" alt="">
+  <figcaption>Big Emma in 2011. Photo credit: Philipp Dyllus.</figcaption>
+</figure>
 
 * * *
 

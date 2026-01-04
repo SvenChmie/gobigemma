@@ -33,7 +33,10 @@ But just as a sunny day is enough to dry our clothes and curtains from a week of
 
 Alaska made an impression on us in many different ways, but a major one was definitely its people. One of the most interesting characters we met in the far North is Jason. We were enjoying a rare splurge, an afternoon drink at a rare kind of place, a hip craft brewery in Alaska. There are only two breweries in Fairbanks (an unimaginably low number for anybody living on the West Coast of the US), and HooDoo Brewing, we were told, is the one to visit if you only have [money](http://gobigemma.de/2016/12/01/want-donate-button-money-delicate-thing/) for one.
 
-\[caption id="attachment\_1735" align="alignright" width="300"\][![Jason]({{ site.baseurl }}/assets/images/Jason-300x279.jpg)](http://www.gobigemma.com/wp-content/uploads/2017/03/Jason.jpg) Jason playing some campfire tunes at his housewarming party\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Jason-300x279.jpg" alt="Jason">
+  <figcaption>Jason playing some campfire tunes at his housewarming party</figcaption>
+</figure>
 
 So here we were, sipping our Far North IPA and this guy walks up to us. "Sweet ride", he says, which is not overly original, but there was something about him that made the conversation continue. The long dreadlocks falling over his shoulder, a missing tooth showing every time he smiles, but a witty and smart smile it is. After a good hour of talking about traveling and life and beer, eventually leading to more beer at another bar, leading to an invitation to his housewarming party to the place he had just moved into with his brother.
 
@@ -45,7 +48,10 @@ The garage of Jason's new home is slowly swallowed by the melting permafrost gro
 
 Other people made lasting impressions on us as well. Only a 20-minute drive from Fairbanks lies the small town of North Pole. Bearing this iconic, yet somewhat misleading name (North Pole is still thousands of miles away from the actual north pole, no matter if you count the geographical or the magnetic one), North Pole has named itself the official home of Santa Claus. Streets have names like "Mistletoe Lane", and virtually all light posts in the city resemble gigantic candy canes.
 
-\[caption id="attachment\_1738" align="alignright" width="300"\][![]({{ site.baseurl }}/assets/images/Riveras-300x293.jpg)](http://www.gobigemma.com/wp-content/uploads/2017/03/Riveras.jpg) The Rivera family\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Riveras-300x293.jpg" alt="">
+  <figcaption>The Rivera family</figcaption>
+</figure>
 
 In this strange place, we were invited into the home of the Riveras, a travel-crazy family with three children. Alica and Alex homeschool their kids to be able to travel throughout the year and show them the world, rather than limit them to reading about it in textbooks. And it works. Despite being only 11 years old at the time, their oldest daughter is one of the smartest people I've ever met. "I like that you guys are not married. I personally don't believe that marriage is very important", she says to Emma one day. She also quotes Wikipedia from memory whenever there is an opportunity to correct her mother on factual mistakes, but doesn't lack the ability to be an 11-year-old kid doing silly things.
 
@@ -67,7 +73,10 @@ We are somewhere outside of Tillamook, a small coastal town with a cheese factor
 
 Shortly after the election, we visited Shameem, Emma's 3rd-grade teacher in Portland. Now a friend of the family and an amazing chef, she offered us her home and we stayed for a week as we digested the election results and saw the country react. While peaceful protest turned violent in downtown Portland, we were presented with the broader consequences of the election. Shameem, being of Indian descent and having grown up in a Muslim family, is also a university professor for teaching, and a liberal activist. For her, that week was simply one of depression and fear for the future.
 
-\[caption id="attachment\_1740" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Shameem-1024x497.jpg) Shameem and Emma on a rainy post-election day\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Shameem-1024x497.jpg" alt="">
+  <figcaption>Shameem and Emma on a rainy post-election day</figcaption>
+</figure>
 
 The saying that only white people can afford not to care about race and racists had never before rung so true to me as then. I could like the result of the election or not, as a white male (and even more, a visitor to this country) it was easy for me to pretend this major shift in American politics didn't affect me. But for her, things were different. The fact that a man who frequently had made racist and chauvinist comments in public had been elected president and the further fact that these comments seemed to have aided in his election made her fear for her safety, and that of everyone she stood for.
 
@@ -75,7 +84,10 @@ Would an aura of white supremacy in the White House lead to more violence agains
 
 ### How could we have missed this?
 
-\[caption id="attachment\_1741" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Trump-1024x324.jpg) A lonely Trump sign on a lonely island\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Trump-1024x324.jpg" alt="">
+  <figcaption>A lonely Trump sign on a lonely island</figcaption>
+</figure>
 
 Before the election, we hadn't paid much attention to the myriad of Trump signs in yards all over the rural Pacific Northwest - in states that are notoriously liberal. But after it, we couldn't help but think, _Where were all the Hillary signs? Why didn't we ever notice this utterly disproportionate ratio? How could it have come as a surprise to us that all the polls were wrong if they apparently only ever questioned city people?_ It might just be true, we do only see what we want to see, and not what is there. After this realization, we vowed to pay closer attention to the world around us, rather than just making assumptions. Something we thought we were fairly good at, until now.
 
@@ -93,7 +105,10 @@ We experience a few more winter storms throughout our travels in California. In 
 
 ### Who will fade and who will stay
 
-\[caption id="attachment\_1739" align="alignright" width="300"\][![]({{ site.baseurl }}/assets/images/Robbie-300x264.jpg)](http://www.gobigemma.com/wp-content/uploads/2017/03/Robbie.jpg) Robbie, happy that Big Emma's engine is finally out\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Robbie-300x264.jpg" alt="">
+  <figcaption>Robbie, happy that Big Emma's engine is finally out</figcaption>
+</figure>
 
 We visited old friends and made new ones, reinforced old connections and tied strings leading to new people into our yarn ball of friendships. Some people might stay transient acquaintances that will fade from our view over time, but others will last. It is hard to know who will stay and who will fade, but I will take a gamble and say that [Robbie](http://www.gobigemma.com/2017/01/26/friends_dumpsters_burritos_oceanside/) might become a reoccurring character on this trip, and so might Brian and Chloe. We've known of them long before we met through the Online [VW community](http://www.gobigemma.com/2016/11/10/a-story-of-despair-samba-and-compression-why-the-community-is-the-best-part-of-driving-a-vw-bus/), but it wasn't until we met in person that we realized how well we click together. They are the reason we spent a disproportionate amount of time in the nice-but-slightly-boring towns of Santa Clarita and Oceanside, and they are the reason we will feel regrets about leaving California in our rear view mirror.
 

@@ -19,7 +19,10 @@ I’m staring at the gauge in my hand. “0 PSI”, it reads. No compression, no
 
 I walk to the front of the car and get into the driver seat. Calm down. I'm sure it's just the gauge, for some reason it didn't register the pressure. But this time. I turn the key in the ignition and the engine starts cranking over. I count the turns. One, two, three, until it gets to eight, then I stop. Back at the engine bay, I take a deep breath and look at the gauge. Fuck. Still nothing. No compression in the cylinder, which means this cylinder doesn't fire. It's dead like the hunk of metal it is made from. It gets dragged along by the other three cylinders, pushed up and down against its will, sprayed with gasoline and tasered by the spark plug right after, again and again, on every stroke. Instead of compressing the air and fuel mixture like the other cylinders, this one has a hole somewhere where the air can escape and no pressure builds up. The sweat is getting more. I'm feeling panic crawling up in me, taking over my stomach and creeping upwards into my chest. My thoughts are numbed. There is lot I don't know about engines, but I know that low or no compression is not good. Not even a bit. Shit. Shit shit shit. What now?
 
-\[caption id="attachment\_925" align="aligncenter" width="702"\]![compression_gauge]({{ site.baseurl }}/assets/images/Compression_Gauge-1024x509.jpg) Uh-oh...\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Compression_Gauge-1024x509.jpg" alt="compression_gauge">
+  <figcaption>Uh-oh...</figcaption>
+</figure>
 
 These are the kind of situations where I ask myself "Was it a good idea to head out into the world in a 40 year old car that needs frequent maintenance and care that I am hardly qualified to provide?" "Maybe it would have been better to learn more before hitting the road?" "Maybe I shouldn't have gone?" The truth is, I am no mechanic. Before this adventure, I had never worked on a car. I am an engineer, but my field is chips and computers, not combustion engines. The truth is, this new job, being the caretaker of this car, can be a little overwhelming at times. The truth is, I often feel lost.
 
@@ -29,7 +32,10 @@ Whenever this happens, I have to remind myself to keep calm. Set the problem asi
 
 With the help of the people on the _Samba_, my job becomes manageable. I can ask a question and chances are I have a useful answer within an hour. Buses have been around for a long time. So have the problems they produce. Whatever symptom I have, chances are somebody on the _Samba_ has seen this one before and knows what it is. And chances are many people have fixed this issue before and can give me advice about what to do. With every problem and every question, I learn a little more and have to ask a little less. But it wouldn't be as much fun if the _Samba_ was only a mechanical help page. It's the community that makes traveling and living in a car like Big Emma special. Over the last weeks, we have attended VW meetups in several cities. We have met people we've known online and that had helped us before we ever saw their faces and shook their hands. We've made friends that we would have never met, was it not for Big Emma and the _Samba_ to connect us.
 
-\[caption id="attachment\_924" align="aligncenter" width="702"\]![bus-meet]({{ site.baseurl }}/assets/images/Bus-Meet-1024x498.jpg) Big Emma enjoying the company of fellow VW buses in Seattle\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Bus-Meet-1024x498.jpg" alt="bus-meet">
+  <figcaption>Big Emma enjoying the company of fellow VW buses in Seattle</figcaption>
+</figure>
 
 We use the community for mechanical help, for the peace of mind that advice is never far away, and we enjoy the pleasure of having friends and places to stay in towns we've never visited before. But we also try to give back. We post about the progress of our journey, about Big Emma's health. Whenever we figure out something new, we share the newfound knowledge with the community. We try to meet as many people as we can along our way in person. We try to help others with their problems.
 

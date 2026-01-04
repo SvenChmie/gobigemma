@@ -17,7 +17,10 @@ I look into the mirror. I am wearing a beautiful dress and I’ve done up my hai
 
 I stop and catch my eyes in the reflection of the mirror and realize: I haven’t done this for a [year](http://gobigemma.de/2017/06/22/like-a-timelapse-picture-the-twists-and-turns-of-our-first-year-on-the-road/). Vans don’t usually come with large mirrors, or a lot of space to enjoy getting ready in, or much motivation to care what my hair looks like. Where did this feeling go? Has [vanlife](http://gobigemma.de/2016/09/22/vanlife-a-mode-of-travel-a-subculture-a-lifestyle/) changed me that much?
 
-\[caption id="attachment\_3053" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Reflection-1024x683.jpg) We rented an apartment for the entirety of July 2017 in Puerto Escondido, Mexico. I had access to a mirror, a bathroom, and a full-size kitchen. I also got a visit from my mother, who likes to take me shopping.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Reflection-1024x683.jpg" alt="">
+  <figcaption>We rented an apartment for the entirety of July 2017 in Puerto Escondido, Mexico. I had access to a mirror, a bathroom, and a full-size kitchen. I also got a visit from my mother, who likes to take me shopping.</figcaption>
+</figure>
 
 ### Vanlife goes well with simplicity
 
@@ -25,7 +28,10 @@ Before vanlife, I had never thought that fashion was a luxury. It has changed my
 
 I would, these days, often stare at my plate of spaghetti after it was put in front of me. Tomato sauce. Onions. Garlic. Zucchini. Tomato sauce. Don’t get me wrong - pasta is my favorite food, and I like tomato sauce all right. But is the fourth time we’ve eaten tomato sauce this week.
 
-\[caption id="attachment\_3063" align="alignright" width="200"\]![]({{ site.baseurl }}/assets/images/Foto_0055-200x300.jpg) As an example of pre-vanlife fashion funness, I was gifted a photo shoot for my 21st birthday back in 2010.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Foto_0055-200x300.jpg" alt="">
+  <figcaption>As an example of pre-vanlife fashion funness, I was gifted a photo shoot for my 21st birthday back in 2010.</figcaption>
+</figure>
 
 _Well, then make something else!_ You mentally reprimand me for complaining. There are plenty of people in vans whose Instagram feeds are full of organic foods, local treasures, and beautifully-crafted plates. It _is_ possible to eat interesting food while living in a van. Balanced, healthy, local - everything you expect an Instagram-worthy food picture to be. I could be like that.
 
@@ -33,7 +39,10 @@ But I’m not. As the months pass, I strive less and less towards complicated an
 
 Or at least, I would. Now, spaghetti and tomato sauce is enough to pacify me. It’s fine.
 
-\[caption id="attachment\_3057" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/0_19425b_fe91ca97_orig-1024x683.jpeg) Sweatpants are often a way to go while living in the Bus - laying under your car to figure out what is wrong does not go well with a nice outfit. (Dalton Highway, Alaska - August 2016). Photo by Klim Bulygin: [vodpop.ru/en](http://vodpop.ru/en)\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/0_19425b_fe91ca97_orig-1024x683.jpeg" alt="">
+  <figcaption>Sweatpants are often a way to go while living in the Bus - laying under your car to figure out what is wrong does not go well with a nice outfit. (Dalton Highway, Alaska - August 2016). Photo by Klim Bulygin: [vodpop.ru/en](http://vodpop.ru/en)</figcaption>
+</figure>
 
 ### One of the hardest parts about vanlife was the food
 
@@ -43,7 +52,10 @@ This challenge was one of the most difficult for me while transitioning to vanli
 
 ### With time comes adaptation
 
-\[caption id="attachment\_3054" align="alignright" width="200"\]![]({{ site.baseurl }}/assets/images/Apartment-Sitting-200x300.jpg) Our apartment in Puerto Escondido, Mexico.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Apartment-Sitting-200x300.jpg" alt="">
+  <figcaption>Our apartment in Puerto Escondido, Mexico.</figcaption>
+</figure>
 
 As the trip wore on, this began to change. I got very good at just going for the items on my shopping list. It became normal. And this strategy worked. Tomato sauce was okay, oranges were fine instead of kiwis. My passion for food was fading and had been replaced by a certain _dullness_. An unenthusiasm. I began not to care as much about what was on my plate, it was okay if I couldn’t get the things I wanted at the grocery store; I didn’t want them that much anymore.
 
@@ -55,7 +67,10 @@ I turned off a desire to shop. I liked shopping, before vanlife. I liked having 
 
 Whichever piece of clothing was the closest or least dirty became the default, especially until we reached warmer weather in southern California. I didn’t want to take the time in the morning to brush my hair or put on earrings because my mind was already busy with other things and I was going to be wearing my winter hat anyways. The fun, precise coordination of colors and designs had been removed from how I thought about my clothes, so what was the point? Something to wear at all was good enough.
 
-\[caption id="attachment\_3052" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Matching-Outfits-1024x682.jpg) Big Emma doesn't like changing up her outfit these days very much either. Puerto Escondido, Mexico.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Matching-Outfits-1024x682.jpg" alt="">
+  <figcaption>Big Emma doesn't like changing up her outfit these days very much either. Puerto Escondido, Mexico.</figcaption>
+</figure>
 
 ### Is it vanlife? Or is it me?
 

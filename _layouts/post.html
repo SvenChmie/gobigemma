@@ -1,11 +1,18 @@
 ---
 layout: default
 ---
-<article>
-  {% if page.coverImage %}
-    <img src="{{ site.baseurl }}/assets/images/{{ page.coverImage }}" alt="{{ page.title }}" style="width: 100%; max-width: 100%; height: auto; margin-bottom: 1em;">
-  {% endif %}
-  <h1>{{ page.title }}</h1>
-  {% if page.date %}<p><small>{{ page.date | date: "%Y-%m-%d" }}</small></p>{% endif %}
-  <div>{{ content }}</div>
-</article>
+<div class="content-container">
+  <nav class="post-header">
+    <a href="{{ '/' | relative_url }}" class="back-link">← Back to Home</a>
+  </nav>
+  <article>
+    {% if page.coverImage %}
+      <div class="cover-image-wrapper">
+        <img src="{{ site.baseurl }}/assets/images/{{ page.coverImage }}" alt="{{ page.title }}" class="cover-image">
+      </div>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.date %}<p class="post-date"><small>{{ page.date | date: "%Y-%m-%d" }}</small></p>{% endif %}
+    <div class="post-content">{{ content }}</div>
+  </article>
+</div>

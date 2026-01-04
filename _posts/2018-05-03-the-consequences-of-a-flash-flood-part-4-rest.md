@@ -33,7 +33,10 @@ As we went through the process to get Big Emma into a container, _If_s were ever
 
 _This document was supposed to be sent yesterday? Oh yeah, there is one more paper to sign? Wait, you can’t tell us what time we should be at the docks?_
 
-\[caption id="attachment\_3729" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Seaboard-Marine-300x300.jpg) Shipping container, Miami, Florida.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Seaboard-Marine-300x300.jpg" alt="">
+  <figcaption>Shipping container, Miami, Florida.</figcaption>
+</figure>
 
 Over and over, unforeseen variables would appear with a level of unprofessionalism we were not expecting of people who dealt with international business affairs. And this was not just a problem on the Belizean side - the process felt the same for the office we were in contact with over in Miami, where we also were required to hire a broker. Our path didn’t just make us jump through hoops - we were navigating a bureaucratic obstacle course.
 
@@ -75,7 +78,10 @@ _But it_ would _be cheaper here,_ I said, watching the fan _whoosh_ past my fiel
 
 Caro and Konsti had left yesterday, and that pang of absent friends had already begun. They were continuing their trip into Guatemala. After all, the plan had been to travel with them in that direction before dropping them off at the airport in Guatemala City. Not only did they need to catch their flight, I could understand if they were tired of shoveling mud on our behalf.
 
-\[caption id="attachment\_3581" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Caro-Dirty-Hands-1024x510.jpg) Caro, before and after shoveling some mud.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Caro-Dirty-Hands-1024x510.jpg" alt="">
+  <figcaption>Caro, before and after shoveling some mud.</figcaption>
+</figure>
 
 And anyways, we were almost done with the tasks that they could help us with. Using Carlos’ power washer, we had finally removed the majority of the gunk from the car itself, and our surviving possessions had all been washed. Now, I mostly just had to sort them into boxes and figure out how to ship it all home. A process that was frustrating, annoying, boring, all at the same time.
 
@@ -91,7 +97,10 @@ We got into Big Emma, and started the ignition. As we drove out of Carlos’ dri
 
 But they weren’t. Big Emma would be repaired, yes, but she’d never be the same as before.
 
-\[caption id="attachment\_3725" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Boxes-in-the-Bus-1024x683.jpg) The inside of the Bus looks oddly empty after being filled with boxes.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Boxes-in-the-Bus-1024x683.jpg" alt="">
+  <figcaption>The inside of the Bus looks oddly empty after being filled with boxes.</figcaption>
+</figure>
 
 ### By closing time
 
@@ -107,7 +116,10 @@ _Yeah. Let’s go. It’s better than waiting here._
 
 So we waited at the harbor, having procured an over-the-phone promise that we would be meeting our broker there. At 4 PM, he finally showed up. I rushed to cancel Big Emma’s visa while Sven drove her into the container, the whole process exploding in a flurry of stuff that had to be done immediately. For the second time since [this story began](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), I realized I had forgotten to say goodbye to Big Emma. Although I was more confident this time that she wouldn’t be lost to a watery grave, I continued to think of her safety.
 
-\[caption id="attachment\_3586" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Teleporting-1024x510.jpg) Big Emma enters the shipping container.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Teleporting-1024x510.jpg" alt="">
+  <figcaption>Big Emma enters the shipping container.</figcaption>
+</figure>
 
 I returned to our meeting spot and checked my email on my phone. A new message from our contact at the shipping company had arrived 15 minutes ago. _Please be advised_, it read, _your payment has to be made by closing today or your vehicle will not be shipped. Our opening hours are Monday - Friday, 8 AM to 5 PM_.
 
@@ -121,7 +133,10 @@ We spent the next four days as normal, average tourists. We took a boat to Caye 
 
 Besides playing telephone with our broker and continuing to sort things out on the Miami side, we didn’t have a lot to do. We listened to podcasts, played checkers, drank a beer on the beach. We made pancakes for breakfast and avoided spending money. But we couldn’t shake everything else.
 
-\[caption id="attachment\_2404" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Good-Morning-Big-Emma-300x200.jpg) For a year and a half, the three of us have barely been apart; but for the time being, it was time to go our separate ways.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Good-Morning-Big-Emma-300x200.jpg" alt="">
+  <figcaption>For a year and a half, the three of us have barely been apart; but for the time being, it was time to go our separate ways.</figcaption>
+</figure>
 
 We took the boat back in time for me to catch a ride to the airport. Big Emma was scheduled to arrive in Miami tomorrow. I would fly to Florida today and spend the night a family friends’ house. Sven would travel to [Cancún](http://gobigemma.com/2017/11/23/hidden-in-the-jungle-real-life-on-the-riviera-maya/) and fly to Belgium from there - it was the cheapest flight to Europe we could find.
 
@@ -139,7 +154,10 @@ I looked at the scratches on her driver’s side, pondered her broken fog lights
 
 Big Emma’s broken lights didn’t hide that glint. _I never doubted it_, she said. _I’m gonna rest now_.
 
-\[caption id="attachment\_3583" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Home-sweet-home-cut-1024x510.jpg) Big Emma, Urbana, Illinois.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Home-sweet-home-cut-1024x510.jpg" alt="">
+  <figcaption>Big Emma, Urbana, Illinois.</figcaption>
+</figure>
 
 * * *
 

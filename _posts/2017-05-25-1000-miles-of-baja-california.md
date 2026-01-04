@@ -25,7 +25,10 @@ Speed bumps and the Mexican immigration system are only two of the things that f
 
 This is Baja California, a strange mix of Mexico and US influence. Baja is dressed up like Mexico, and deep inside it has its original Mexican identity. But in between, everything is a little less Mexico than it should be. _Mexico Light_, like the light beer they drink everywhere around here.
 
-\[caption id="attachment\_2233" align="aligncenter" width="702"\]![Baja Coastline]({{ site.baseurl }}/assets/images/Emptiness-1024x410.jpg) Baja Emptiness in its most beautiful form\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Emptiness-1024x410.jpg" alt="Baja Coastline">
+  <figcaption>Baja Emptiness in its most beautiful form</figcaption>
+</figure>
 
 ### **Baja is emptiness**
 
@@ -37,7 +40,10 @@ We decide to leave Ensenada behind, to drive south, in search for a more Mexican
 
 We get lonely. We have had neither [meaningful contact with locals](http://gobigemma.de/2017/01/19/discussion-concerning-social-responsibility/), nor have we met any other travelers. But our luck is about to change. As we roll into Guerrero Negro, we see a [marigold VW Bus](http://gobigemma.de/2017/04/05/67-buses-mexico/) parked at a taco store. "Bus!", Emma and I both exclaim and point. We haven't seen many buses in Baja yet, despite the fact that Mexico should be the Mecca of old VWs.
 
-\[caption id="attachment\_2235" align="aligncenter" width="702"\]![VW Bus before Taco Shop]({{ site.baseurl }}/assets/images/Meet-Mellow-1024x510.jpg) Finally, we've spotted another VW Bus!\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Meet-Mellow-1024x510.jpg" alt="VW Bus before Taco Shop">
+  <figcaption>Finally, we've spotted another VW Bus!</figcaption>
+</figure>
 
 At once we pull over and park Big Emma next to this shining beacon of companionship. A man jumps out to greet us. His name is [Andrew](https://www.instagram.com/andrewknapp/), he is a Canadian photographer and author. We get talking, and after a few tacos and an afternoon beer, we decide to join forces and meet up with friends of his at a campground further south that night.
 
@@ -45,13 +51,19 @@ This spontaneous stop by the roadside turns out to one of the major turning poin
 
 But Bode isn't the only child living the road life that we meet these days. Andrew's friends that we drive to meet that first night are [Dan, Marlene, and their three kids](http://malimish.com). For almost a decade they have been living on the move, raising their family on the road. Both families seem like shining examples of alternative concepts of life, upbringing, and education to us.
 
-\[caption id="attachment\_2229" align="aligncenter" width="702"\]![Beach camping]({{ site.baseurl }}/assets/images/Party-on-the-Beach-1024x510.jpg) Camping with our newfound friends on the beach in Bahia de Conceptión.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Party-on-the-Beach-1024x510.jpg" alt="Beach camping">
+  <figcaption>Camping with our newfound friends on the beach in Bahia de Conceptión.</figcaption>
+</figure>
 
 We spend two weeks camping with them, hopping from beach to beach around Bahia de Concepción, a collection of paradisiacal bays on the Sea-of-Cortez-side of the peninsula. It's good times, relaxed days and bonfire evenings.
 
 ### **Welcome to Meximerica**
 
-\[caption id="attachment\_2231" align="alignright" width="236"\]![Straight Baja Sidewalk]({{ site.baseurl }}/assets/images/Sidewalk-236x300.jpg) A straight sidewalk in Mexico, a sure sign you've found a tourist destination!\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Sidewalk-236x300.jpg" alt="Straight Baja Sidewalk">
+  <figcaption>A straight sidewalk in Mexico, a sure sign you've found a tourist destination!</figcaption>
+</figure>
 
 But there's something missing. As cultural travelers, we are [direly missing the contact to locals](http://gobigemma.de/2017/04/27/the-gringo-conundrum/). Nearly a month into Mexico, almost all of our [conversations](http://gobigemma.de/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire/) are still limited to the supermarket chatter or fending off vendors on the beach. To some degree, the reason for this might be our own shyness. A new culture, a [new language](http://gobigemma.de/2017/02/16/popular-questions-hablamos-espanol/), suddenly it's a little harder to make new friends than it was north of the border.
 

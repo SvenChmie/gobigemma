@@ -28,7 +28,10 @@ Whatever reason you have to travel, there is one thing that all travelers have f
 
 Travel is what reminds me, again and again, of the differences in the world. And through the differences, it also reminds me of the awesome similarities.
 
-\[caption id="attachment\_2355" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Guanajuato-Panorama-1024x683.jpg) I sadly don't have many pictures of cultural value systems, so I decorated this post with beautiful pictures of the city of Guanajuato, Mexico, instead. Enjoy.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Guanajuato-Panorama-1024x683.jpg" alt="">
+  <figcaption>I sadly don't have many pictures of cultural value systems, so I decorated this post with beautiful pictures of the city of Guanajuato, Mexico, instead. Enjoy.</figcaption>
+</figure>
 
 ### Underlying values don’t tend to need discussion
 
@@ -54,7 +57,10 @@ But was this not the same as a religious person might think if I told them I did
 
 These differences may or may not have to do with culture, directly. Many peoples’ beliefs depend on their specific family and their upbringing. They may just be individual differences - that are, in turn, indivisible and continuously influenced by cultural contexts in the first place.
 
-\[caption id="attachment\_2357" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Market-Bustle-1024x683.jpg) Typical Mexican-style covered market, the kind I have practically fallen in love with. Guanajuato, Mexico.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Market-Bustle-1024x683.jpg" alt="">
+  <figcaption>Typical Mexican-style covered market, the kind I have practically fallen in love with. Guanajuato, Mexico.</figcaption>
+</figure>
 
 ### Travel, essentially, is about _sameness_
 

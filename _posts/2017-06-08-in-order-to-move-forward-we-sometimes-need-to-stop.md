@@ -21,7 +21,10 @@ And as humans, we are incredibly good at adapting to new situations, it has been
 
 This urge might be part of our reason to travel. Moving around, seeing new faces and places provides us with enough "newness", enough stimulation not to get bored.
 
-\[caption id="attachment\_2335" align="aligncenter" width="702"\]![Camping doesn't feel the same]({{ site.baseurl }}/assets/images/La_Ventana_Beach-1024x478.jpg) Even though we were camping in the most beautiful places, vanlife didn't feel the same\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/La_Ventana_Beach-1024x478.jpg" alt="Camping doesn't feel the same">
+  <figcaption>Even though we were camping in the most beautiful places, vanlife didn't feel the same</figcaption>
+</figure>
 
 ### **Something was missing**
 
@@ -39,7 +42,10 @@ In Todos Santos, we met up with two couples that were also Panamerican travelers
 
 Ben and Leah of [Hasta Alaska](https://kombilife.com/) had rented an apartment to have a place to work and reliable Internet, so they could finish their video series about their past travels from Chile to Alaska. Tim and Liz of [SouthBySynchro](https://www.instagram.com/south_by_syncro/) had decided to take a month of [Spanish](http://gobigemma.de/2017/02/16/popular-questions-hablamos-espanol/) classes in Todos Santos. Both invited us into their temporary homes, for showers, hanging out, and staying the night in their yard. We did, and while we were there, the realization grew in me: there is nothing wrong with doing this. This is by no means abandoning the dream, this is just another valid option that the traveling life we are leading offers us.
 
-\[caption id="attachment\_2337" align="aligncenter" width="702"\]![Casa at night]({{ site.baseurl }}/assets/images/Inside_the_Casa-1024x510.jpg) The casa is a busy place at night\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Inside_the_Casa-1024x510.jpg" alt="Casa at night">
+  <figcaption>The casa is a busy place at night</figcaption>
+</figure>
 
 It is okay to [slow down](http://gobigemma.de/2017/03/02/dont-speed-slow-travel-best-travel/), to not hurry from place to place to see everything there is to see. And just as well, it is okay to stop completely. Traveling can be exhausting. In our nomadic life, the classic definitions of work, daily life, and vacation may be blurred, but that doesn't mean we don't sometimes need a change. And for us, this change was the need to pull the parking break.
 
@@ -53,7 +59,10 @@ Websites like [Workaway](https://www.workaway.info/) connect travelers like us w
 
 So we started writing to hosts on the platform, and eventually were hired by Corazon Guesthouse for 3 weeks. The guest house focuses on hosting long-term residents instead of the ever-changing tourist crowd. Consequently, we are surrounded by students, workers, people that have just moved to the city, but most importantly: almost exclusively Mexicans. The hostel is located in a quiet residential neighborhood, far enough away from the historic center to be unappealing for backpackers. Here, we get the real Mexican experience, [speaking Spanish every day](http://gobigemma.de/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire/), with locals (or at least long-term hostel residents) around us all the time. We work three hours each day cleaning the house. In exchange, we get to stay for free, but we are still responsible for our food.
 
-\[caption id="attachment\_2289" align="aligncenter" width="702"\]![Big Emma has to stay outside]({{ site.baseurl }}/assets/images/Big_Emma_Outside-1024x450.jpg) Big Emma has to stay outside, while we live and work at the guesthouse.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Big_Emma_Outside-1024x450.jpg" alt="Big Emma has to stay outside">
+  <figcaption>Big Emma has to stay outside, while we live and work at the guesthouse.</figcaption>
+</figure>
 
 We sleep in bunk beds and have all the house to our disposal throughout the day. We have constant Internet access, a lot of time to work on the blog, the car, and whatever else we feel like doing. Big Emma is enjoying a rest from Mexico's dusty streets on the sidewalk in front of the guest house and [our wallet](http://gobigemma.de/2016/12/01/want-donate-button-money-delicate-thing/) is enjoying a break from Mexico's high gas prices.
 

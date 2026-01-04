@@ -2,11 +2,35 @@
 layout: default
 title: GoBigEmma
 ---
-<h1>GoBigEmma</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="index-container">
+  <header class="index-header">
+    <img src="{{ site.baseurl }}/assets/images/Big_Emma_Logo_2_web_retina.jpg" alt="GoBigEmma" class="logo-image">
+  </header>
+  
+  <section class="welcome-section">
+    <p>Welcome to the adventures of a vintage VW bus and her companions across the Americas! Read about our story, our adventures, and follow us along as we explore this gorgeous world.</p>
+  </section>
+  
+  <section class="posts-list">
+    {% for post in site.posts %}
+      <a href="{{ post.url | relative_url }}" class="post-card">
+        <div class="post-card-image">
+          {% if post.coverImage %}
+            <img src="{{ site.baseurl }}/assets/images/{{ post.coverImage }}" alt="{{ post.title }}">
+          {% else %}
+            <div class="post-card-placeholder"></div>
+          {% endif %}
+        </div>
+        <div class="post-card-content">
+          <h2 class="post-card-title">{{ post.title }}</h2>
+          <p class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+          {% if post.excerpt %}
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          {% else %}
+            <p class="post-card-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </section>
+</div>

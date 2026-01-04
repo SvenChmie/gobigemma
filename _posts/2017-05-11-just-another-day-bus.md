@@ -31,7 +31,10 @@ Sven and I brush our teeth, tipping water from our water bottle over our toothbr
 
 Sven says he's hungry, so we stop and make lunch. Mornings always go by so fast. I warm up the beans, he starts on the homemade guacamole. In go the avocados, the lime, the salt and pepper, the tomato. We open a can of corn and take the _Valentina_ sauce and the _salsa verde_ out of the refrigerator, and add it all together to make a taco. Just before I sit down to eat, I stop to fill our water bottle from _Eduardo_, our water tank. I pump, and pump, and pump, stopping just short of overflowing the water bottle. After we've eaten, we decide the dishes can wait until later, once again.
 
-\[caption id="attachment\_2094" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Eduardo-1024x683.jpg) Eduardo, our friendly water tank.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Eduardo-1024x683.jpg" alt="">
+  <figcaption>Eduardo, our friendly water tank.</figcaption>
+</figure>
 
 ### The lazy hours of the afternoon
 

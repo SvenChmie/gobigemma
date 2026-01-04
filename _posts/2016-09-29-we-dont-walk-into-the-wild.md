@@ -20,7 +20,10 @@ Healy, Alaska is a rugged small town, only a few miles north from Denali Nationa
 
 McCandless' story has found us again and again since we started to plan our trip to Alaska. Somebody even told us "Don't become the next Into-the-Wild-Dude up there", meaning we shouldn't go unprepared and underestimate the wildness and remoteness of the northern country. A strange comparison, given we can hardly go anywhere not accessible by car. Asked what they know about Alaska, chances are half of your drinking buddies at the bar or the friends at your potluck dinner will mention _Into the Wild_. Certainly almost every Alaskan will have heard of it.
 
-\[caption id="attachment\_665" align="aligncenter" width="702"\]![Essential Alaska reading]({{ site.baseurl }}/assets/images/Krakauer_LP-1024x333.jpg) Essential Alaska reading\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Krakauer_LP-1024x333.jpg" alt="Essential Alaska reading">
+  <figcaption>Essential Alaska reading</figcaption>
+</figure>
 
 It was only when we planned to go to Alaska for the summer that I learned about the story at all. I had known _Into the Wild_ was a movie based on real events about a guy who died in the wilderness. That it was based on a book, that this tragedy has played out in Alaska at all, that people care about this person, or rather the story that McCandless' tale embodies, I had no idea. After hearing about it over and over again, and especially after realizing we would travel through Healy, the town closest to the "wild" place where he had died, I quickly decided I had to know more about this.
 
@@ -28,7 +31,10 @@ But what is the story of this Chris McCandless, and why does it matter to people
 
 Chris McCandless was born in a suburb of Washington, D.C. into an upper middle class family. He was a bright kid, excelling at most things he did, but also highly idealistic and individualistic. After graduating college, he decided that the legal career he had studied for was not what he wanted from life and he went to live on the road instead. He tramped around the United States and Mexico, working here and there for a while, trying to prove he did not require a "society" to rely on. Money and possessions were ballast in his book, keeping people from living a fulfilled and meaningful life.
 
-\[caption id="attachment\_666" align="alignleft" width="702"\]![Inside the bus replica at the 49th State Brewery in Healy]({{ site.baseurl }}/assets/images/Stove-1024x581.jpg) Inside the bus replica at the 49th State Brewery in Healy. McCandless' bus had a stove, a bed, and a few shelves as well.\[/caption\]
+<figure class="align-left">
+  <img src="{{ site.baseurl }}/assets/images/Stove-1024x581.jpg" alt="Inside the bus replica at the 49th State Brewery in Healy">
+  <figcaption>Inside the bus replica at the 49th State Brewery in Healy. McCandless' bus had a stove, a bed, and a few shelves as well.</figcaption>
+</figure>
 
 After pinballing around the country for about two years, he decided that spending a summer alone in the Alaskan wilderness would be the ultimate challenge. A way to deliver the final proof that the scaffolds of society were not needed for survival, that one could live free from the chains of modern life that tie us down and keep us from being happy. He planned to stay in the wild for a few months and then return to the rest of the world. For the longest time, from April 1993 to about August of the same year, living in an abandoned city bus in the woods, not seeing a single soul, his adventure went well. Then, a few rookie mistakes, combined with some bad luck, changed his fate and led to his death in September. The actual cause of death is unclear even today, but it seems likely he died after poisoning himself through eating poisonous or rotten plants. This, combined with the fact that a river he crossed easily in spring had turned into a wild stream by the time he intended to cross back to civilization in late summer, seemed to have lead to his eventual death.
 
@@ -38,7 +44,10 @@ So, besides the fact that it is a tragic story, what is so interesting about Chr
 
 For travelers across the globe, however, McCandless is a hero, a role model for a life off the grid and outside the norm. The fact that these life choices eventually killed him only seem to emphasize the appeal. In a way, McCandless is a modern martyr. He died for his belief that a different way of life is possible, a "traveler messiah", dying for all of us wanderers searching for a way to live our dream.
 
-\[caption id="attachment\_672" align="aligncenter" width="702"\][![sign]({{ site.baseurl }}/assets/images/Sign-1-1024x438.jpg)](http://www.gobigemma.com/wp-content/uploads/2016/09/Sign-1.jpg) A sign at the [sign forest in Watson Lake,](http://www.gobigemma.com/2016/07/16/sign-forest/) showing how Chris McCandless , who nicknamed himself "Alex Supertramp", continues to be a role model for travelers today.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Sign-1-1024x438.jpg" alt="sign">
+  <figcaption>A sign at the [sign forest in Watson Lake,](http://www.gobigemma.com/2016/07/16/sign-forest/) showing how Chris McCandless , who nicknamed himself "Alex Supertramp", continues to be a role model for travelers today.</figcaption>
+</figure>
 
 In reality, it's likely McCandless was none of the above. Yes, he made mistakes in the wilderness that eventually killed him. But he also managed to spend several months before that entirely on his own, staying alive and even healthy without the help of a single other person. Yes, he believed in a different life where our capitalistic society doesn't have as strong a grip on our fate, and yes he tried to make the people around him see and understand his view of the world. But he was not a preacher, he did not try to change the world, rather realize this dream for himself. And most of all: Most of the tourists coming through Healy today, who take pictures with the bus and post them on social media, they share few of the values McCandless lived by.
 
@@ -46,7 +55,10 @@ In reality, it's likely McCandless was none of the above. Yes, he made mistakes 
 
 Standing in front of the brewery, we met an Australian guy. "This is what I came to Alaska for," he told us. He said the reason for visiting the state was to go on the Stampede Trail, the path leading to the actual bus that is still there, about 20 miles off the highway outside of Healy. He had arranged a tour with a local guide to take him to the bus, paying several hundred dollars. But due to the Teklanika river being too high, the same river that had stopped McCandless from returning from the wild, the trip was canceled. "But I found a guy in town", he continued as we stepped into the bus in the brewery yard, "he runs a helicopter business and he'll take me to the bus tomorrow." I asked him how much he had to pay for the ride, he replied "It'll be about a thousand bucks, I guess". A trip to Alaska and a thousand dollars, just to see a bus in the woods, to see the place a young idealistic man decided to call home and where he perished trying to realize his dream. It doesn't seem likely Chris McCandless, the man who gave away his savings and burned all the cash in his pocket, would have liked this way of honoring him.
 
-\[caption id="attachment\_668" align="aligncenter" width="702"\]![wilderness_2]({{ site.baseurl }}/assets/images/Wilderness_2-1024x438.jpg) The Alaskan wilderness: rivers, trees, and endlessness. Photo by Klim Bulygin\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Wilderness_2-1024x438.jpg" alt="wilderness_2">
+  <figcaption>The Alaskan wilderness: rivers, trees, and endlessness. Photo by Klim Bulygin</figcaption>
+</figure>
 
 Since it became a legendary place, thousands of people have traveled the Stampede Trail to the bus, slept in the wreck, and left their mark. Graffiti lines the inside of the bus, we've been told. Some are by McCandless himself, but most are left there by his disciples, walking, driving, even flying into the wilderness to get to the "Magic Bus", as McCandless had called it in a diary entry. Many who visit the bus get in over their heads, and have to be rescuced by the State Troopers. One tourist, according to the _Lonely Planet_, even died trying to reach the bus in 2010.
 

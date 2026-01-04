@@ -27,7 +27,10 @@ Worrying, after all, is as insignificant as bubblegum.
 
 I had been looking forward to this visit for a long time. Not because it was more special than other visits from people at home, but because Sven and I had been having a rough time lately. Our Bus had been feeling particularly cramped. A visit from good friends and time with people other than each other was exactly what we needed.
 
-\[caption id="attachment\_3559" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Three-Travelers-1024x683.jpg) Konsti, Caro, and Emma back up in Alaska (July 2016).\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Three-Travelers-1024x683.jpg" alt="">
+  <figcaption>Konsti, Caro, and Emma back up in Alaska (July 2016).</figcaption>
+</figure>
 
 It felt good, picking them up from the airport, making camp that first night. Caro and Konsti, two of our best friends back in Germany, would be here for two full weeks. Our plan was to spend some time in Belize (they wanted to go diving) before heading on into Guatemala together.
 
@@ -45,7 +48,10 @@ We set up our awning and hung our tarp over it, because, as always, rain was in 
 
 We hung up our wet clothing, making provisional clotheslines all around camp. And we hung up the mason-jar candles that I made back in Oregon. The guys decided to get out the fishing pole and see if they could catch something. Caro and I sat around and mused about how guys don’t seem to like to talk about deep stuff with each other because they would rather go fishing.
 
-\[caption id="attachment\_3558" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Konsti-goes-fishing-1024x678.jpg) Konsti fishing in the Sibun\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Konsti-goes-fishing-1024x678.jpg" alt="">
+  <figcaption>Konsti fishing in the Sibun</figcaption>
+</figure>
 
 I gave Caro and hug and we sat in the dirt and watched as dusk settled over the beautiful scenery. _Look_, she said, _if you imagine it, you can see how the hills make the outline of a woman laying down_. I sort of saw it, but mostly I was happy to remember how my friend can see shapes all over nature, in clouds and rocks and mountains. Those little surprises - of things you remember you had forgotten about someone you know very well - are very special. The moment made me smile.
 
@@ -73,7 +79,10 @@ There is _definitely_ water in the Bus. And a lot of it. Piece by piece, I regis
 
 As I look back at the watery floor, a fish, about the length of my hand, swims across it and disappears into the cockpit.
 
-\[caption id="attachment\_3557" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Camp-before-the-Flood-1024x678.jpg) Camp with our badass tarp setup, the evening before the flood. Photo by Carolin Gesch.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Camp-before-the-Flood-1024x678.jpg" alt="">
+  <figcaption>Camp with our badass tarp setup, the evening before the flood. Photo by Carolin Gesch.</figcaption>
+</figure>
 
 _Guys, what should we do? s_ays Konsti. The question hangs in the moist air of the Bus. People start talking. _Stop_, I command, _we need to focus. Just shut up for a minute and THINK_. Everybody goes silent.
 
@@ -99,7 +108,10 @@ I answer the group with certainty. If we can’t move Big Emma, the consequences
 
 Caro - still sitting on the bed - seems rather lost, is asking Konsti questions that I immediately forget. _Here_, I tell her, and thrust the empty bag into her hands, _Pack whatever I give you!_ She takes the bag.
 
-\[caption id="attachment\_3562" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Sven-and-Konsti-1024x678.jpg) Happy travelers, the day before the flood. Photo by Carolin Gesch.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Sven-and-Konsti-1024x678.jpg" alt="">
+  <figcaption>Happy travelers, the day before the flood. Photo by Carolin Gesch.</figcaption>
+</figure>
 
 ### A responsible traveler always knows where to find her towel
 
@@ -117,7 +129,10 @@ _Guys, what if there are snakes in the river?_ Someone mentions. _Fuck_, I say, 
 
 _Wait, I need underwear,_ says Caro, a last minute thought. I look around and see a bathing suit bottom and hand it to her.
 
-\[caption id="attachment\_3556" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Look-at-me-Big-Emma-1024x678.jpg) The Sibun was the second campspot we had considered that night; this was the first. However, we felt we were too visible from the highway here.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Look-at-me-Big-Emma-1024x678.jpg" alt="">
+  <figcaption>The Sibun was the second campspot we had considered that night; this was the first. However, we felt we were too visible from the highway here.</figcaption>
+</figure>
 
 ### **Good luck, Big Emma**
 
@@ -143,7 +158,10 @@ We walk along the highway in the rain. There’s a pendulum going off inside me 
 
 I make sarcastic comments, attempt to keep the mood lighthearted. We talk about what it was like, and keep trying to flag down a ride. Eventually we realize that we should put the machete away, that might help. We walk across the bridge that spans the Sibun, under the orange glare of the lights that sparsely line the highway. We look for Big Emma, but there is no chance, the darkness doesn’t let up. The scene feels unusual, sinister, and strangely peaceful. It is not panic, or hopelessness that fills my spirit. It is a kind of peace. There is no choice but to accept that this has happened, whatever consequences that brings.
 
-\[caption id="attachment\_3560" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/The-Shoes-before-the-Storm-fullsize-1024x678.jpg) Shoes drying on the banks of the Sibun, the evening before the flood. Photo by Carolin Gesch.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/The-Shoes-before-the-Storm-fullsize-1024x678.jpg" alt="">
+  <figcaption>Shoes drying on the banks of the Sibun, the evening before the flood. Photo by Carolin Gesch.</figcaption>
+</figure>
 
 _At least you woke up when you did_, Caro says to Konsti. _How did you know to wake up?_ Konsti responds: _It was the splashes that gave it away_. _Rain doesn’t make splashes like that._
 

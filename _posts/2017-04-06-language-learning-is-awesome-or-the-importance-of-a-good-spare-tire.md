@@ -17,7 +17,10 @@ I walk up to the taco stand in Ciudad Conception, Sven is back in the car. I ord
 
 "Disculpe, mi Español es muy mal", I tell her. _Sorry for my bad Spanish_. "No problema", she says, "yo entiendo." She tells me that it's not a problem that my Spanish is bad, she has understood me, and gives me a wide, gracious smile. I get my taco, choose my toppings, and am on my way with a hearty "Buenas tardes!" I get back to the Bus and start on my taco. It's awesome.
 
-\[caption id="attachment\_1869" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Taco-Menu-1024x683.jpg) Un taco de pescado, por favor! Taqueria in Santiago, Baja Sur.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Taco-Menu-1024x683.jpg" alt="">
+  <figcaption>Un taco de pescado, por favor! Taqueria in Santiago, Baja Sur.</figcaption>
+</figure>
 
 ### Taking Spanish baby steps
 
@@ -31,7 +34,10 @@ However, despite all of this progress, my Spanish is very obviously in its infan
 
 Because this is the real deal. Language learning through pure, raw exposure. In the past three weeks, I have been constantly exposed to Spanish. You hear it in the supermarket, with the guy who is asking you to pay for your campspot on the beach, for official business like visas, and at military checkpoints. They tend to be small moments, but ones where communication is paramount. You are almost forced to use it, as you are confronted with these situations over and over again. And it's exciting, because every time is a chance to practice again.
 
-\[caption id="attachment\_1868" align="alignright" width="200"\]![]({{ site.baseurl }}/assets/images/Taqueria-200x300.jpg) Spanish everywhere, every chance I get.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Taqueria-200x300.jpg" alt="">
+  <figcaption>Spanish everywhere, every chance I get.</figcaption>
+</figure>
 
 This is immersion, pure and simple. In other words, this is surrounding myself with a foreign language, using every opportunity to practice it, and doing my best with the skills I have at my disposal. Of course, we are by no means always just speaking Spanish. [We have been hanging out with other travelers](http://gobigemma.de/2017/04/27/the-gringo-conundrum/), and the language of choice among ourselves is English. Sven and I usually speak English to each other on the road, although we have been doing our best to speak Spanish with each other in public places like the supermarket or at the local taco stand since we've [crossed into Mexico](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/).
 
@@ -45,7 +51,10 @@ Because that's the whole point: learning language through immersion is about get
 
 Although I may not know the word for _take-out food_ in this conversation, I will remember the nice lady at the taco stand who taught me _para llevar_ when I am ordering the next taco at the stand down the road. The structured book-learning and vocabulary practice supplement this, and also help me improve my chance of finding the right word buried somewhere in my brain the next time I can't find the candles in the supermarket. But even if I don't know the word for _candle_ now, I can try my best to describe it in my bad Spanish until the person I am talking to understands what I am searching for.
 
-\[caption id="attachment\_1870" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Fish-Taco-1024x683.jpg) Un taco de pescado, para aqui!\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Fish-Taco-1024x683.jpg" alt="">
+  <figcaption>Un taco de pescado, para aqui!</figcaption>
+</figure>
 
 ### Conversation is exhilarating
 
@@ -61,7 +70,10 @@ Moreover, thoughts like these lead to a fear of applying the language _flexibly_
 
 Applying language flexibly is using my language skills to communicate any topic I need to. I do not just talk to the lady at the taco stand, but am already free to talk about any topic I wish, using the words that I have integrated into my vocabulary so far.
 
-\[caption id="attachment\_1867" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Sven_Taco_Stad-1024x683.jpg) Sven and Big Emma at a taco stand in Mulegè, Baja Sur. It is difficult to order for myself sometimes, because Sven is proficient in Spanish and is able to jump in quickly with his language skills.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Sven_Taco_Stad-1024x683.jpg" alt="">
+  <figcaption>Sven and Big Emma at a taco stand in Mulegè, Baja Sur. It is difficult to order for myself sometimes, because Sven is proficient in Spanish and is able to jump in quickly with his language skills.</figcaption>
+</figure>
 
 ### The importance of a good spare tire
 
@@ -69,4 +81,7 @@ The other day, for example, we pulled off the side of the road to see if some 
 
 Despite my numerous flash cards, _this_ is the center of the Tootsie Pop, the sweetest part of the treat. Using language like this, even if I do not know very much, is fun. Although many people think it takes a lot of licking to get to that juicy center, it is not necessary. Bite down hard on your mistakes, and accept them for what they are: a language-learning tool. The center may be easier to reach than you might think.
 
-\[caption id="attachment\_1884" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Spare-Tire-3-1024x551.jpg) We learned the importance of a good spare tire up in Alaska, driving the [Dalton Highway](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) to the Arctic.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Spare-Tire-3-1024x551.jpg" alt="">
+  <figcaption>We learned the importance of a good spare tire up in Alaska, driving the [Dalton Highway](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) to the Arctic.</figcaption>
+</figure>

@@ -20,7 +20,10 @@ The short answer is simply: yes, Sven speaks Spanish. In 2010, he spent a semes
 
 ### Sven speaks Spanish, I’m still learning
 
-\[caption id="attachment\_1588" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Leb-deinen-Traum-3-300x200.jpg) Learning languages has been an important factor in our lives for a number of years. The inside of our Bus is decorated with German refrigerator magnets. "Leb deinen Traum" translates to "live your dream".\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Leb-deinen-Traum-3-300x200.jpg" alt="">
+  <figcaption>Learning languages has been an important factor in our lives for a number of years. The inside of our Bus is decorated with German refrigerator magnets. "Leb deinen Traum" translates to "live your dream".</figcaption>
+</figure>
 
 I do not speak very much Spanish - yet. Like Sven, I also did two exchanges during high school and college; my first one was to Germany, the other was to [Indonesia](http://emmainindonesia.gobigemma.com/category/lets-talk-about/) - but neither German nor Indonesian will be very useful in Central or South America. I made a few meager attempts at beginner's Spanish during college, but my lessons were always interrupted by other classes or life factors. I have begun to learn it again over the past few months and weeks, and will continue to do so as we travel through Latin America.
 
@@ -36,7 +39,10 @@ Of course, this is easier said than done. Despite everything we may think now, i
 
 So why is learning this language worth so much frustration? What makes me so determined to learn Spanish? Many people travel the [Panamericana](http://www.gobigemma.com/2016/10/13/752/) without knowing more than a few words of Spanish. In fact, people travel all around the world, all the time, and feel that they need only rely on English as the common _lingua franca_.
 
-\[caption id="attachment\_1589" align="aligncenter" width="1800"\]![]({{ site.baseurl }}/assets/images/Esta-en-la-Kombi.jpg) Que esta en la Kombi? What's in the Bus?\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Esta-en-la-Kombi.jpg" alt="">
+  <figcaption>Que esta en la Kombi? What's in the Bus?</figcaption>
+</figure>
 
 Learning a new language was, in fact, one of the major reasons we decided to travel along the Panamericana in the first place. It was one of three factors that we deemed most important for our choice of itinerary. In comparison to the other option we considered - Australia - the Panamerican Highway offered us the chance to learn a foreign language better than we ever had before, and would offer us a wide span of countries to do it in that were all within a common language area.
 
@@ -44,7 +50,10 @@ For us, learning the language of the place we are spending a significant amount 
 
 ### An example of German _Brötchen_
 
-\[caption id="attachment\_1590" align="alignright" width="216"\]![]({{ site.baseurl }}/assets/images/Broetchen-216x300.jpg) A very fancy German breakfast. Brötchen can be seen in the basket in the back. A Brötchen sliced down the middle can be seen on my plate in the foreground.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Broetchen-216x300.jpg" alt="">
+  <figcaption>A very fancy German breakfast. Brötchen can be seen in the basket in the back. A Brötchen sliced down the middle can be seen on my plate in the foreground.</figcaption>
+</figure>
 
 Let me give you an example, using a cultural phenomenon I am much more familiar with: the German concept of _Brötchen_.
 
@@ -58,7 +67,10 @@ My point, however, is that it is not enough to just know what the word for _Brö
 
 To broaden this example: I believe the only way to truly understand a person is to understand words like _Brötchen_. You have to know the context of what they are talking about, which is always altered by translation. If I don’t even know that a phenomenon like _Brötchen_ exists, how can I ever talk to someone about it and understand what it really means to them? The only way to get to _really_ know a person is to speak their language to the best of my ability. It is not just about practicality (it's not just that I want to know what _Brötchen_ are on the menu and if I would like one or not), it is about doing my utmost to understand the other person (it is also about understanding that if a German-speaker just bites into his _Brötchen_, he is probably extremely overly hungry and should be fed immediately).
 
-\[caption id="attachment\_1584" align="aligncenter" width="1440"\]![]({{ site.baseurl }}/assets/images/Feliz_Cumple_long.jpg) Big Emma is working on her Spanish, too! By the time we get to Argentina (where we will visit a good friend, Mau) she will be able to have whole conversations.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Feliz_Cumple_long.jpg" alt="">
+  <figcaption>Big Emma is working on her Spanish, too! By the time we get to Argentina (where we will visit a good friend, Mau) she will be able to have whole conversations.</figcaption>
+</figure>
 
 ### By the time we get to Argentina
 

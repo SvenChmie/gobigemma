@@ -59,7 +59,10 @@ I used to be able to write while we were driving in the Bus. Or get other things
 
 ### Really listening to the rain
 
-\[caption id="attachment\_3243" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Screen-Shot-2017-09-06-at-17.45.26-300x300.png) [Photo](https://www.instagram.com/p/BYYu5hYggZy/?taken-by=hv_adventure) by HV Adventure.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Screen-Shot-2017-09-06-at-17.45.26-300x300.png" alt="">
+  <figcaption>[Photo](https://www.instagram.com/p/BYYu5hYggZy/?taken-by=hv_adventure) by HV Adventure.</figcaption>
+</figure>
 
 I love playing _Settlers of Catan_, but it doesn’t happen very often these days. Today is my lucky day, however, because our fellow travelers [HV Adventure](https://www.instagram.com/hv_adventure/) have a rare miniature travel edition. We’ve parked our vehicles sliding-door-to-sliding-door and play at their folding table in between. Their solar lights illuminate our game, a picturesque scene indeed. I trade in wood, clay, hay, and sheep and buy a settlement before passing the dice. I look up and catch Hanna’s eyes, a strange look on her face. “Is that rain?” she asks us. We listen. “No,” Venca says, “It’s just the wind picking up.” Sven rolls the dice. I get a rock. “Maybe it is rain”, he says. “No, maybe not,” Hanna replies. We look at each other. “It does smell like rain,” I add, calm as ever. Everyone ponders the sound with a mutual agreement to think about it a little longer before coming to a conclusion. All heads are cocked, puzzled. The noise suddenly hits a crescendo and our eyes get wide. “FUCK!” we yell collectively, and at once become ants as the night sky explodes onto us and we throw things into whatever van is closest. “See you in a bit!” somebody exclaims, and I remember that we still have to put our rainfly up. So much for my new settlement.
 

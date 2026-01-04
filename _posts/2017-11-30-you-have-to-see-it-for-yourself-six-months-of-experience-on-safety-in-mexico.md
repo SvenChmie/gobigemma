@@ -26,7 +26,10 @@ _Spoiler alert_: we did not experience Mexico as dangerous. In fact, we barely m
 
 Back on [Baja California](http://gobigemma.de/2017/05/25/1000-miles-of-baja-california/), we were [couchsurfing](http://gobigemma.de/2017/07/06/popular-questions-really-can-camp-free/) in La Paz. I asked our host, in my Very Bad Spanish, why all the houses had bars on the windows. I had been to Latin America before and knew it was a common sight, but I had never actually asked anyone about it. “Everybody has them,” she told me. I nodded and asked, “But do you _need_ them? Or does everybody just _think_ they need them? Are they actually _necessary_?” She thought for a moment. “No, you need them, you’ll get robbed if you don’t have them.”
 
-\[caption id="attachment\_3284" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Barred-Windows-1024x683.jpg) Barred windows in Guadalajara, Mexico.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Barred-Windows-1024x683.jpg" alt="">
+  <figcaption>Barred windows in Guadalajara, Mexico.</figcaption>
+</figure>
 
 But my question was unfair. Where do people even draw the line between _needing_ something and the _perception_ of necessity? How are you supposed to tell the difference between the two? When does one turn into the other, and does it ever turn back? I guess you never know, unless yours is the house that didn’t have bars on the windows, you got robbed, and the burglar left a note saying, "I only came here because you didn't bar your windows".
 
@@ -34,7 +37,10 @@ You will never know, actually, if you need a safety feature like barred windows�
 
 ### Our route through Mexico: states and tolls
 
-\[caption id="attachment\_3289" align="alignright" width="300"\]![]({{ site.baseurl }}/assets/images/Breakfast-with-Big-Emma-300x200.jpg) German-style breakfast with Sven's family. And Big Emma.\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Breakfast-with-Big-Emma-300x200.jpg" alt="">
+  <figcaption>German-style breakfast with Sven's family. And Big Emma.</figcaption>
+</figure>
 
 After crossing over from Baja, we traveled through the Mexican countryside, from Sinaloa to Nayarit, on to [Guadalajara](http://gobigemma.de/2017/06/08/in-order-to-move-forward-we-sometimes-need-to-stop/) in Jalisco, and down towards Puebla. We entered Oaxaca from the northwest and continued south down to the coast. After staying for over a month in Puerto Escondido, we headed back up towards San Cristóbal de las Casas in the mountains of Chiapas. From there, we drove towards the Yucatán Peninsula through Quintana Roo and the [Riviera Maya](http://gobigemma.de/2017/11/23/hidden-in-the-jungle-real-life-on-the-riviera-maya/) before spending two weeks on the northern Yucatán coast with Sven’s family. We returned to Quintana Roo and left Mexico from there, driving south into Belize.
 
@@ -56,7 +62,10 @@ I tend to stay in the places where I feel safe, and where I can find comforts an
 
 However, we personally know many travelers who _did_ go through these parts of Mexico. The coastal highway - which goes through both Michoacán and Guerrero - is the road for surfers, and all travelers who do the [Panamericana](http://gobigemma.de/2016/10/13/752/) for the best surf spots do not skip these parts of Mexico. Everyone we have heard of traveling there has been fine. On the other hand, we also met one woman in Quintana Roo from Acapulco (in Guerrero), who told us we should stay away from there. "The Yucatán is much better," she told us, "you don’t have to worry here."
 
-\[caption id="attachment\_3306" align="aligncenter" width="1000"\]![]({{ site.baseurl }}/assets/images/Vent-Window-Lock-1.jpg) The self-made lock we added to our vent windows to prevent further break-ins. Unfortunately, the window crank is located directly beneath these windows, a perfect target for thievery.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Vent-Window-Lock-1.jpg" alt="">
+  <figcaption>The self-made lock we added to our vent windows to prevent further break-ins. Unfortunately, the window crank is located directly beneath these windows, a perfect target for thievery.</figcaption>
+</figure>
 
 ### Safety is only a matter of perspective
 
@@ -76,13 +85,19 @@ Bringing these uncertainties back to the forefront highlights one of the things 
 
 Another topic comes up when travelers think of _Safety in Mexico_: police corruption. We, like many other good overlanders, made laminated copies of our IDs, hid our passports deep in the corners of our car, and tried to never leave extra cash or electronics lying around. Many travelers are afraid of getting stopped by the police. Not because they are usually doing anything wrong, but because they are scared of crooked cops looking for bribes from gullible tourists. One of the common fears is handing over original documents like driver’s licenses or passports, and only getting them back for a _donation_. Another is being accused of a bullshit charge, which can also be solved via a _donation_ to the accuser.
 
-\[caption id="attachment\_3285" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Mexican-Military-1024x1024.jpg) Military vehicle on Baja California.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Mexican-Military-1024x1024.jpg" alt="">
+  <figcaption>Military vehicle on Baja California.</figcaption>
+</figure>
 
 We never encountered anything of the sort. We experienced the most military checkpoints on Baja, and the most police checkpoints on the Yucatán Peninsula. We crossed numerous state borders, went through many police and military checkpoints, and got stopped by a cop once. The cop seemed to be doing a routine check; although we were definitely nervous, he took a look at all our paperwork and let us go on our way. He was both professional and friendly. At checkpoints, our car never got searched more than opening a door or officers looking in through the windows. One cop even said, “Oh you're from Germany? I love Germany!” and waved us on with nothing more than that.
 
 Civilian blockades were also an issue, almost exclusively in the state of Chiapas. Once or twice, it was someone blocking the road with a rope or chain and asking for money. Once it was a little boy. We gave him coins and gummy bears and went on our way. Once it was a group of village men with a board decorated with nails that they strung across the highway. The event pissed me off, but for about $1 USD, the problem is easily solved. I might not like it, but I imagine they can genuinely use the money.
 
-\[caption id="attachment\_3287" align="aligncenter" width="702"\]![mexican-flag]({{ site.baseurl }}/assets/images/Mexico-Flag-cut-1024x510.jpg) The Mexican flag in front of a church in San Blas, Nayarit.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Mexico-Flag-cut-1024x510.jpg" alt="mexican-flag">
+  <figcaption>The Mexican flag in front of a church in San Blas, Nayarit.</figcaption>
+</figure>
 
 ### Experiences are individual - communication is key
 

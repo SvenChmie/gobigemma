@@ -27,8 +27,11 @@ What just happened here? How do you feel about us and your dream now? Confused? 
 
 The scene I described here is fictional, but it represents a [conundrum](http://www.gobigemma.com/2017/04/27/the-gringo-conundrum/) that was recently illustrated by _The New Yorker_ magazine in an article called [_#Vanlife, the Bohemian Social Media Movement_](http://www.newyorker.com/magazine/2017/04/24/vanlife-the-bohemian-social-media-movement). It follows the life of Emily and Corey of [_Where's My Office Now_](https://www.instagram.com/wheresmyofficenow/), who live in their Volkswagen Vanagon (a boxy 80s Bus) and have turned their life in the van into their primary source of income through paid product placement in their photos on Instagram. The couple started to live in their Bus in 2013 with the idea to be more independent and free from the chains of a desk job. "They could live cheaply in a van while placing what they loved — travelling (sic), surfing, mountain biking — at the center of their lives", as Rachel Monroe puts it in _The New Yorker_.
 
-\[caption id="attachment\_2068" align="alignright" width="300"\][![]({{ site.baseurl }}/assets/images/Kettle_Chips-300x273.jpg)](https://www.instagram.com/p/BSMdwJzlKK1/) An Instagram post by Where's My Office Now, showing Emily holding a bag of Kettle Brand Chips. The image caption talks about the joy of giving up their regular 9-5 jobs and ends with a mention that the post was "supported" by the chips company.  
-Picture by [Where's My Office Now](https://www.instagram.com/wheresmyofficenow/)\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/Kettle_Chips-300x273.jpg" alt="">
+  <figcaption>An Instagram post by Where's My Office Now, showing Emily holding a bag of Kettle Brand Chips. The image caption talks about the joy of giving up their regular 9-5 jobs and ends with a mention that the post was "supported" by the chips company.  
+Picture by [Where's My Office Now](https://www.instagram.com/wheresmyofficenow/)</figcaption>
+</figure>
 
 In the beginning, Emily had a part time job as a software developer, while Corey took on different short-term jobs in the places they went. But as time progressed, vanlife became more and more popular as a lifestyle. And as their own Instagram account gathered tens of thousands of followers, they saw an opportunity. Having met other travelers who made a living with brand partnerships and product placement on their social media accounts, the couple decided to quit their regular jobs and give it a try.
 
@@ -36,7 +39,10 @@ In 2016, the first year of their career as social influencers, as the marketing 
 
 Scrolling through _Where's My Office Now_'s Instagram feed reveals the same aesthetics that define most vanlifer accounts, including our own: the van, the van surrounded by beautiful nature, the couple in the van, while doing fun and relaxing things. The general message here is positive. Living in a van means living free, it means going wherever you want to, it means having time. And in the case of _Where's My Office Now_, it means eating a certain kind of potato chips, using a certain kind of toothpaste, and a certain kind of refillable water bottles. The ads are subtle, I never feel like they are obnoxiously thrown into my face.
 
-\[caption id="attachment\_2065" align="aligncenter" width="702"\]![nighttime drink]({{ site.baseurl }}/assets/images/Tecate-1024x581.jpg) This picture of us drinking beer at a beach on Baja would make for a decent promotion post for Tecate. Only that it wasn't.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Tecate-1024x581.jpg" alt="nighttime drink">
+  <figcaption>This picture of us drinking beer at a beach on Baja would make for a decent promotion post for Tecate. Only that it wasn't.</figcaption>
+</figure>
 
 ### A mixed bag of responses
 
@@ -46,7 +52,10 @@ It is the contrast between the ideals that vanlife encompasses and the ads that 
 
 Like every good marketer, Emily states in _The New Yorker_ that they want "to bring light to companies that are doing good in the world, that are creating products we \[Emily and Corey\] believe in". But even if that may be true, it's also true that the offering of money can go a long way to help people to "believe in a product", as long as it's not arsenic dental floss.
 
-\[caption id="attachment\_2063" align="aligncenter" width="702"\]![Reading on the beach]({{ site.baseurl }}/assets/images/Pearl-1024x451.jpg) Some people criticize the staged nature of pictures on Instagram. But it's sometimes the only way to capture a moment and it doesn't mean this moment never happened. Emma did read Steinbeck's The Pearl, and she did it on this beach. But we didn't take a picture, so we staged this one a day later. Does that make it fake?\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Pearl-1024x451.jpg" alt="Reading on the beach">
+  <figcaption>Some people criticize the staged nature of pictures on Instagram. But it's sometimes the only way to capture a moment and it doesn't mean this moment never happened. Emma did read Steinbeck's The Pearl, and she did it on this beach. But we didn't take a picture, so we staged this one a day later. Does that make it fake?</figcaption>
+</figure>
 
 ### Even vanlifers need money
 
@@ -64,6 +73,9 @@ We all have to make a living, and although content on the Internet is often free
 
 Consumers get all of Instagram, Youtube, and websites like this one without paying a cent. Depending on our choice of income, it may have ads. Being a conscious consumer, you should be able to realize the function of advertisement for us creators. It's the trade-off for getting it for free.
 
-\[caption id="attachment\_2064" align="aligncenter" width="702"\]![Sven is writing]({{ site.baseurl }}/assets/images/Sven_Writing-1024x644.jpg) Me writing this very article. Vanlife isn't all fun and games, it's also work, like any other way of life.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Sven_Writing-1024x644.jpg" alt="Sven is writing">
+  <figcaption>Me writing this very article. Vanlife isn't all fun and games, it's also work, like any other way of life.</figcaption>
+</figure>
 
 As the sun warms us and we grow more awake, we fight the urge to get out of bed. Just a little bit longer. Then I peel myself out of the covers, I put some clothes on and open the sliding door. I go pee into the dunes and then boil water to make coffee. After breakfast, we open our laptops, and I turn on the wifi hotspot on my phone. Although we're on the beach, there is work to be done. Welcome to another day in vanlife.

@@ -27,7 +27,10 @@ This border crossing back into the US mainland, however, was different. When I e
 
 At the checkpoint, the officer on duty skimmed through the pages of our passports, meanwhile asking us the usual questions about our travel plans, our lives. After a few seconds, he looked up and said, "Please pull over to the side there and step into the office." Of course, it wouldn't be that easy this time, just as we had suspected.
 
-\[caption id="attachment\_1114" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Canada_Border_Dark_Sky-1-1024x510.jpg) Border crossing between Canada and Alaska. In the middle of nowhere, but at least it's an office with a view!\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Canada_Border_Dark_Sky-1-1024x510.jpg" alt="">
+  <figcaption>Border crossing between Canada and Alaska. In the middle of nowhere, but at least it's an office with a view!</figcaption>
+</figure>
 
 Inside, we got to talk to a different officer - let's call him officer Bob - explaining our story once more. Yes, we are on the way to Argentina. Yes, we've already spent quite some time in the States. No, although it's possible to drive to Mexico in just a few days, that wouldn't be enough. How do we finance ourselves? Do we have records of that? We did. When will I return back to Germany? Hard to say, maybe in a year or two? How can he be sure I wasn’t intending to stay in the States? Well, Argentina isn't in the US, really...
 
@@ -47,7 +50,10 @@ Those 20 minutes had stretched to an eternity. Outside the light had faded and n
 
 Finally, officer Bob came back. He seemed pleased. "Nice website", he said. "who's paying you for all that work?" “Nobody," we answered truthfully. The answer seemed to satisfy him. He said, "Okay, I won't turn you around, that would be too harsh. What I might do though is limit your time, not give you the full six months.”
 
-\[caption id="attachment\_1113" align="alignright" width="233"\]![International Boundary stone marking the border]({{ site.baseurl }}/assets/images/International_Boundary-233x300.jpg) ...and don't you trees just migrate without a visa!\[/caption\]
+<figure class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/International_Boundary-233x300.jpg" alt="International Boundary stone marking the border">
+  <figcaption>...and don't you trees just migrate without a visa!</figcaption>
+</figure>
 
 A part of me wanted to jump through the room in relief, a different part of me felt like it just got punched in the guts. We would go to the US, no flights to Mexico would be necessary. But how long would he give me? Officer Bob motioned us outside to have a look around the car. Despite the tense situation and the uncomfortable feeling of depending completely on the mood and judgment of this border officer, I relaxed a bit. He seemed like an honest person. From the beginning he had told us what he thought about our case, he had bothered to look at this very blog you are reading right now, he took his time to hear us and didn't just dismiss our case.
 

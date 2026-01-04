@@ -37,7 +37,10 @@ From what we saw of Hasta Alaska, who are still finishing up their video series 
 
 In fact, because Hasta Alaska has turned video production into successful monetary gain, they are almost forced to continue, whether they want to or not. They have gained enough momentum to say, _If we stop now, why did we work so hard in the first place?_ Not only would Hasta Alaska lose their income-base if they were to stop producing videos, they would also lose their followers. To do so would be the equivalent of starting from scratch. Although videos may be their passion, it comes with a price.
 
-\[caption id="attachment\_3181" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Sunset-Photographer-1024x682.jpg) Sunset photography moments (April 2017 - Todos Santos, Baja California Sur). Photo by [Drive2Ski](https://www.instagram.com/drive2ski/).\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Sunset-Photographer-1024x682.jpg" alt="">
+  <figcaption>Sunset photography moments (April 2017 - Todos Santos, Baja California Sur). Photo by [Drive2Ski](https://www.instagram.com/drive2ski/).</figcaption>
+</figure>
 
 ### Time is a factor in vanlife-made media
 
@@ -45,7 +48,10 @@ Many vanlifers who attempt to make media are faced with this same predicament, w
 
 This is also the reason why many vanlifers choose to focus their media-making efforts on platforms like Instagram and Facebook. They require short attention spans, both to produce and to consume. It is an easy way to build and reach an audience. Your media then lives in a world where others spread it around for you, which gives you the chance to reach even more people. Unlike a blog or a Youtube channel, it is very easy to pass media from one hand to another, with little effort on your part as a content maker.
 
-\[caption id="attachment\_3182" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Whats-on-your-phone-Sven-cut-1024x1024.jpg) Photo by Anna Lünig.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Whats-on-your-phone-Sven-cut-1024x1024.jpg" alt="">
+  <figcaption>Photo by Anna Lünig.</figcaption>
+</figure>
 
 We are no different - we also use these platforms to convey small instances of our story that can be consumed quickly. A daily update, if you will. It gives people the chance to follow our story who have either not noticed that we write a blog or do not feel like reading over 1000 words a week. It also gives us an outlet for smaller stories that may not have had a place in one of our longer narratives. Our social media stories also give the audience that is following our blog a more detailed, colorful picture of our adventure. It gives you story elements - and photos - that you might not get anywhere else.
 

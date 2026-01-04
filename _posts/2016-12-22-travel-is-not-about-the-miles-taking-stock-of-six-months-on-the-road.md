@@ -19,7 +19,10 @@ Damn. Six months on the road. I sit here, near Big Sur on the coast of Central C
 
 Neither Sven nor I have traveled for this long, this continuously before. In my previous travels, I’ve met many other people who have, and I have always wondered what it must be like. What does it feel like, constantly being on the move like that? Does it get hard to appreciate the uniqueness of it all? Do you skip over places, forget things, mix up different events and people that you meet? My longest traveling stints before this were about seven weeks. South East Asia with Sven, the [West Coast tour in Big Emma](http://gobigemma.de/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california/). Sven and I were always able to recall, even years later, specific places and people we had met, our route, stuff that had happened. I could never imagine traveling for months at a time in one stretch before. It was always [just the dream](http://gobigemma.de/2017/07/27/living-the-dream-is-doing-the-impossible/).
 
-\[caption id="attachment\_1175" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Bus_Sun_Big_Sur_2-1024x483.jpg) The sun is shining on us in Big Sur, California.\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Bus_Sun_Big_Sur_2-1024x483.jpg" alt="">
+  <figcaption>The sun is shining on us in Big Sur, California.</figcaption>
+</figure>
 
 ### When dreams become reality
 
@@ -33,7 +36,10 @@ But it _is_ different than life at home was, of course. We can remember most day
 
 This blending of days, that was one of the things that bothered Sven the most back before we were traveling. _What was a single day worth_, he thought, _if I will never be able to remember it?_ I disagreed, and was generally pretty satisfied with these routines and the stability that they brought to life. But I also get his point. Yes, there are days that I can’t remember on our trip so far, but it only surprises me because I _can_ remember most of them.
 
-\[caption id="attachment\_1208" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Big_Sur_Landscape-1024x542.jpg) A room with a really good view (Big Sur, California).\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Big_Sur_Landscape-1024x542.jpg" alt="">
+  <figcaption>A room with a really good view (Big Sur, California).</figcaption>
+</figure>
 
 ### Learning to live outside
 
@@ -53,15 +59,24 @@ We have also learned to live with inconvenience. Every single day (one of our ro
 
 We have learned about [mechanics](http://www.gobigemma.com/2016/11/10/a-story-of-despair-samba-and-compression-why-the-community-is-the-best-part-of-driving-a-vw-bus/), about writing, about geography and [Canada](http://www.gobigemma.com/2016/10/27/vancouver/) and gumbo. We have learned that you can’t drive to Juneau, Alaska. We have learned about photography, and how much our windshield is worth. About [how to find free camp spots](http://gobigemma.de/2017/07/06/popular-questions-really-can-camp-free/), and how to judge one when we get there. About [how much a dollar is worth](http://www.gobigemma.com/2016/12/01/want-donate-button-money-delicate-thing/). What Alaska looks like. About how to live with constant messiness and dirt. We have learned how to improve our Bus many times over. So many things. And almost all of them simply out of the necessity of our daily lives.
 
-\[caption id="attachment\_1176" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Emma_Sven_Dalton-1024x551.jpg) Photo by @http://en.uxman.ru\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Emma_Sven_Dalton-1024x551.jpg" alt="">
+  <figcaption>Photo by @http://en.uxman.ru</figcaption>
+</figure>
 
 We have learned, and are still learning, to appreciate life. Every day. Someone we met recently told us, “When you travel, every day is a good day. Even the not-so-good-days are good days. They are just not as good as the other good days.” It is hard to do this. It is hard not to curse the days when the car suddenly doesn’t start and you’re left standing in rain somewhere where you know you can’t stay tonight. It is hard, some days, when you wish you had the stability and the conveniences of home.
 
 But I remind myself of the fact that what I’m doing is amazing, and many people never get the chances that I do, that I am incredibly, uncomprehensively privileged. That I can remember almost every day of the last six months. And that even the rainy or annoying ones were beautiful. I am learning to accept the world as it comes, rain or shine, never take any of it for granted, and know that this is an ultimate form of freedom.
 
-\[caption id="attachment\_1178" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Inside_Bus_Beginning-1024x611.jpg) The Bus from inside, before we left (May 2016)\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Inside_Bus_Beginning-1024x611.jpg" alt="">
+  <figcaption>The Bus from inside, before we left (May 2016)</figcaption>
+</figure>
 
-\[caption id="attachment\_1179" align="aligncenter" width="702"\]![]({{ site.baseurl }}/assets/images/Inside_Bus_Dalton-1024x609.jpg) The Bus from the inside on the [Dalton Highway in Alaska](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) (August 2016). Photo by @http://en.uxman.ru\[/caption\]
+<figure class="align-center">
+  <img src="{{ site.baseurl }}/assets/images/Inside_Bus_Dalton-1024x609.jpg" alt="">
+  <figcaption>The Bus from the inside on the [Dalton Highway in Alaska](http://www.gobigemma.com/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) (August 2016). Photo by @http://en.uxman.ru</figcaption>
+</figure>
 
 ### What may come
 
