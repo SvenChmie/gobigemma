@@ -15,7 +15,7 @@ coverImage: "1-Year-Later-cut.jpg"
 
 More than once, I have found myself in a group with other vanlifers, all in the form of heterosexual couples. More than once, the scenario looked something like this:
 
-After talking a bit, we tend to move over to one of our overlanding vehicles. The men move to the back of the car (or the front, if it isn’t a bus), open the engine compartment, poke around, talk about engine stuff. _What type of oil are you running? How's that battery setup working for you? Did you ever have problems with your [alternator](http://gobigemma.de/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico/)?_ In the meantime, with the women, we crowd the door of the vehicle to get a good look at its interior. _Where do you store stuff? How does your sink work?_ While the men spend their time fiddling with the mechanics, the women care about how everything inside is organized.
+After talking a bit, we tend to move over to one of our overlanding vehicles. The men move to the back of the car (or the front, if it isn’t a bus), open the engine compartment, poke around, talk about engine stuff. _What type of oil are you running? How's that battery setup working for you? Did you ever have problems with your [alternator](/gobigemma/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico)?_ In the meantime, with the women, we crowd the door of the vehicle to get a good look at its interior. _Where do you store stuff? How does your sink work?_ While the men spend their time fiddling with the mechanics, the women care about how everything inside is organized.
 
 This reflects a pretty traditional division of roles and interests…so what’s up with that?
 
@@ -51,7 +51,7 @@ In all of these cases, the women take on occasional jobs as well; however, they 
 
 ### More importantly - who’s your mechanic?
 
-And let’s not forget about the most obvious gender-division spectrum: _Mechanics_. A part of any vanlifer’s burden is the need to keep their vehicle in awesomely running order. You can't afford to [get stuck](http://gobigemma.de/2017/05/08/81-hell-guys/) somewhere you weren’t planning to stay for long.
+And let’s not forget about the most obvious gender-division spectrum: _Mechanics_. A part of any vanlifer’s burden is the need to keep their vehicle in awesomely running order. You can't afford to [get stuck](/gobigemma/2017/05/08/81-hell-guys) somewhere you weren’t planning to stay for long.
 
 There are two options for vanlifers: have the money to take your car to a shop, or learn how to do it yourself. Many VW-vanlifers opt for the latter option (and many non-VW-vanlifers are traveling in more modern cars that don’t need fixing quite so often). As you might have guessed, you can usually find the guys underneath the car.
 
@@ -66,7 +66,7 @@ We are, for the most part, no exception to this: Sven is the mastermind behind 
 
 However, I participate more in mechanics than most other female vanlifers we have met. I always know what Sven is working on. I am not the leader of our mechanical team, but I know what he is talking about, or will let him explain it to me until I do. We knew before we left that fixing Big Emma would be a two-person job.
 
-My knowledge base is important if only to help Sven think of a creative solution to a problem we just can’t solve. If it is something larger (aka more urgent) - major repairs like CV-joints, sudden [engine-cutouts](http://gobigemma.de/2016/11/10/a-story-of-despair-samba-and-compression-why-the-community-is-the-best-part-of-driving-a-vw-bus/), or [searching for lost lug nuts](http://gobigemma.de/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway/) - it is _always_ a team effort. [I have learned exponentially about mechanics since before we began](http://gobigemma.de/2016/06/17/the-bus-god-or-on-the-road-to-becoming-an-amateur-vw-mechanic/). Admittedly, however, this has been out of necessity; I do not want to bother myself with mechanics unless I have to, and there is no way in hell I’m going to look through our VW books for fun.
+My knowledge base is important if only to help Sven think of a creative solution to a problem we just can’t solve. If it is something larger (aka more urgent) - major repairs like CV-joints, sudden [engine-cutouts](/gobigemma/2016/11/10/a-story-of-despair-samba-and-compression-why-the-community-is-the-best-part-of-driving-a-vw-bus), or [searching for lost lug nuts](/gobigemma/2016/09/15/getting-to-the-top-of-north-america-the-dalton-highway) - it is _always_ a team effort. [I have learned exponentially about mechanics since before we began](/gobigemma/2016/06/17/the-bus-god-or-on-the-road-to-becoming-an-amateur-vw-mechanic). Admittedly, however, this has been out of necessity; I do not want to bother myself with mechanics unless I have to, and there is no way in hell I’m going to look through our VW books for fun.
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Screen-Shot-2017-08-22-at-18.19.17.png" alt="">
@@ -114,7 +114,7 @@ The next question is _why_ aren’t we interested in the activities that are typ
 
 ### Vanlife: a two-person job
 
-On the other hand, maybe there is a different reason. One of [the things people find so attractive about vanlife](http://gobigemma.de/2017/07/27/living-the-dream-is-doing-the-impossible/) is [the simplicity it (seems) to bring to life](http://gobigemma.de/2017/02/09/vanlife-is-not-a-vacation/). The number of tasks in the day becomes easy to count on one hand, and often involves [working in tandem](http://gobigemma.de/2017/08/17/not-kill-travel-buddy/). Maybe these patterns represent the typical gender roles because it makes a lot of sense for many couples to divide their attention like this; maybe vanlife offers a prime setting for this type of role-playing. But still, we can’t help but notice the fact that we haven’t met a single couple where the woman was solely responsible for mechanics.
+On the other hand, maybe there is a different reason. One of [the things people find so attractive about vanlife](/gobigemma/2017/07/27/living-the-dream-is-doing-the-impossible) is [the simplicity it (seems) to bring to life](/gobigemma/2017/02/09/vanlife-is-not-a-vacation). The number of tasks in the day becomes easy to count on one hand, and often involves [working in tandem](/gobigemma/2017/08/17/not-kill-travel-buddy). Maybe these patterns represent the typical gender roles because it makes a lot of sense for many couples to divide their attention like this; maybe vanlife offers a prime setting for this type of role-playing. But still, we can’t help but notice the fact that we haven’t met a single couple where the woman was solely responsible for mechanics.
 
 As a woman in the vanlife community, what does this mean for me? Does it mean I should suck it up, get behind the wheel, and memorize our wrench kit? Should I feel bad that I am not a stunning example of non-typical gender roles in vanlife?
 

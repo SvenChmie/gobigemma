@@ -13,9 +13,9 @@ coverImage: "Dancers_cut.jpg"
 
 ### If I asked you, could you tell me the official language of Belize? Did you know over half the population of Belize is bilingual? How many languages are spoken there? What's one of the most fascinating parts of this tiny country? It's language diversity.
 
-We [crossed the border](http://gobigemma.de/2016/12/08/crossing-the-line-entering-usa-via-land-border/) to our first Central American country. After completing the border paperwork, we headed down a dirt road to the tiny fishing village of Sarteneja.
+We [crossed the border](/gobigemma/2016/12/08/crossing-the-line-entering-usa-via-land-border) to our first Central American country. After completing the border paperwork, we headed down a dirt road to the tiny fishing village of Sarteneja.
 
-As soon as we crossed the border, we were faced with a problem that we hadn’t encountered yet: which language should we use to greet people? Should I use a hearty _¡Hola!_, practiced many times with my hard-won [Spanish skills](http://gobigemma.de/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire/)? Or was my classic English _Hello!_ more appropriate? What did people expect of me here?
+As soon as we crossed the border, we were faced with a problem that we hadn’t encountered yet: which language should we use to greet people? Should I use a hearty _¡Hola!_, practiced many times with my hard-won [Spanish skills](/gobigemma/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire)? Or was my classic English _Hello!_ more appropriate? What did people expect of me here?
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Sarteneja-Karibik-1-1024x683.jpg" alt="">
@@ -81,7 +81,7 @@ In addition to all of this, Belize has many smaller distinct ethnic groups, incl
   <figcaption>Flag bearer at the Independence Day parade (Orange Walk).</figcaption>
 </figure>
 
-A few days into our stay, we met a girl from Singapore with a British passport. She had been living in Belize for six years, and was about to have a child there. I asked her if all these different groups meant that there were a lot of problems in Belize, if discrimination was a big issue with so much diversity in such a tiny space (for that, too, we knew about Belize: it is a [tiny country](http://gobigemma.de/2017/12/04/146-youre-small-belize/), especially when you come from the context of the US, Canada, and Mexico on your travels).
+A few days into our stay, we met a girl from Singapore with a British passport. She had been living in Belize for six years, and was about to have a child there. I asked her if all these different groups meant that there were a lot of problems in Belize, if discrimination was a big issue with so much diversity in such a tiny space (for that, too, we knew about Belize: it is a [tiny country](/gobigemma/2017/12/04/146-youre-small-belize), especially when you come from the context of the US, Canada, and Mexico on your travels).
 
 “No,” she told us. “Not socially at least, people tend to be pretty respectful to each other on the street. Not everybody, of course, but that’s the same in every country.” We had noticed a certain friendliness in the air since we had arrived. More than ever, people would simply say "hi" when we drove or walked down the street. The atmosphere that Belize gave off was welcoming, friendly; different than in Mexico (not because we felt that people were at all unfriendly in Mexico; rather, because people seemed to be even more welcoming in Belize). “But institutionally,” she continued, “there is a lot of racism. Especially towards Mayan groups. With laws or distribution of national funds, to education and things like that.” I don’t know enough about Belize and their legal policies to give you an example, but I’ll take her word for it for now.
 

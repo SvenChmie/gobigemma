@@ -9,7 +9,7 @@ coverImage: "Tractor-Help.jpg"
 
 Sven and Emma came back to get me and they brought Caro and Konsti with them and a lot of other people. 
 
-I didn’t know what to say to them when they got back, so I just told them _[The river](http://gobigemma.de/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/) pushed me on my side and I’m really happy to see you again_. 
+I didn’t know what to say to them when they got back, so I just told them _[The river](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided) pushed me on my side and I’m really happy to see you again_. 
 
 _We are too, Big Emma_, said Sven, _but we need to figure out how to move you. Just wait here a bit._
 

@@ -14,7 +14,7 @@ coverImage: "Spanish-Books.jpg"
 
 ### Do we speak Spanish? As we get closer and closer to Central America, this question becomes ever more important. How do we plan on learning, and why is it so important to us in the first place?
 
-_Hablamos Español?_ _Do either of you guys speak Spanish?_ We have been asked this question a lot. And an important question it is, as our departure towards Central and South America looms closer and closer. Come March, we will finally [cross the border to Latin America](http://www.gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), and [leave behind a cultural and lingual sphere](http://www.gobigemma.com/2017/03/09/goodbye-usa-a-look-in-the-rear-view-mirror/) that we are familiar with. Then, most of our interactions with other people will be in a different language: Spanish. A language shared by most of the Latino world, all the way down to Argentina.
+_Hablamos Español?_ _Do either of you guys speak Spanish?_ We have been asked this question a lot. And an important question it is, as our departure towards Central and South America looms closer and closer. Come March, we will finally [cross the border to Latin America](/gobigemma/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico), and [leave behind a cultural and lingual sphere](/gobigemma/2017/03/09/goodbye-usa-a-look-in-the-rear-view-mirror) that we are familiar with. Then, most of our interactions with other people will be in a different language: Spanish. A language shared by most of the Latino world, all the way down to Argentina.
 
 The short answer is simply: yes, Sven speaks Spanish. In 2010, he spent a semester at the University of Temuco in Chile, where he learned to speak Chilean Spanish. We are also fortunate enough that Sven speaks Brazilian Portuguese; he spent another semester during college in Natal, Brazil. This will come in very handy when we visit Brazil, the only country on our itinerary where Portuguese will be on the menu instead of Spanish.
 
@@ -37,7 +37,7 @@ Of course, this is easier said than done. Despite everything we may think now, i
 
 ### Why was learning Spanish so important, anyway?
 
-So why is learning this language worth so much frustration? What makes me so determined to learn Spanish? Many people travel the [Panamericana](http://www.gobigemma.com/2016/10/13/752/) without knowing more than a few words of Spanish. In fact, people travel all around the world, all the time, and feel that they need only rely on English as the common _lingua franca_.
+So why is learning this language worth so much frustration? What makes me so determined to learn Spanish? Many people travel the [Panamericana](/gobigemma/2016/10/13/752) without knowing more than a few words of Spanish. In fact, people travel all around the world, all the time, and feel that they need only rely on English as the common _lingua franca_.
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Esta-en-la-Kombi.jpg" alt="">
@@ -76,6 +76,6 @@ To broaden this example: I believe the only way to truly understand a person is 
 
 So I will do the best I can to learn Spanish. I may not become a brilliant writer or a poet, but I want to be able to communicate to the best of my ability with everyone we meet down the line. Of course, there are also countries we intend to visit in Latin America that do not speak Spanish besides the aforementioned Brazil. The people of French Guyana speak French, Dutch is the main language spoken in Suriname, and there are all kinds of native languages in almost any country, not to mention very high rates of multilingualism. But Spanish is by far the most widespread, and a realistic goal to set for myself by the time we get to Argentina.
 
-[_Vamos a hablar Español? Sí, por favor!_](http://www.gobigemma.com/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire/)
+[_Vamos a hablar Español? Sí, por favor!_](/gobigemma/2017/04/06/language-learning-is-awesome-or-the-importance-of-a-good-spare-tire)
 
 ![]({{ site.baseurl }}/assets/images/Spanish-Step-by-Step.jpg)

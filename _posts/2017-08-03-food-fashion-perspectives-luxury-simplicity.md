@@ -15,7 +15,7 @@ coverImage: "Mirror.jpg"
 
 I look into the mirror. I am wearing a beautiful dress and I’ve done up my hair. It has ribbons in it, colorful ones, and pins to hold it all in place. It isn’t fancy - it took me all of 10 minutes to get ready. But it is beautiful. I turn back and forth in front of the mirror, make sure everything is in place. Do my earrings match? Or should I trade them out for red ones? Oh, and that strand of escaping hair should definitely go back where it belongs. Everything is perfect, all the pieces fit together in a graceful kind of symmetry.
 
-I stop and catch my eyes in the reflection of the mirror and realize: I haven’t done this for a [year](http://gobigemma.de/2017/06/22/like-a-timelapse-picture-the-twists-and-turns-of-our-first-year-on-the-road/). Vans don’t usually come with large mirrors, or a lot of space to enjoy getting ready in, or much motivation to care what my hair looks like. Where did this feeling go? Has [vanlife](http://gobigemma.de/2016/09/22/vanlife-a-mode-of-travel-a-subculture-a-lifestyle/) changed me that much?
+I stop and catch my eyes in the reflection of the mirror and realize: I haven’t done this for a [year](/gobigemma/2017/06/22/like-a-timelapse-picture-the-twists-and-turns-of-our-first-year-on-the-road). Vans don’t usually come with large mirrors, or a lot of space to enjoy getting ready in, or much motivation to care what my hair looks like. Where did this feeling go? Has [vanlife](/gobigemma/2016/09/22/vanlife-a-mode-of-travel-a-subculture-a-lifestyle) changed me that much?
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Reflection-1024x683.jpg" alt="">

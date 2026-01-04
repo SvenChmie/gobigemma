@@ -7,7 +7,7 @@ categories:
 coverImage: "Minion-Balloons.jpg"
 ---
 
-See Sven, I didn’t get eaten by a crocodile! Or a [dinosaur](http://gobigemma.de/2017/10/11/139-oh-no-dinosaurs-dead/)! But it was a nice place to stay, I got to watch the river flow by all day!
+See Sven, I didn’t get eaten by a crocodile! Or a [dinosaur](/gobigemma/2017/10/11/139-oh-no-dinosaurs-dead)! But it was a nice place to stay, I got to watch the river flow by all day!
 
 While I was parking Sven and Emma went into town to see a lot of people walking in a really long line called a _parade_. I asked them why so many people wanted to walk in a big line and why they wanted to watch people walking in a line. _Imagine if it was a line of Buses, Big Emma_ said Sven, _Then you would totally want to go watch them drive in a line_. And he’s right, I _would_ like to see Buses walk in a line so now I kind of understand.
 

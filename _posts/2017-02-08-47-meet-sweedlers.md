@@ -7,7 +7,7 @@ categories:
 coverImage: "Sweedlers.jpg"
 ---
 
-We left the desert and took my new human [Phil](http://www.gobigemma.com/2017/01/23/40-went-new-human-phil-desert/) to the airport. But we are always meeting other new humans, so maybe another one will come along to live with us for a while sometime.
+We left the desert and took my new human [Phil](/gobigemma/2017/01/23/40-went-new-human-phil-desert) to the airport. But we are always meeting other new humans, so maybe another one will come along to live with us for a while sometime.
 
 But speaking of meeting new humans - we met some! These are our friends the Sweedlers (that's at least what Emma and Sven call them sometimes, sometimes they also call them Rob, Ben, and Jeff). Okay, so they are not actually _new_ humans, because I've met them before. They live back in Illinois where Emma is from, and they used to come get rides in me around town there! It is so nice to see some familiar faces! They aren't living in me like Phil was, they just come in to get out of the rain and visit and ride around.
 

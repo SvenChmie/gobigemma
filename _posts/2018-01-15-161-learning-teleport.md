@@ -7,9 +7,9 @@ categories:
 coverImage: "Teleporting.jpg"
 ---
 
-Look, now I’m teleporting! This is me getting [into the container before I started teleporting](http://gobigemma.de/2018/01/12/160-going-teleport-back-illinois/). 
+Look, now I’m teleporting! This is me getting [into the container before I started teleporting](/gobigemma/2018/01/12/160-going-teleport-back-illinois). 
 
-But now I’m all alone except with [Eduardo](http://gobigemma.de/2017/09/07/snapshots-it-sounds-like-an-adventure/), and it’s very dark here in the teleporter. It reminds me of being [in the river](http://gobigemma.de/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/). I don’t think I like teleporting that much.
+But now I’m all alone except with [Eduardo](/gobigemma/2017/09/07/snapshots-it-sounds-like-an-adventure), and it’s very dark here in the teleporter. It reminds me of being [in the river](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided). I don’t think I like teleporting that much.
 
 And it feels like being on a boat, and I don’t like being on boats because they go over the ocean and then I could fall off and rust or it could get angry like the river and then I would rust too. I’m glad I’m just in the teleporter and not on a boat. 
 

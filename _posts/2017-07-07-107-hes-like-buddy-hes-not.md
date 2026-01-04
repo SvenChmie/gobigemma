@@ -7,7 +7,7 @@ categories:
 coverImage: "Buddy-Lookalike.jpg"
 ---
 
-I got really excited the other day when we pulled into a parking lot and I thought _Oh my look [Buddy](http://gobigemma.de/2017/03/27/63-didnt-say-goodbye/) came to Mexico!_ But then we pulled up next to him and I realized he wasn’t Buddy at all.
+I got really excited the other day when we pulled into a parking lot and I thought _Oh my look [Buddy](/gobigemma/2017/03/27/63-didnt-say-goodbye) came to Mexico!_ But then we pulled up next to him and I realized he wasn’t Buddy at all.
 
 I mean, he was nice and everything. But a lot less shiny and nice and from Mexico instead of California. Like, he seemed nice but he just wasn’t Buddy. He just looked like him.
 

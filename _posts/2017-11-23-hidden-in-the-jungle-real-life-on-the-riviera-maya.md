@@ -19,7 +19,7 @@ _Gringolándia_ is a word in Mexican Spanish that describes a place dominated b
 
 ### This is resortland
 
-Driving the coastal highway north towards Cancún, the area lives up to this promise. Starting just south of Tulúm, the _carretera_ is lined with vacation resorts and golf residences (gated communities, where you live on a golf course) - or what is visible of them. A tall concrete wall or a thick layer of vegetation hides the hotels and villas from our eyes. From the road, we only see the gated entrances, arcs so enormous they would be fit for a medieval king's palace, armed security personnel, and gates with their barriers down as if it was a [border crossing](http://gobigemma.de/2016/12/08/crossing-the-line-entering-usa-via-land-border/).
+Driving the coastal highway north towards Cancún, the area lives up to this promise. Starting just south of Tulúm, the _carretera_ is lined with vacation resorts and golf residences (gated communities, where you live on a golf course) - or what is visible of them. A tall concrete wall or a thick layer of vegetation hides the hotels and villas from our eyes. From the road, we only see the gated entrances, arcs so enormous they would be fit for a medieval king's palace, armed security personnel, and gates with their barriers down as if it was a [border crossing](/gobigemma/2016/12/08/crossing-the-line-entering-usa-via-land-border).
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Underwater_Cenote-1024x512.jpg" alt="cenote-waterline">
@@ -53,7 +53,7 @@ Every day, Jorge, Thomás, and Gonzalo hitch a ride into town, some going to wor
 
 At night, we sit around the kitchen table and trade stories. The residents of Selva El Jabali all come from different corners of the country, they all have their own local traditions, their favorite places and local dishes, and Thomás knows the recipe for a vegan version of all of them. Everything he cooks and puts in front of us is pure delight. One night he makes us coconut ceviche, another time we try his vegan hamburgers made of cooked grains.
 
-One day we go fishing with Jorge and Alejandra. We meet Gonzalo on the beach and he joins us. Despite our combined efforts, we don't catch anything. Next to us, an older gentleman, a passionate fisherman whose eyes get wide with delight every time the line tightens, pulls out one foot-long fish after the other. But it's fun. We fish, we drink beer, we talk, we all huddle up together in the Bus when it suddenly starts pouring. For maybe the second time, after our [month-long stint as employees of a guesthouse in Guadalajara](http://gobigemma.de/2017/06/08/in-order-to-move-forward-we-sometimes-need-to-stop/), it feels like we have made Mexican friends in Mexico.
+One day we go fishing with Jorge and Alejandra. We meet Gonzalo on the beach and he joins us. Despite our combined efforts, we don't catch anything. Next to us, an older gentleman, a passionate fisherman whose eyes get wide with delight every time the line tightens, pulls out one foot-long fish after the other. But it's fun. We fish, we drink beer, we talk, we all huddle up together in the Bus when it suddenly starts pouring. For maybe the second time, after our [month-long stint as employees of a guesthouse in Guadalajara](/gobigemma/2017/06/08/in-order-to-move-forward-we-sometimes-need-to-stop), it feels like we have made Mexican friends in Mexico.
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Gone_Fishing-1024x512.jpg" alt="tulum-fishing">

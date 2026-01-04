@@ -46,7 +46,7 @@ For travelers across the globe, however, McCandless is a hero, a role model for 
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Sign-1.jpg" alt="sign">
-  <figcaption>A sign at the [sign forest in Watson Lake,](http://www.gobigemma.com/2016/07/16/sign-forest/) showing how Chris McCandless , who nicknamed himself "Alex Supertramp", continues to be a role model for travelers today.</figcaption>
+  <figcaption>A sign at the [sign forest in Watson Lake,](/gobigemma/2016/07/16/sign-forest) showing how Chris McCandless , who nicknamed himself "Alex Supertramp", continues to be a role model for travelers today.</figcaption>
 </figure>
 
 In reality, it's likely McCandless was none of the above. Yes, he made mistakes in the wilderness that eventually killed him. But he also managed to spend several months before that entirely on his own, staying alive and even healthy without the help of a single other person. Yes, he believed in a different life where our capitalistic society doesn't have as strong a grip on our fate, and yes he tried to make the people around him see and understand his view of the world. But he was not a preacher, he did not try to change the world, rather realize this dream for himself. And most of all: Most of the tourists coming through Healy today, who take pictures with the bus and post them on social media, they share few of the values McCandless lived by.

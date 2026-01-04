@@ -7,7 +7,7 @@ categories:
 coverImage: "Belize-Insurance.jpg"
 ---
 
-So I am finally done telling you all about my adventures in Mexico! I said goodbye to [Sven’s family](http://gobigemma.de/2017/10/09/138-hello-svens-family-thank-breakfast/) and then we went to a new country called Belize.
+So I am finally done telling you all about my adventures in Mexico! I said goodbye to [Sven’s family](/gobigemma/2017/10/09/138-hello-svens-family-thank-breakfast) and then we went to a new country called Belize.
 
 I was excited because we haven’t been to a new country in a long time! Emma said we would be going to new countries a lot more often now because they are smaller and it won’t take me as long to drive through them so we can get to Argentina.
 

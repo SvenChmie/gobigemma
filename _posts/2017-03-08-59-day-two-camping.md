@@ -11,4 +11,4 @@ We got to go camping, just like I wanted! Emma said it was only for a few days, 
 
 But at least for now we can be out in the mountains! That is so much more beautiful than the city. There are so many cars down there, and they are always going so fast and don't care at all about how pretty I am. But up here, it's just us hanging out, and there are almost no noisy cars and I can see the stars at night.
 
-My [wheels are still itchy](http://www.gobigemma.com/2017/03/06/58-itchy-wheels/), though. Whenever Sven steps on the brake, I always need to go to the right. Guys, you need to take a look at that, something just doesn't feel right.
+My [wheels are still itchy](/gobigemma/2017/03/06/58-itchy-wheels), though. Whenever Sven steps on the brake, I always need to go to the right. Guys, you need to take a look at that, something just doesn't feel right.

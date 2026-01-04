@@ -7,7 +7,7 @@ categories:
 coverImage: "Meet-Mellow.jpg"
 ---
 
-Look! We finally found another bus! There are other buses in Mexico, not just [bugs like I was afraid of](http://www.gobigemma.com/2017/01/18/38-baja-bug/).
+Look! We finally found another bus! There are other buses in Mexico, not just [bugs like I was afraid of](/gobigemma/2017/01/18/38-baja-bug).
 
 We've been driving through the dusty desert and it was really really dusty, with a lot of cactuses everywhere. And after a really long time with no gas (I was like _What?! There's no gas!? Stupid humans, build a gas station. Cars need gas!_) we got to this dusty town and Emma wanted a taco and saw our first bus in Mexico (besides me, duh)!
 

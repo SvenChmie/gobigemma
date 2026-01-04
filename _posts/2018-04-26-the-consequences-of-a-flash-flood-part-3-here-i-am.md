@@ -13,11 +13,11 @@ coverImage: "Resurrection_day.jpg"
 
 ### We had rescued Big Emma from her watery grave in the Sibun River, but now the real work began. Could we save our possessions and our beloved Bus, or had we merely recovered a corpse?
 
-_This post is part three of a four-piece series. Check out the other parts here: [Part 1: Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), [Part 2: Recovery](http://gobigemma.com/2018/04/01/the-consequences…-part-2-recovery/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part three of a four-piece series. Check out the other parts here: [Part 1: Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), [Part 2: Recovery](/gobigemma/2018/04/01/the-consequences…-part-2-recovery), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._
 
 _Sploosh!_ A fountain of dirty river water came splashing out of the spark plug hole as I turned the engine with a heavy steel wrench. With the help of the lever, the motor moved easily enough, but it stuck every time a piston had to push up gunky water inside a cylinder tube, bare metal against metal, with no oil to smooth its motion.
 
-I cranked the engine backwards until it got stuck again. Then forwards again with full force, pulling on the lever as hard as I could to gain momentum. _Sploosh_, the piston moved and pushed more water out of the hole. For at least half an hour I had been doing this, kneeling in the mud behind the engine hatch, pulling and pushing on the wrench to squeeze the water out of Big Emma's iron heart. Every few turns, the wrench slipped off the [alternator](http://gobigemma.com/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico/) nut and my hand slammed into the engine case, leaving bruises on my knuckles.
+I cranked the engine backwards until it got stuck again. Then forwards again with full force, pulling on the lever as hard as I could to gain momentum. _Sploosh_, the piston moved and pushed more water out of the hole. For at least half an hour I had been doing this, kneeling in the mud behind the engine hatch, pulling and pushing on the wrench to squeeze the water out of Big Emma's iron heart. Every few turns, the wrench slipped off the [alternator](/gobigemma/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico) nut and my hand slammed into the engine case, leaving bruises on my knuckles.
 
 Big Emma was sitting in a muddy mechanic's yard. The tropical rain was falling hard, drumming on her fiberglass roof and growing the puddles in the yard into a system of miniature lakes and rivers. Car wrecks in varying states of decay lined the concrete wall to the left. On the right, the large mechanic shop was housed under a metal roof, towering at least seven meters high on massive steel beams. Under it, more vehicles were propped up on stands. An engine was missing here, a wheel had been removed there. Men were working on the cars, a few others were sitting around a table in the center of the shop, drinking coffee.
 
@@ -34,7 +34,7 @@ One day turned into the next, and then another and another still. Nightly sleep 
 
 The walk to Carlos’ shop: down the bike path, past the roundabout and the Asian supermarket, and into the yard. In the evening, we would come back to the hotel, wash the dirt off our skin, eat fried chicken from a nearby restaurant, and fall into bed exhausted. The next morning, the same routine would start over.
 
-[Caro and Konsti](http://gobigemma.com/2017/12/15/151-caro-konsti-coming-visit/) were still with us, sharing our misfortune and our hotel room. I am sure they had imagined their vacation differently. Adventurous maybe, but in a less literal way. More tropical paradise instead of the stinking mud they got. Instead of diving the second-largest coral reef in the world, Caro would spend hours bent over the washtub, scrubbing stains out of our shirts and bedsheets.
+[Caro and Konsti](/gobigemma/2017/12/15/151-caro-konsti-coming-visit) were still with us, sharing our misfortune and our hotel room. I am sure they had imagined their vacation differently. Adventurous maybe, but in a less literal way. More tropical paradise instead of the stinking mud they got. Instead of diving the second-largest coral reef in the world, Caro would spend hours bent over the washtub, scrubbing stains out of our shirts and bedsheets.
 
 Konsti would lay in the dirt under the car with me, getting sprayed with gasoline while I disconnected a fuel line. Friendship doesn't show itself in good times and laughter. True friendship has the stench of gasoline and rain soaking you to the bone. It's choosing hardship over holidays, hard labor over sunbathing on the beach.
 
@@ -42,7 +42,7 @@ Konsti would lay in the dirt under the car with me, getting sprayed with gasolin
 
 ### Into the wheelbarrow
 
-Every day from morning to nightfall we worked to revive Big Emma. We scraped layer after layer of brown mud from her. The doors, her walls, the dashboard. We cupped handfuls of stinking dirt out of the engine compartment. We threw belonging after belonging out the sliding door. Clothes and bedsheets were tossed into a giant pile headed for the wash barrel. Things we thought worth keeping flew into another heap, [stuff beyond saving was pitched into a wheelbarrow](http://gobigemma.com/2017/12/14/snapshots-lessons-on-minimalism/), ready to be carried off to the garbage pit behind the shop.
+Every day from morning to nightfall we worked to revive Big Emma. We scraped layer after layer of brown mud from her. The doors, her walls, the dashboard. We cupped handfuls of stinking dirt out of the engine compartment. We threw belonging after belonging out the sliding door. Clothes and bedsheets were tossed into a giant pile headed for the wash barrel. Things we thought worth keeping flew into another heap, [stuff beyond saving was pitched into a wheelbarrow](/gobigemma/2017/12/14/snapshots-lessons-on-minimalism), ready to be carried off to the garbage pit behind the shop.
 
 Every once a while, one of the mechanics would go through our designated garbage and would say _Don't throw this away, we can fix that!_
 
@@ -59,13 +59,13 @@ Our books were garbage, too. The water had swollen them up and the pages had tur
 
 ### Open heart surgery
 
-And then there was the engine. Big Emma's metal innards had taken a hard beating. [Water had filled up the engine itself](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), as well as the fuel tank and lines. Draining the oil had gotten the better part of the water out, but there was still much to be done. We needed to turn the engine over, so the valves would open and allow the water in the cylinders to flow out. All fuel lines needed to be flushed out and cleaned of mud. The battery had been connected while the water rose, so we feared for all of the electrical components: starter, fuel pump, the computer box, our newly rebuilt alternator.
+And then there was the engine. Big Emma's metal innards had taken a hard beating. [Water had filled up the engine itself](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), as well as the fuel tank and lines. Draining the oil had gotten the better part of the water out, but there was still much to be done. We needed to turn the engine over, so the valves would open and allow the water in the cylinders to flow out. All fuel lines needed to be flushed out and cleaned of mud. The battery had been connected while the water rose, so we feared for all of the electrical components: starter, fuel pump, the computer box, our newly rebuilt alternator.
 
 We took everything out we could, piece by piece. Carlos disassembled the starter on his workbench and blew compressed air over it. Drops of water and pieces of dirt came flying out of the copper windings. A few more days, and it would have started rusting. After every piece was clean, he reassembled the starter. _Now, let's see if it works_, he said, lumping an auto battery onto the workbench. A starter cable to the negative pole of starter and battery, the other to the positive one.
 
 Upon touching the cable to the starter, sparks came flying. And with it, a whizzing sound. It worked! The electric motor in the starter was spinning like nothing ever happened. We threw our hands in the air, yelling, Carlos smiled and hooted like a little kid who just put the last brick onto his Lego spaceship. On to the fuel pump. The same procedure, and the same result. Success! Alternator - the same thing!
 
-_Wow_, I thought. Back in the day, Bosch and Volkswagen built some sturdy car parts. If 40 years of use and a river couldn't drain the life out of them, what could? Even the battery, which I had thought was undoubtedly beyond saving, still held a charge. We had always described Big Emma as strong and stubborn in the [Big Emma Diaries](https://gobigemma.com/category/big-emma-diaries/), but in the end those had been merely stories. [An imaginary character we projected onto an object](http://gobigemma.com/2016/10/20/let-me-tell-you-about-this-girl-i-know/).
+_Wow_, I thought. Back in the day, Bosch and Volkswagen built some sturdy car parts. If 40 years of use and a river couldn't drain the life out of them, what could? Even the battery, which I had thought was undoubtedly beyond saving, still held a charge. We had always described Big Emma as strong and stubborn in the [Big Emma Diaries](/category/big-emma-diaries), but in the end those had been merely stories. [An imaginary character we projected onto an object](/gobigemma/2016/10/20/let-me-tell-you-about-this-girl-i-know).
 
 Or was it? She might not have a personality, but fierceness was nonetheless one of her signature traits. That was clearer to me than ever.
 
@@ -90,9 +90,9 @@ _No_, I answered.
 
 _Because there's no gas!_ he said. _No fucking gas!_
 
-Carlos swore a lot, no matter if he was [speaking English or Spanish](http://gobigemma.com/2017/12/07/welcome-colorful-belize-caribbean-melting-pot-central-america/). No matter if he was happy or upset, swearwords were an integral part of his vocabulary. He was a slender man in his 50s, with a thin, bony face and a scruffy mustache. A cigarette was constantly dangling from the corner of his mouth. _My uncle is a strange man_, his nephew Thomas would say. He could be bubbly and excited about something in one second, and grumpy and solemn in the next. One moment he would tell us how much Emma reminded him of his daughter, his eyes shining; a minute later he would run nervously up and down his shop and bark one-word commands at his employees.
+Carlos swore a lot, no matter if he was [speaking English or Spanish](/gobigemma/2017/12/07/welcome-colorful-belize-caribbean-melting-pot-central-america). No matter if he was happy or upset, swearwords were an integral part of his vocabulary. He was a slender man in his 50s, with a thin, bony face and a scruffy mustache. A cigarette was constantly dangling from the corner of his mouth. _My uncle is a strange man_, his nephew Thomas would say. He could be bubbly and excited about something in one second, and grumpy and solemn in the next. One moment he would tell us how much Emma reminded him of his daughter, his eyes shining; a minute later he would run nervously up and down his shop and bark one-word commands at his employees.
 
-His nephew was the opposite. A tall, handsome Mexican, Thomas had a soft voice and strong arms. He was a photographer and only helping out in his uncle's shop whenever he wasn't on assignment somewhere in [Belize](http://gobigemma.com/2017/12/07/welcome-colorful-belize-caribbean-melting-pot-central-america/) or [Mexico](http://gobigemma.com/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico/), shooting everything from weddings to major magazine stories.
+His nephew was the opposite. A tall, handsome Mexican, Thomas had a soft voice and strong arms. He was a photographer and only helping out in his uncle's shop whenever he wasn't on assignment somewhere in [Belize](/gobigemma/2017/12/07/welcome-colorful-belize-caribbean-melting-pot-central-america) or [Mexico](/gobigemma/2017/03/30/through-the-rabbit-hole-our-first-impressions-of-mexico), shooting everything from weddings to major magazine stories.
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Tomas-1024x512.jpg" alt="">
@@ -131,7 +131,7 @@ After escaping the flood, out on the highway in the rain at night, I had been ha
   <figcaption>Elbow-deep in Big Emma's engine</figcaption>
 </figure>
 
-We hadn't even realized it, but we had been desperate in these past days. Our [dream](http://gobigemma.com/2017/07/27/living-the-dream-is-doing-the-impossible/) had taken a serious hit and it had come tumbling down, shattered into what we feared were irreparable pieces. But now, thanks to the amazing help from Carlos, his nephew Thomas, Caro, Konsti, Mike and Geneva, Emma’s dad, and Carlos' employees, we had ignited hope.
+We hadn't even realized it, but we had been desperate in these past days. Our [dream](/gobigemma/2017/07/27/living-the-dream-is-doing-the-impossible) had taken a serious hit and it had come tumbling down, shattered into what we feared were irreparable pieces. But now, thanks to the amazing help from Carlos, his nephew Thomas, Caro, Konsti, Mike and Geneva, Emma’s dad, and Carlos' employees, we had ignited hope.
 
 We had cleaned and sweated and scrubbed and cried out in anger. We had cursed the river and the universe and ourselves, but now the roar of Big Emma's engine made all this tension fall away. While before all our work had felt like licking our wounds in defeat, now it felt purposeful. We're not just cleaning up the garbage after the party, we're setting the stage for something new.
 
@@ -139,4 +139,4 @@ But we were still in Central America with a Bus we couldn't live in. Our Belizea
 
 * * *
 
-_This post is part three of a four-piece series. Check out the other parts here: [Part 1: Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), [Part 2: Recovery](http://gobigemma.com/2018/04/01/the-consequences…-part-2-recovery/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part three of a four-piece series. Check out the other parts here: [Part 1: Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), [Part 2: Recovery](/gobigemma/2018/04/01/the-consequences…-part-2-recovery), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._

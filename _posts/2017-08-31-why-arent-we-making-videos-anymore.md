@@ -13,7 +13,7 @@ coverImage: "Sven-with-Gopro-cut.jpg"
 
 ### You might have noticed that we don’t make videos anymore. Why is that? What was our motivation to make videos in the first place, and what has changed since we’ve been on the road?
 
-Many of you might be curious: have we stopped making videos? The [last self-made vid](http://gobigemma.de/2016/09/25/adventure-2-day-life-alaska-highway/) on our website was published on September 25th, 2016, over 11 months ago. Yep, that sure does look like we’ve stopped making videos.
+Many of you might be curious: have we stopped making videos? The [last self-made vid](/gobigemma/2016/09/25/adventure-2-day-life-alaska-highway) on our website was published on September 25th, 2016, over 11 months ago. Yep, that sure does look like we’ve stopped making videos.
 
 Despite positive feedback from many different directions, we decided to stop actively making videos sometime at the beginning of this year. This came from a long trend of simple video-making-procrastination. Working on the next vid would always be on my to-do list, but there was always something more urgent. Editing a video was always such a huge task, one that I would not be able to finish in the hour or so I had to get stuff done.
 
@@ -25,11 +25,11 @@ Working on videos became a time when I was not working on writing (blogging or f
 
 ![]({{ site.baseurl }}/assets/images/Mirror-Chiapas-1024x683.jpg)
 
-I began this journey with the intention of [writing a blog](http://gobigemma.de/2016/11/17/popular-questions-blog/) - this blog. Videos came around as a way to balance that, to give our audience something they could passively consume rather than the activeness required to read an article such as this one. But why invest my time in something that was both expensive (regarding time) and not my strong suit? No, I realized that I was much more comfortable with the written word instead.
+I began this journey with the intention of [writing a blog](/gobigemma/2016/11/17/popular-questions-blog) - this blog. Videos came around as a way to balance that, to give our audience something they could passively consume rather than the activeness required to read an article such as this one. But why invest my time in something that was both expensive (regarding time) and not my strong suit? No, I realized that I was much more comfortable with the written word instead.
 
 ### Road lessons: “Don’t make videos"
 
-We are not the only people who have come to this conclusion. Many, many travelers make media. Blogs, podcasts, videos, vlogs, social media posts. Almost all travelers and vanlifers we have met so far are producing some sort of media on at least a semi-regular basis, based on [both authentic and staged scenarios](http://gobigemma.de/2017/05/04/ads-versus-authenticity-social-media-marketing-in-the-vanlife-world/).
+We are not the only people who have come to this conclusion. Many, many travelers make media. Blogs, podcasts, videos, vlogs, social media posts. Almost all travelers and vanlifers we have met so far are producing some sort of media on at least a semi-regular basis, based on [both authentic and staged scenarios](/gobigemma/2017/05/04/ads-versus-authenticity-social-media-marketing-in-the-vanlife-world).
 
 Perhaps the most famous vanlifer for making videos is Ben from [Hasta Alaska](http://kombilife.com), who has turned his video series into a regular source of income. One of the most prominent pieces of advice he gave us? _Don’t make videos._
 

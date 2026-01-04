@@ -13,7 +13,7 @@ coverImage: "On-the-side.jpg"
 
 ### We had deserted Big Emma in the Sibun River in the middle of the night. Come daylight, it was time to face our situation and do everything we could to rescue our travel companion. But what state would she be in when we found her?
 
-_This post is part two of a four-piece series. Check out the other parts here: [Part 1: Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), [Part 3: Here I Am](http://gobigemma.com/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part two of a four-piece series. Check out the other parts here: [Part 1: Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), [Part 3: Here I Am](/gobigemma/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._
 
 We were trudging through mud. Again. Every time I put weight on a foot, it went _thluuump_ as my shoes vanished in brown gunk. Now we were in a huge mechanic's yard in Belmopan, Belize’s tiny capital. Big Emma was sitting in the center of it. To her left, car wrecks in varying states of decay lined a concrete wall. To the right, the large mechanic shop was housed under a metal roof, towering at least seven meters high on massive steel beams. Under it, more vehicles were propped up on stands, an engine missing here, a wheel removed there.
 
@@ -21,7 +21,7 @@ This mechanic shop was Big Emma's home for now. The shop's owner, Carlos, was ou
 
 ### Dirty, but safe
 
-The Bus was in a terrible state. A few scratches of on the outside, water and smelly mud everywhere on the inside, and a broken window. But at least she was here, safe with us. [When we had to leave Big Emma behind in the rapids of that dreaded river](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), we had feared it might be the last time we would see her. What if the pull of the water was too strong and pulled her away, what if she got dragged downstream? How would we ever even find her, let alone save her?
+The Bus was in a terrible state. A few scratches of on the outside, water and smelly mud everywhere on the inside, and a broken window. But at least she was here, safe with us. [When we had to leave Big Emma behind in the rapids of that dreaded river](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), we had feared it might be the last time we would see her. What if the pull of the water was too strong and pulled her away, what if she got dragged downstream? How would we ever even find her, let alone save her?
 
 But there was nothing we could do for her when it happened, nothing except save ourselves and leave our trusty companion behind to fend for herself. We had hitchhiked to Belmopan. At a closed Taiwanese hotel, we dropped our backpacks on a bench outside the barred lobby and collected our still stunned thoughts.
 
@@ -38,11 +38,11 @@ The water had been slow, almost stagnant where we had walked, but just a tad far
 
 ### Early-morning phonecalls
 
-We had arrived at the hotel at around 4:30 am. How early could we call anybody? _It doesn't matter_, Emma said. _If there's any situation where we can ring people out of bed, now is the time._ She was right. We called Andrew, [her dad](http://gobigemma.com/2017/08/09/121-friend-andrew/), first. Of anybody in the world, he was Big Emma’s third partner-in-crime. It took a while until he picked up.
+We had arrived at the hotel at around 4:30 am. How early could we call anybody? _It doesn't matter_, Emma said. _If there's any situation where we can ring people out of bed, now is the time._ She was right. We called Andrew, [her dad](/gobigemma/2017/08/09/121-friend-andrew), first. Of anybody in the world, he was Big Emma’s third partner-in-crime. It took a while until he picked up.
 
 Emma told him about what had happened, how we had had to abandon Big Emma and left her to drown in the [Sibun](http://ioverlander.com/places/44573-flash-floods). There was a pause when she finished speaking.
 
-Then her dad said: _The most important thing is that you guys are okay. Everything else is expendable. You are not._ How right he was. We have always felt like Big Emma was a part of our team, [like she was a person](http://gobigemma.com/2016/10/20/let-me-tell-you-about-this-girl-i-know/) just as much as we were. But at the end of the day, she was a machine, and a replaceable one. We had taken care of the non-replaceable members of the team. Now - and not earlier - was the time to think about the fate of our beloved Bus.
+Then her dad said: _The most important thing is that you guys are okay. Everything else is expendable. You are not._ How right he was. We have always felt like Big Emma was a part of our team, [like she was a person](/gobigemma/2016/10/20/let-me-tell-you-about-this-girl-i-know) just as much as we were. But at the end of the day, she was a machine, and a replaceable one. We had taken care of the non-replaceable members of the team. Now - and not earlier - was the time to think about the fate of our beloved Bus.
 
 _We'll get Big Emma home and fix her. No matter what it takes, we'll get her out_, Emma's dad continued.
 
@@ -52,7 +52,7 @@ Somehow that was important for us to hear. Of course, we were determined to resc
 
 Next, we called our friends [Mike and Geneva](https://www.instagram.com/itsnotaslowcaritsafasthouse/?hl=en), fellow travelers that we had camped with many times and that happened to be in the area.
 
-With no hesitation, they decided to break camp and come at once. Our friends' determination to help emphasized our new feeling of purposefulness. We made a plan. [Caro and Konsti](http://gobigemma.com/2017/12/15/151-caro-konsti-coming-visit/) agreed to hitchhike back to the river to guard the Bus against early-morning looters - that was, assuming it was still there. We called Geneva back and asked them to follow our friends back to the river, and lend them support while Emma and I figured out what else we had to do.
+With no hesitation, they decided to break camp and come at once. Our friends' determination to help emphasized our new feeling of purposefulness. We made a plan. [Caro and Konsti](/gobigemma/2017/12/15/151-caro-konsti-coming-visit) agreed to hitchhike back to the river to guard the Bus against early-morning looters - that was, assuming it was still there. We called Geneva back and asked them to follow our friends back to the river, and lend them support while Emma and I figured out what else we had to do.
 
 Mike and Geneva had been [camped in a guesthouse that belonged to a woman named Monika](http://ioverlander.com/places/20837-maya-hill-lodge), a German lady in the little town of San Ignacio. Upon hearing about our situation, Monika postponed plans for her birthday party that day and drove into town to pick us up. With her help, we went to acquire a phone card, a rental car, cash, and a bottle of Tequila.
 
@@ -212,4 +212,4 @@ When I lay down to sleep in the hotel bed that night, I was empty. Today’s rec
 
 * * *
 
-_This post is part two of a four-piece series. Check out the other parts here: [Part 1: Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), [Part 3: Here I Am](http://gobigemma.com/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part two of a four-piece series. Check out the other parts here: [Part 1: Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), [Part 3: Here I Am](/gobigemma/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._

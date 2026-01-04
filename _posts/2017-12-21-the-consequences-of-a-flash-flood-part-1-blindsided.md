@@ -13,11 +13,11 @@ coverImage: "Big-Emma-in-the-Sibun.jpg"
 
 ### We were completely unsuspecting when we woke up in the middle of the night in rural Belize, surrounded by water. We spend the next half hour stranded between intense chaos and incredible clarity, in a flash flood brought all our plans to a standstill.
 
-_This post is part one of a four-piece series. Check out the other parts here: [Part 2: Recovery](http://gobigemma.com/2018/04/20/the-consequences-of-a-flash-flood-part-2-recovery/), [Part 3: Here I Am](http://gobigemma.com/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part one of a four-piece series. Check out the other parts here: [Part 2: Recovery](/gobigemma/2018/04/20/the-consequences-of-a-flash-flood-part-2-recovery), [Part 3: Here I Am](/gobigemma/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._
 
 Baz Luhrmann once put someone else’s words into a [song](https://www.youtube.com/watch?v=MQlJ3vOp6nI), a line of which rides around in the back of my brain. _Don’t worry about the future_, it says. _Worrying is as effective as trying to solve an algebra equation by chewing bubblegum. The real troubles in your life are apt to be things that never crossed your worried mind, the kind that blindside you at 4 PM on some idle Tuesday_.
 
-Of all the precautions we had taken, of all the [locks we had added to our Bus](http://gobigemma.de/2017/07/13/the-night-robin-hood-stole-our-tools/), of all the things that left us in a [state of discomfort](http://gobigemma.de/2017/04/13/overcoming-stereotypes/) during our trip, those were not the things that left us feeling defeated. In the daily sphere of international overlanding, you concern yourselves with thieves, with GPS trackers that you hide in your vehicle, with bears and crocodiles, with [repairs](http://gobigemma.de/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico/) that will blow your budget through the roof. Car accidents, carjacking, invalid paperwork, or dirty cops. You pay attention to the weather, avoid hurricane paths, immediately pull out your phone when you feel your Bus shaking in the night and realize it had to have been an earthquake. But you cannot - and should not - think of everything on the long list of things that can go wrong.
+Of all the precautions we had taken, of all the [locks we had added to our Bus](/gobigemma/2017/07/13/the-night-robin-hood-stole-our-tools), of all the things that left us in a [state of discomfort](/gobigemma/2017/04/13/overcoming-stereotypes) during our trip, those were not the things that left us feeling defeated. In the daily sphere of international overlanding, you concern yourselves with thieves, with GPS trackers that you hide in your vehicle, with bears and crocodiles, with [repairs](/gobigemma/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico) that will blow your budget through the roof. Car accidents, carjacking, invalid paperwork, or dirty cops. You pay attention to the weather, avoid hurricane paths, immediately pull out your phone when you feel your Bus shaking in the night and realize it had to have been an earthquake. But you cannot - and should not - think of everything on the long list of things that can go wrong.
 
 Worrying, after all, is as insignificant as bubblegum.
 
@@ -34,7 +34,7 @@ I had been looking forward to this visit for a long time. Not because it was mor
 
 It felt good, picking them up from the airport, making camp that first night. Caro and Konsti, two of our best friends back in Germany, would be here for two full weeks. Our plan was to spend some time in Belize (they wanted to go diving) before heading on into Guatemala together.
 
-Caro and Konsti are maybe our most adventurous friends, well-versed in international travel. They planned on literally driving with us for the two whole weeks - not something we usually do when [people from home visit](http://gobigemma.de/2017/05/18/guest-post-should-i-go-to-mexico-an-outsiders-perspective/). But Caro and Konsti had visited us up in Alaska, and they knew what to expect of two weeks with us in the Bus and the risks (such as not catching your return flight on time) that buslife entails.
+Caro and Konsti are maybe our most adventurous friends, well-versed in international travel. They planned on literally driving with us for the two whole weeks - not something we usually do when [people from home visit](/gobigemma/2017/05/18/guest-post-should-i-go-to-mexico-an-outsiders-perspective). But Caro and Konsti had visited us up in Alaska, and they knew what to expect of two weeks with us in the Bus and the risks (such as not catching your return flight on time) that buslife entails.
 
 ### _Los gringos estupidos_
 
@@ -61,7 +61,7 @@ There were long periods of silence, the kind that good friends like. The night r
 
 * * *
 
-I can't sleep well, it is [raining so hard](http://gobigemma.de/2016/12/15/snapshots-every-day-is-different-when-you-travel/). I don’t usually sleep on our top bunk, but I do when guests are here. I turn over. _I have to pee_, I think. But I didn’t want to disturb everyone else. If someone on the top needs to exit, everyone will wake up. _I’ll wait until the rain stops_, I think, and doze back into a half sleep.
+I can't sleep well, it is [raining so hard](/gobigemma/2016/12/15/snapshots-every-day-is-different-when-you-travel). I don’t usually sleep on our top bunk, but I do when guests are here. I turn over. _I have to pee_, I think. But I didn’t want to disturb everyone else. If someone on the top needs to exit, everyone will wake up. _I’ll wait until the rain stops_, I think, and doze back into a half sleep.
 
 * * *
 
@@ -73,7 +73,7 @@ There is that tone of voice. You know it when you hear it, immediately. Especial
 
 _Es gibt Wasser im Bus!_ He says. _There’s water in the Bus!_
 
-_Water in the Bus?_ I think to myself. _Great, something is leaking again_, is my first thought, but that doesn't explain his tone. Water in the Bus is stupid, of course, but not an emergency. Before someone asks if we have a light I am reaching for our headlamps, which I keep around [Eduardo](http://gobigemma.de/2017/09/07/snapshots-it-sounds-like-an-adventure/)’s neck at night. I hand the other one to Sven and switch mine on and look down.
+_Water in the Bus?_ I think to myself. _Great, something is leaking again_, is my first thought, but that doesn't explain his tone. Water in the Bus is stupid, of course, but not an emergency. Before someone asks if we have a light I am reaching for our headlamps, which I keep around [Eduardo](/gobigemma/2017/09/07/snapshots-it-sounds-like-an-adventure)’s neck at night. I hand the other one to Sven and switch mine on and look down.
 
 There is _definitely_ water in the Bus. And a lot of it. Piece by piece, I register the situation. The floor is covered with water, at least an inch high. _Why is the water so high? How could we be leaking that much?_ The physics didn’t add up. _Was there this much water in the front, too?_ I point my headlamp in that direction and see someone’s shoe swimming between the front seats. _Water everywhere. Okay_. The only explanation was one that didn’t make sense to me yet. I pointed my light out the open sliding door. From my position on the top bunk, I could see our picnic blanket outside, the one we sat on discussing SpaceX a few hours earlier. It was moving eerily, wafting around like it was unsure if it should stick around or not. This whole process takes me only a few seconds and I realize: _the whole river is this high. It must have flooded. Oh no._
 
@@ -100,7 +100,7 @@ No more time for thinking. The consequences of those four simple words are immed
 
 ### Clarity and chaos
 
-We all suddenly spring into action, as Sven, then I, jump down from the top and things begin happening. Konsti hops into the water - up over his knees - outside the Bus, where our picnic blanket used to be. He opens the passenger door and starts [scrambling together belongings](http://gobigemma.de/2017/12/14/snapshots-lessons-on-minimalism/), as Sven exits and heads towards the engine compartment. Caro says, _Who has a bag?_ and I scramble to find an empty one that happens to be within reach.
+We all suddenly spring into action, as Sven, then I, jump down from the top and things begin happening. Konsti hops into the water - up over his knees - outside the Bus, where our picnic blanket used to be. He opens the passenger door and starts [scrambling together belongings](/gobigemma/2017/12/14/snapshots-lessons-on-minimalism), as Sven exits and heads towards the engine compartment. Caro says, _Who has a bag?_ and I scramble to find an empty one that happens to be within reach.
 
 _Was ist der Plan? - What’s the plan?_ someone says.
 
@@ -121,7 +121,7 @@ _Holy crap._
 
 I stop myself from thinking of what that means. Now is not the time. The only item on the agenda is _Get your shit and leave_.
 
-I get to the compartment, retrieve our passports, and remember to grab the envelope full of cash marked _Notfall_ _\- Emergency_ that I had taped to its ceiling. Konsti and Caro are figuring out the whereabouts of their passports and what else they need to bring. _Has anyone seen my phone?_ someone shouts. I open our electronics drawer. Thankfully, I have quite a few Internet Days behind me (days when Sven and I get everything we need to work online and set ourselves up at Starbucks for the day). I know what pieces belong in our computer bag. Laptop chargers. Harddrive. Phones. Caro’s way I send them all. _Think. Think_. I stop for a moment of peace, in water that is halfway up my legs _inside_ our Bus. _Think. What else do we need?_ [Whatever I don’t take now, I might not ever see again](http://gobigemma.de/2017/12/14/snapshots-lessons-on-minimalism/). Sven grabs our Nikon from the front seat.
+I get to the compartment, retrieve our passports, and remember to grab the envelope full of cash marked _Notfall_ _\- Emergency_ that I had taped to its ceiling. Konsti and Caro are figuring out the whereabouts of their passports and what else they need to bring. _Has anyone seen my phone?_ someone shouts. I open our electronics drawer. Thankfully, I have quite a few Internet Days behind me (days when Sven and I get everything we need to work online and set ourselves up at Starbucks for the day). I know what pieces belong in our computer bag. Laptop chargers. Harddrive. Phones. Caro’s way I send them all. _Think. Think_. I stop for a moment of peace, in water that is halfway up my legs _inside_ our Bus. _Think. What else do we need?_ [Whatever I don’t take now, I might not ever see again](/gobigemma/2017/12/14/snapshots-lessons-on-minimalism). Sven grabs our Nikon from the front seat.
 
 _Shoes!_ Konsti says, and I immediately start hunting. I open our shoebox, and ask myself W_hich of these are the most useful?_ and pull out my yellow hiking boots.
 
@@ -179,9 +179,9 @@ No shit, Sherlock. He drops us off in Belmopan.
 
 As we traveled in that car, there were not enough periods of silence for me to think. My words did not match the rubble that was caving in inside me. I wanted to crawl inside and start sorting through it, but there was no time. Keeping control of the conversation kept stealing my attention.
 
-We were safe - my friends were safe - and the inconsistency of that state was a hurdle my mind couldn’t quite understand. But we were not _all_ safe. It was so contrary to our instincts that I just couldn’t believe we were driving _away_ from Big Emma. And yet, that was the only path that logic dictated, the only viable option. Acting had become separate from my feelings. After all, Big Emma _is_ an object, no matter how much [we personify her](http://gobigemma.de/2016/10/20/let-me-tell-you-about-this-girl-i-know/). She is not as important as we think she is. When it came down to it, that had been obvious.
+We were safe - my friends were safe - and the inconsistency of that state was a hurdle my mind couldn’t quite understand. But we were not _all_ safe. It was so contrary to our instincts that I just couldn’t believe we were driving _away_ from Big Emma. And yet, that was the only path that logic dictated, the only viable option. Acting had become separate from my feelings. After all, Big Emma _is_ an object, no matter how much [we personify her](/gobigemma/2016/10/20/let-me-tell-you-about-this-girl-i-know). She is not as important as we think she is. When it came down to it, that had been obvious.
 
-Back in Alaska, when we first met Tessa from [_The Bus and Us_](https://www.instagram.com/thebusandus/?hl=en) - who were already done with their own trip to Argentina in their Bus - she gave me parting words: _You have no idea how much you will come to love your Bus._ What she didn’t know was that we had [already loved her for years](http://gobigemma.de/2016/09/08/why-so-many-emmas/), already had a [common history](http://gobigemma.de/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california/) that solidified our bond. But she was correct - that love had only grown since we had left the North. It broke my heart to drive in the opposite direction, into the dark Belizean night, away from the friend that I felt like we had betrayed, had left alone to fend for her own fate.
+Back in Alaska, when we first met Tessa from [_The Bus and Us_](https://www.instagram.com/thebusandus/?hl=en) - who were already done with their own trip to Argentina in their Bus - she gave me parting words: _You have no idea how much you will come to love your Bus._ What she didn’t know was that we had [already loved her for years](/gobigemma/2016/09/08/why-so-many-emmas), already had a [common history](/gobigemma/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california) that solidified our bond. But she was correct - that love had only grown since we had left the North. It broke my heart to drive in the opposite direction, into the dark Belizean night, away from the friend that I felt like we had betrayed, had left alone to fend for her own fate.
 
 What a Tuesday, and it was only 4 AM.
 
@@ -189,4 +189,4 @@ _Would we ever see Big Emma again?_ It was a question none of us could answer.
 
 * * *
 
-_This post is part one of a four-piece series. Check out the other parts here: [Part 2: Recovery](http://gobigemma.com/2018/04/20/the-consequences-of-a-flash-flood-part-2-recovery/), [Part 3: Here I Am](http://gobigemma.com/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am/), and [Part 4: Rest](http://gobigemma.com/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest/)._
+_This post is part one of a four-piece series. Check out the other parts here: [Part 2: Recovery](/gobigemma/2018/04/20/the-consequences-of-a-flash-flood-part-2-recovery), [Part 3: Here I Am](/gobigemma/2018/04/26/the-consequences-of-a-flash-flood-part-3-here-i-am), and [Part 4: Rest](/gobigemma/2018/05/03/the-consequences-of-a-flash-flood-part-4-rest)._

@@ -20,7 +20,7 @@ Just to clarify: My name is simply Emma. Our Bus is named Big Emma. She's the la
 
 We did not name the Bus after me. That would just be a little weird, don't you think? And more than a little confusing. No, actually Big Emma got her name through pure, beautiful coincidence.
 
-My parents are super nice, and decided to surprise Sven and I with the Bus back in 2011 when we were looking for a [vehicle to take us and two friends to California and back](http://www.gobigemma.com/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california/). They figured, what could be a more perfect roadtripper than a VW Campervan? My dad found the Bus online and flew from Illinois to Maine to inspect it, buy it, and drive it back.
+My parents are super nice, and decided to surprise Sven and I with the Bus back in 2011 when we were looking for a [vehicle to take us and two friends to California and back](/gobigemma/2016/12/29/the-biggest-breakdown-in-history-in-the-redwoods-of-northern-california). They figured, what could be a more perfect roadtripper than a VW Campervan? My dad found the Bus online and flew from Illinois to Maine to inspect it, buy it, and drive it back.
 
 As he was checking out the car, he noticed "Emma" written on the back bumper, decreed so by its previous owners. Way too much of a coincidence. He bought it, drove it home (he only broke down twice), and it was the surprise of a lifetime. We soon noticed the difficulty - as well as the beautiful irony - of this, and decided the best solution was to add an adjective in order to differentiate between the two. Big Emma lost that round of Rock, Paper, Scissors, and so she got her name.
 

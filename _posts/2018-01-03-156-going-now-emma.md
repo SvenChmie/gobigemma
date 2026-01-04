@@ -7,7 +7,7 @@ categories:
 coverImage: "Big-Emma-is-really-Dirty.jpg"
 ---
 
-After the [tractor](http://gobigemma.de/2018/01/01/155-thank-tractor/) got me out of the [river](http://gobigemma.de/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), they took me to this place. Emma said they would clean all of the mud out of me and try to get my engine to run. I just said, _Thanks Emma._
+After the [tractor](/gobigemma/2018/01/01/155-thank-tractor) got me out of the [river](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), they took me to this place. Emma said they would clean all of the mud out of me and try to get my engine to run. I just said, _Thanks Emma._
 
 _I’m sorry about all of your scratches_, she said. _And your broken window. We’ll fix you, you know._
 

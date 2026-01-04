@@ -13,7 +13,7 @@ coverImage: "Opening-the-Container-cut.jpg"
 
 ### After getting caught in a flash flood, we decided to put our Panamerican adventures on hold. Shipping Big Emma back to the US forced us not only to deal with cleaning up the situation, but also with the larger implications of the events that had taken over: after a year and a half, all three of us were going home.
 
-_This post is part four of a four-piece series. Check out the others here: [Part 1: Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), [Part 2: Recovery](http://gobigemma.com/2018/04/01/the-consequences…-part-2-recovery/), and [Part 3: Here I Am](http://gobigemma.com/2018/04/01/the-consequences…part-3-here-i-am/)._
+_This post is part four of a four-piece series. Check out the others here: [Part 1: Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), [Part 2: Recovery](/gobigemma/2018/04/01/the-consequences…-part-2-recovery), and [Part 3: Here I Am](/gobigemma/2018/04/01/the-consequences…part-3-here-i-am)._
 
 It was Friday, and my brain was tired.
 
@@ -21,7 +21,7 @@ I looked at my messy paper full of scribbled notes and asked again: _So, to get 
 
 I listened while our broker listed off other alternatives that I already knew were moot. We couldn’t ship any later, not if we didn’t want to overstay Big Emma’s Belizean temporary import permit, which ran out on the coming Friday. I pretended to listen before saying, _Okay, I think we’ll do that and take the boat that leaves on Sunday. The car legally leaves the country as soon as the container is sealed, correct?_ The Skype window continued to pulse in optimistic baby blue. Our broker affirmed my question.
 
-[Putting Big Emma in a container](http://gobigemma.com/2018/01/15/161-learning-teleport/) on the exact day she had to exit the country? Wow, we were cutting this close indeed.
+[Putting Big Emma in a container](/gobigemma/2018/01/15/161-learning-teleport) on the exact day she had to exit the country? Wow, we were cutting this close indeed.
 
 But what other choice did we have? We had heard that while it might be easy in Belize to extend personal visas, car import permits could be a whole different story. Should we gamble trying to get it extended to postpone our shipping date? That was only the first in the long line of _Ifs_ and other question words that soaked up my brain’s thinking juices. What if we tried to get an extension and failed, or they wanted to inspect the car? I could just imagine the conversation: _So, you are trying to extend your permit, but your car doesn’t run anymore and looks like total shit. Can you explain this?_ Yeah, that would go over well.
 
@@ -40,11 +40,11 @@ _This document was supposed to be sent yesterday? Oh yeah, there is one more pap
 
 Over and over, unforeseen variables would appear with a level of unprofessionalism we were not expecting of people who dealt with international business affairs. And this was not just a problem on the Belizean side - the process felt the same for the office we were in contact with over in Miami, where we also were required to hire a broker. Our path didn’t just make us jump through hoops - we were navigating a bureaucratic obstacle course.
 
-I stared up at the ceiling fan in our hotel room, watching as it turned circles. _Whoosh. Whoosh_. Renting the room with just the fan was cheaper than with the air-conditioner that now hung abandoned on the wall. I needed more information from our broker in Florida before I could continue filling out the paperwork he had sent us. But it was Sunday, and there was no one in his office. [The mechanic’s shop that we had spent so much time in, cleaning Big Emma and our belongings and repairing what we could](http://gobigemma.com/2018/04/01/the-consequences…part-3-here-i-am/), was closed today too. _Whoosh_. That meant no further progress until tomorrow. _Whoosh_.
+I stared up at the ceiling fan in our hotel room, watching as it turned circles. _Whoosh. Whoosh_. Renting the room with just the fan was cheaper than with the air-conditioner that now hung abandoned on the wall. I needed more information from our broker in Florida before I could continue filling out the paperwork he had sent us. But it was Sunday, and there was no one in his office. [The mechanic’s shop that we had spent so much time in, cleaning Big Emma and our belongings and repairing what we could](/gobigemma/2018/04/01/the-consequences…part-3-here-i-am), was closed today too. _Whoosh_. That meant no further progress until tomorrow. _Whoosh_.
 
 We had been so busy - every second had been filled with cleaning mud, testing connections, removing seats, sorting objects, and doing laundry that our brains had long turned to mush. We had to get it all done, and get it done fast - both to keep our stuff from rotting away and to make our shipping date in one week’s time. We were exhausted, but we couldn’t stop. Now, though, we were caught in the limbo of a Sunday afternoon.
 
-I had a long list of stuff to do and I couldn’t do any of it right now. I couldn’t do much else either though - we had our computers, but I was unmotivated and tired of staring at the screen. [We didn’t have any books anymore](http://gobigemma.com/2018/04/01/the-consequences…part-3-here-i-am/). Frustration, worry, and boredom do not make for a comforting cocktail.
+I had a long list of stuff to do and I couldn’t do any of it right now. I couldn’t do much else either though - we had our computers, but I was unmotivated and tired of staring at the screen. [We didn’t have any books anymore](/gobigemma/2018/04/01/the-consequences…part-3-here-i-am). Frustration, worry, and boredom do not make for a comforting cocktail.
 
 ### Beyond the shadow of a doubt
 
@@ -54,7 +54,7 @@ But it was right to repair her at home. Some instinctual part of me knew this. A
 
 ![]({{ site.baseurl }}/assets/images/On-the-Tow-fullsize-1024x683.jpg)
 
-Ever since I felt the water rising inside Big Emma, I knew - on some level - what we would do. The moment we opened the hatch - [our first encounter with Big Emma after the flood when she was still laying on her side on the edge of the Sibun river](http://gobigemma.com/2018/03/31/the-consequences…-part-2-recovery/) - I knew it again. We wouldn’t just continue our trip after this, pretending nothing had happened. All of our beautiful wood interior was shot. Who knew what was wrong or damaged with our engine and electrical system? And then there were our other possessions, our life-on-the-road supplies. While this was of the least concern to me, we still had to replace significant portions of it. Even if we could save Big Emma, there would be mountains of work before we could [continue our travels](http://gobigemma.com/2016/06/05/the-big-plan/).
+Ever since I felt the water rising inside Big Emma, I knew - on some level - what we would do. The moment we opened the hatch - [our first encounter with Big Emma after the flood when she was still laying on her side on the edge of the Sibun river](/gobigemma/2018/03/31/the-consequences…-part-2-recovery) - I knew it again. We wouldn’t just continue our trip after this, pretending nothing had happened. All of our beautiful wood interior was shot. Who knew what was wrong or damaged with our engine and electrical system? And then there were our other possessions, our life-on-the-road supplies. While this was of the least concern to me, we still had to replace significant portions of it. Even if we could save Big Emma, there would be mountains of work before we could [continue our travels](/gobigemma/2016/06/05/the-big-plan).
 
 Luckily, we _had_ been able to save her. But that made that workload-mountain an even bigger reality.
 
@@ -64,17 +64,17 @@ It was easy enough to believe that anyone who saw our Bus in those first 24 hour
 
 While I was relieved that we wouldn’t be burying her, that didn’t actually change much about our current situation. We were looking at months of work. I knew us, knew our Bus-repair-mentality, and I knew that we would never just whip up new cabinets in a jiffy in order to set out again as soon as possible. Big Emma deserved more, and we would give it to her. We would be replacing parts, and we would need all sorts of tools and materials.
 
-![]({{ site.baseurl }}/assets/images/Sunshine-Raintree-300x200.jpg)Did we really want to do that here in Belize, paying every night in the meantime for a hotel? Carlos - our savior, a fountain of generosity - would probably let us fix it at his shop, and he had even offered that we could stay there, too. But did we want to live off of his generosity for that long? Or, even if we got to [Mexico](http://gobigemma.com/2017/03/16/hola-mexico-turning-headlights/) - a country that is significantly cheaper, has better access to VW parts, and has much more flexible visa regulations - were we ready to take on a project like this here, unsupported in Central America? Could we even freelance and continue supporting ourselves, if we were already time-crunching to get Big Emma back into shape as quickly as possible?
+![]({{ site.baseurl }}/assets/images/Sunshine-Raintree-300x200.jpg)Did we really want to do that here in Belize, paying every night in the meantime for a hotel? Carlos - our savior, a fountain of generosity - would probably let us fix it at his shop, and he had even offered that we could stay there, too. But did we want to live off of his generosity for that long? Or, even if we got to [Mexico](/gobigemma/2017/03/16/hola-mexico-turning-headlights) - a country that is significantly cheaper, has better access to VW parts, and has much more flexible visa regulations - were we ready to take on a project like this here, unsupported in Central America? Could we even freelance and continue supporting ourselves, if we were already time-crunching to get Big Emma back into shape as quickly as possible?
 
 Sven and I both knew the answer. No. We knew us and we knew how we worked. If we shipped her back home, we could work on her in peace. We could offer her the attention, time, and quality of repairs that she deserved.
 
-Of the [two factors that had motivated us to begin this trip in the first place - our love for Big Emma, and our passion for travel, culture, and languages](http://gobigemma.com/2016/10/13/752/) - it had always been clear which one of those two was our first priority. And that one would not work without the steadfastness of the other.
+Of the [two factors that had motivated us to begin this trip in the first place - our love for Big Emma, and our passion for travel, culture, and languages](/gobigemma/2016/10/13/752) - it had always been clear which one of those two was our first priority. And that one would not work without the steadfastness of the other.
 
 ### Lessons in looking on the bright side
 
-_Of course we could fix her here,_ Sven said, _but we both know it is the smart choice to go home. And anyways, I think it will do us good_. _Like, personally._ He was right, of course. Flash floods shake you up a bit, and we had been longing for more contact to friends and family from home even before [Caro and Konsti had arrived](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/). Repairing Big Emma in Illinois meant spending that time around loved ones. And, of course, it meant that we would have [Andrew’s](http://gobigemma.com/2017/08/09/121-friend-andrew/) help fixing her up. He loved the Bus as much as we did.
+_Of course we could fix her here,_ Sven said, _but we both know it is the smart choice to go home. And anyways, I think it will do us good_. _Like, personally._ He was right, of course. Flash floods shake you up a bit, and we had been longing for more contact to friends and family from home even before [Caro and Konsti had arrived](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided). Repairing Big Emma in Illinois meant spending that time around loved ones. And, of course, it meant that we would have [Andrew’s](/gobigemma/2017/08/09/121-friend-andrew) help fixing her up. He loved the Bus as much as we did.
 
-_But it_ would _be cheaper here,_ I said, watching the fan _whoosh_ past my field of vision. _Not if we have to order all sorts of parts,_ Sven replied. _We don’t want to get Chinese knockoffs, we need [the real VW stuff](http://gobigemma.com/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico/). Shipping them from other places alone will probably be more expensive_. I sighed, and conceded again. _You’re right, Sven._
+_But it_ would _be cheaper here,_ I said, watching the fan _whoosh_ past my field of vision. _Not if we have to order all sorts of parts,_ Sven replied. _We don’t want to get Chinese knockoffs, we need [the real VW stuff](/gobigemma/2017/08/10/alternative-alternator-solutions-sourcing-parts-in-mexico). Shipping them from other places alone will probably be more expensive_. I sighed, and conceded again. _You’re right, Sven._
 
 Caro and Konsti had left yesterday, and that pang of absent friends had already begun. They were continuing their trip into Guatemala. After all, the plan had been to travel with them in that direction before dropping them off at the airport in Guatemala City. Not only did they need to catch their flight, I could understand if they were tired of shoveling mud on our behalf.
 
@@ -114,7 +114,7 @@ _We could just drive over to the harbor and wait there? Maybe put some pressure 
 
 _Yeah. Let’s go. It’s better than waiting here._
 
-So we waited at the harbor, having procured an over-the-phone promise that we would be meeting our broker there. At 4 PM, he finally showed up. I rushed to cancel Big Emma’s visa while Sven drove her into the container, the whole process exploding in a flurry of stuff that had to be done immediately. For the second time since [this story began](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/), I realized I had forgotten to say goodbye to Big Emma. Although I was more confident this time that she wouldn’t be lost to a watery grave, I continued to think of her safety.
+So we waited at the harbor, having procured an over-the-phone promise that we would be meeting our broker there. At 4 PM, he finally showed up. I rushed to cancel Big Emma’s visa while Sven drove her into the container, the whole process exploding in a flurry of stuff that had to be done immediately. For the second time since [this story began](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided), I realized I had forgotten to say goodbye to Big Emma. Although I was more confident this time that she wouldn’t be lost to a watery grave, I continued to think of her safety.
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/images/Teleporting-1024x510.jpg" alt="">
@@ -138,7 +138,7 @@ Besides playing telephone with our broker and continuing to sort things out on t
   <figcaption>For a year and a half, the three of us have barely been apart; but for the time being, it was time to go our separate ways.</figcaption>
 </figure>
 
-We took the boat back in time for me to catch a ride to the airport. Big Emma was scheduled to arrive in Miami tomorrow. I would fly to Florida today and spend the night a family friends’ house. Sven would travel to [Cancún](http://gobigemma.com/2017/11/23/hidden-in-the-jungle-real-life-on-the-riviera-maya/) and fly to Belgium from there - it was the cheapest flight to Europe we could find.
+We took the boat back in time for me to catch a ride to the airport. Big Emma was scheduled to arrive in Miami tomorrow. I would fly to Florida today and spend the night a family friends’ house. Sven would travel to [Cancún](/gobigemma/2017/11/23/hidden-in-the-jungle-real-life-on-the-riviera-maya) and fly to Belgium from there - it was the cheapest flight to Europe we could find.
 
 Our car dropped Sven off at the bus station before bringing me to the airport. I suddenly realized: _In the last year and a half, this is the first time Sven, Big Emma, and I have been in three different locations._ There was something eerie about that thought. Along with it came so many more thoughts that I had been too tired to process.
 
@@ -161,4 +161,4 @@ Big Emma’s broken lights didn’t hide that glint. _I never doubted it_, she s
 
 * * *
 
-Want to catch up on the rest of the story? Check out [Part One:](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/) _[Blindsided](http://gobigemma.com/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided/),_ [Part Two: _Recovery_](http://gobigemma.com/2018/03/31/the-consequences…-part-2-recovery/), and [Part Three: _Here I Am_](http://gobigemma.com/2018/04/01/the-consequences…part-3-here-i-am/).
+Want to catch up on the rest of the story? Check out [Part One:](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided) _[Blindsided](/gobigemma/2017/12/21/the-consequences-of-a-flash-flood-part-1-blindsided),_ [Part Two: _Recovery_](/gobigemma/2018/03/31/the-consequences…-part-2-recovery), and [Part Three: _Here I Am_](/gobigemma/2018/04/01/the-consequences…part-3-here-i-am).
