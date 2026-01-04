@@ -54,12 +54,39 @@ a:hover {
   padding: 0 20px;
 }
 
+.welcome-section h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  color: rgb(96, 101, 105);
+  font-weight: bold;
+}
+
 .welcome-section p {
   font-size: 16px;
   line-height: 1.8;
   color: rgb(96, 101, 105);
   max-width: 700px;
   margin: 0 auto;
+}
+
+.page-header {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid rgba(96, 101, 105, 0.2);
+}
+
+.category-nav {
+  margin-top: 1.5em;
+  font-size: 14px;
+}
+
+.category-nav a {
+  color: rgb(229, 78, 83);
+  text-decoration: none;
+}
+
+.category-nav a:hover {
+  text-decoration: underline;
 }
 
 /* Post Cards */

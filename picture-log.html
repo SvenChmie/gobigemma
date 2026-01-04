@@ -1,0 +1,48 @@
+---
+layout: default
+title: Picture Log
+permalink: /picture-log/
+---
+<div class="index-container">
+  <header class="index-header">
+    <img src="{{ site.baseurl }}/assets/images/Big_Emma_Logo_2_web_retina.jpg" alt="GoBigEmma" class="logo-image">
+  </header>
+  
+  <section class="welcome-section">
+    <nav class="page-header">
+      <a href="{{ '/' | relative_url }}" class="back-link">← Back to Home</a>
+    </nav>
+    <h1>Picture Log</h1>
+    <p>A collection of photos from our journey across the Americas.</p>
+    <nav class="category-nav">
+      <a href="{{ '/' | relative_url }}">Main Posts</a> | 
+      <a href="{{ site.baseurl }}/big-emma-diaries/">Big Emma Diaries</a>
+    </nav>
+  </section>
+  
+  <section class="posts-list">
+    {% for post in site.posts %}
+      {% if post.categories contains "picture-log" %}
+        <a href="{{ post.url | relative_url }}" class="post-card">
+          <div class="post-card-image">
+            {% if post.coverImage %}
+              <img src="{{ site.baseurl }}/assets/images/{{ post.coverImage }}" alt="{{ post.title }}">
+            {% else %}
+              <div class="post-card-placeholder"></div>
+            {% endif %}
+          </div>
+          <div class="post-card-content">
+            <h2 class="post-card-title">{{ post.title }}</h2>
+            <p class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            {% if post.excerpt %}
+              <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            {% else %}
+              <p class="post-card-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
+            {% endif %}
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </section>
+</div>
+

@@ -9,11 +9,16 @@ title: GoBigEmma
   
   <section class="welcome-section">
     <p>Welcome to the adventures of a vintage VW bus and her companions across the Americas! We wrote these posts on our Pan-America trip from Alaska to Belize between 2016 and 2018. Enjoy!</p>
+    <nav class="category-nav">
+      <a href="{{ site.baseurl }}/picture-log/">Picture Log</a> | 
+      <a href="{{ site.baseurl }}/big-emma-diaries/">Big Emma Diaries</a>
+    </nav>
   </section>
   
   <section class="posts-list">
     {% for post in site.posts %}
-      <a href="{{ post.url | relative_url }}" class="post-card">
+      {% unless post.categories contains "picture-log" or post.categories contains "big-emma-diaries" %}
+        <a href="{{ post.url | relative_url }}" class="post-card">
         <div class="post-card-image">
           {% if post.coverImage %}
             <img src="{{ site.baseurl }}/assets/images/{{ post.coverImage }}" alt="{{ post.title }}">
@@ -31,6 +36,7 @@ title: GoBigEmma
           {% endif %}
         </div>
       </a>
+      {% endunless %}
     {% endfor %}
   </section>
 </div>
