@@ -318,6 +318,41 @@ article h1 {
   }
 }
 
+/* Footer Styles */
+.site-footer {
+  margin-top: 4em;
+  padding: 2em 20px;
+  border-top: 1px solid rgba(96, 101, 105, 0.2);
+  background-color: #f9f9f9;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 13px;
+  color: rgb(166, 166, 166);
+}
+
+.footer-content p {
+  margin: 0.5em 0;
+}
+
+.footer-content a {
+  color: rgb(229, 78, 83);
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .site-footer {
+    padding: 1.5em 15px;
+  }
+}
+
 .post-content ul,
 .post-content ol {
   margin-left: 1.5em;
