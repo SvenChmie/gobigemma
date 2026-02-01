@@ -284,15 +284,89 @@ article h1 {
   display: inline-block;
   padding: 0.2em 0.6em;
   font-size: 12px;
-  color: rgb(229, 78, 83);
-  background-color: rgba(229, 78, 83, 0.1);
   border-radius: 4px;
   text-decoration: none;
+  /* Fallback for any category not in the list below */
+  color: #b53a32;
+  background-color: rgba(181, 58, 50, 0.12);
 }
 
 .post-category-label:hover {
-  background-color: rgba(229, 78, 83, 0.2);
   text-decoration: none;
+  background-color: rgba(181, 58, 50, 0.22);
+}
+
+/* Category-specific colours (same tone, distinctly recognisable) */
+.post-category-picture-log {
+  color: #b53a32;
+  background-color: rgba(181, 58, 50, 0.12);
+}
+.post-category-picture-log:hover {
+  background-color: rgba(181, 58, 50, 0.22);
+}
+
+.post-category-big-emma-diaries {
+  color: #9a6b0a;
+  background-color: rgba(154, 107, 10, 0.12);
+}
+.post-category-big-emma-diaries:hover {
+  background-color: rgba(154, 107, 10, 0.22);
+}
+
+.post-category-travel {
+  color: #0d9488;
+  background-color: rgba(13, 148, 136, 0.12);
+}
+.post-category-travel:hover {
+  background-color: rgba(13, 148, 136, 0.22);
+}
+
+.post-category-writing {
+  color: #1d4ed8;
+  background-color: rgba(29, 78, 216, 0.12);
+}
+.post-category-writing:hover {
+  background-color: rgba(29, 78, 216, 0.22);
+}
+
+.post-category-vanlife {
+  color: #c2410c;
+  background-color: rgba(194, 65, 12, 0.12);
+}
+.post-category-vanlife:hover {
+  background-color: rgba(194, 65, 12, 0.22);
+}
+
+.post-category-language-and-culture {
+  color: #6d28d9;
+  background-color: rgba(109, 40, 217, 0.12);
+}
+.post-category-language-and-culture:hover {
+  background-color: rgba(109, 40, 217, 0.22);
+}
+
+.post-category-popular-questions {
+  color: #475569;
+  background-color: rgba(71, 85, 105, 0.12);
+}
+.post-category-popular-questions:hover {
+  background-color: rgba(71, 85, 105, 0.22);
+}
+
+.post-category-the-bus {
+  color: #92400e;
+  background-color: rgba(146, 64, 14, 0.12);
+}
+.post-category-the-bus:hover {
+  background-color: rgba(146, 64, 14, 0.22);
+}
+
+.post-category-guest-posts {
+  color: #047857;
+  background-color: rgba(4, 120, 87, 0.12);
+}
+.post-category-guest-posts:hover {
+  background-color: rgba(4, 120, 87, 0.22);
 }
 
 .post-content {
